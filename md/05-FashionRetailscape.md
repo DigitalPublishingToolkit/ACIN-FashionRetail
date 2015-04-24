@@ -31,13 +31,13 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 # The Fashion Retailscape: Innovations in Shopping
     
 
-# Harry van Vliet
-# Anne Moes
-# Bernadette Schrandt
+### Harry van Vliet
+### Anne Moes
+### Bernadette Schrandt
 
 
 
-## Colophon
+# Colophon
 
 Harry van Vliet, Anne Moes & Bernadette Schrandt
 
@@ -77,7 +77,7 @@ Amsterdam, May 2015
 
 [3 logo's invoegen net als bij VKboekje]
 
-## Contents
+# Contents
 
 Introduction: The Fashion Retailscape
 
@@ -91,7 +91,7 @@ Cross-Media and Retail
 
 Conclusion
 
-##Acknowledgements
+# Acknowledgements
 
 
 We would like to thank our fellow researchers in the cross-media
@@ -111,7 +111,7 @@ store into a ‘pop-up fieldlab’.
 
 
 
-## Introduction: The Fashion Retailscape
+# Introduction: The Fashion Retailscape
 
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
@@ -151,9 +151,9 @@ and digital strategies to engage with (potential) customers. Four main
 insights and challenges for the near future were clearly highlighted by
 these interviews.
 
-## Looking Ahead
+# Looking Ahead
 
-### Shopping in 2020
+## Shopping in 2020
 
 The year 2020 is the new 2000. When we drew back the curtains on January
 the first 2000, we discovered that the world had changed completely. For
@@ -394,7 +394,7 @@ discount on a bracelet). Although actual sales conversion rates are not
 known, Alex & Ani therefore seem to be enthusiastic about the
 possibilities of iBeacon for their company.
 
-### Knowing Your Customer in 2020
+## Knowing Your Customer in 2020
 
 A common way of still being able to obtain a clear picture of
 (uncertain) future developments is to draft scenarios. A very common
@@ -486,7 +486,7 @@ learn from their customers by analysing thoughts and statements.
 
 Figure 1: Future shopping scenarios
 
-### Online in the Past, Present and Future
+## Online in the Past, Present and Future
 
 It is undeniable that online developments are playing a major role in
 the future scenarios that have been outlined. What have those
@@ -666,7 +666,7 @@ a result of this research. This website allows retailers to get to know
 more about fashion bloggers as a marketing communication tool.
 (contribution by Maaike Driessen)
 
-### The Future in 2015
+## The Future in 2015
 
 What is missing among all of these (extrapolated) numbers is a more
 qualitative picture of the changes that will take place: What will the
@@ -740,7 +740,7 @@ a particular development for each domain in more detail.
 ![Table 1: Classification of innovations in fashion retail](images/table1.png)
 Table 1: Classification of innovations in fashion retail
 
-### Insights and Challenges Amsterdam Fashion Retailers: Online Presence
+## Insights and Challenges Amsterdam Fashion Retailers: Online Presence
 
 Most of the interviewed retailers do have a – still simple – webshop.
 Some because they want to make sure that they have an online presence,
@@ -774,9 +774,9 @@ this challenge: if people look for certain brands or fashion items, they
 want to make sure they are found quickly. But how to do that, remains a
 big task, especially when marketing budgets are limited.
 
-## Innovations on all Fronts
+# Innovations on all Fronts
 
-### Service Innovations
+## Service Innovations
 
 The service domain concerns the added value that a service or product
 provides for the customer. A great deal is expected of personalisation,
@@ -961,7 +961,7 @@ temples, with live performers, dance, music and of course oriental
 products, were also held frequently." (Nava, 1997, pp. 66-67; also see
 Stobart, 2008).
 
-### Technological Innovations
+## Technological Innovations
 
 The technology domain in the STOF model concerns the technology that is
 required to produce a new product or deliver a new service. A multitude
@@ -1192,7 +1192,7 @@ use their mobile phone to complete a certain task (4% to 15%) and it is
 now even more common to give customers a full refund for returned goods
 ordered online than it already was (increase from 90% to 98%).
 
-### Organisational Innovations
+## Organisational Innovations
 
 The organisation domain in the STOF model concerns innovations in
 collaboration with other parties in the value chain and the organisation
@@ -1338,7 +1338,7 @@ order is ready for pick-up. Of course, some ID is required, such as a
 driver’s license. Items will be reserved for 14 days. If not picked up,
 they will be sent back to the warehouse.
 
-### Financial Innovations
+## Financial Innovations
 
 The financial domain concerns the way in which incomes are generated
 from a specific service or product, and the way in which risks,
@@ -1431,7 +1431,7 @@ LibraryThing). It is expected that 'sharing' will play a less
 significant role in fashion because consumers say they are less willing
 to share clothes (Shopping2020, 2014a).[^10]
 
-### Insights and Challenges Amsterdam Fashion Retailers: Social Media
+## Insights and Challenges Amsterdam Fashion Retailers: Social Media
 
 Almost all interviewed fashion retailers say that social media are an
 important communication channel for their business. Reasons to use these
@@ -1473,9 +1473,9 @@ likes will actually buy something of your brand? Recommend your brand?
 Or discourage others to buy something of your brand? The interviewed
 retailers are whistling in the dark.
 
-##The Shopper
+# The Shopper
 
-### The Consumer & the Shopper
+## The Consumer & the Shopper
 
 All of the innovations that have been mentioned are ultimately aimed at
 adding value for the consumer. However, not all consumers are the same.
@@ -1610,7 +1610,7 @@ axes produces a profile of four types of shoppers (Figure 2):
 
 Figure 2: Four types of shoppers (GfK, 2013)
 
-### Alternative Views on the Shopper
+## Alternative Views on the Shopper
 
 The descriptions of the different shoppers remain an eclectic mishmash
 of psycho-demographic characteristics. There are at least two distinct
@@ -1750,7 +1750,7 @@ differ from the ‘old’ term of 'service encounter' as 'a period of time
 during which a consumer directly interacts with a service' (Clarke &
 Schmidt, 1995).
 
-### Insights and Challenges Amsterdam Fashion Retailers: Personalisation
+## Insights and Challenges Amsterdam Fashion Retailers: Personalisation
 
 A major issue that is mentioned during the interviews is the notion of
 personalisation, in many different forms and expressions. Fashion
@@ -1820,9 +1820,9 @@ an issue in the upcoming years, as it is very hard to track the same
 customers both physically and digitally, especially when they do not
 possess a membership card.
 
-## Cross-Media and Retail
+# Cross-Media and Retail
 
-### Channels, Channels and More Channels
+## Channels, Channels and More Channels
 
 The question about the effect of (technological) developments in the
 near future and the question about who will make use of them, why and in
@@ -1981,7 +1981,7 @@ and make you totally forget that you’re actually in a retail store.
 Moreover, it’s a total experience that should create a trustworthy
 relationship with Burberry.
 
-### The Physical Store in a Cross-Media Context
+## The Physical Store in a Cross-Media Context
 
 The latter touches on a prominent concern in the retail sector: the role
 of the physical store. Times are difficult for the physical store.
@@ -2147,7 +2147,7 @@ customers fled en masse to competitor Target (from where Johnson was
 once headhunted by Apple!) on the other side of the shopping centre.
 Exit Apple big shot (Van Heusden, 2013).
 
-### Integrated Framework: Servicescapes
+## Integrated Framework: Servicescapes
 
 In the above description of the (future) retail landscape we have seen a
 lot of sub-problems and partial solutions and a number of mantras such
@@ -2373,7 +2373,7 @@ analysis of experiencescapes contribute to a more refined *value
 proposition* for new services and products when developing business
 models?
 
-### Insights and Challenges Amsterdam Fashion Retailers: Experiences
+## Insights and Challenges Amsterdam Fashion Retailers: Experiences
 
 A fourth insight revealed in the interviews with Amsterdam fashion
 retailers is the recurring topic of experience. With regard to the role
@@ -2410,7 +2410,7 @@ even believes that interactive mirrors can take over – to some extent –
 the activities of a sales assistant. Which seems to contradict one of
 the strengths of the physical store: personal advice from real people.
 
-## Conclusion
+# Conclusion
 
 An interactive full-length mirror is just one of the many innovations
 that are currently on offer in the fashion retail sector that will
@@ -2495,7 +2495,7 @@ expansions, forms a promising framework for analysing service encounters
 and helping retailers to find answers to pressing questions on renewal
 of their business.
 
-## End notes {.notes}
+# End notes {.notes}
 
 [^1]: The following categories have been included in the consumer
     spending for this: Food/Near-food/Health, Home & Garden, Fashion:
@@ -2598,7 +2598,7 @@ of their business.
     identified five scapes, which he called financescapes, mediascapes,
     technoscapes, ethnoscapes, and ideoscapes.
 
-##Reference List {.references}
+# Reference List {.references}
 
 Appadurai, A. 1990. Disjuncture and difference in global cultural
 economy. *Public Culture*, 2, 2, spring, pp. 171-191.
@@ -2913,7 +2913,7 @@ Williams, G. 2014. E-commerce is history. *Wired*, March, pp. 110-117.
 Wolters, M. 2013. *Hoe shopt uw klant in 2020?* *GfK expertonderzoek
 shopping 2020*. GfK.
 
-## [BACK COVER]
+# [BACK COVER]
 
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
@@ -2934,7 +2934,7 @@ In *The Fashion Retailscape* developments in (fashion) retail are
 critically analysed and enriched with insights from retailers in
 Amsterdam.
 
-### [About the Authors]
+## [About the Authors]
 Harry van Vliet is head of the Cross-media research group at the
 Amsterdam University of Applied Sciences. This research group examines
 the impact of new (technological) developments on business innovation
