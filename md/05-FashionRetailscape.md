@@ -26,7 +26,7 @@ Keywords: fashion, retailscape, developments, fashion, retail, stores, retailers
 Rights: This publication is licensed under Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
----
+...
 
 # The Fashion Retailscape: Innovations in Shopping
     
