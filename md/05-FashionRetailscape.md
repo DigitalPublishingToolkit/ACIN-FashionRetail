@@ -28,16 +28,16 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
 ---
 
-#The Fashion Retailscape: Innovations in Shopping
+# The Fashion Retailscape: Innovations in Shopping
     
 
-#Harry van Vliet
-#Anne Moes
-#Bernadette Schrandt
+# Harry van Vliet
+# Anne Moes
+# Bernadette Schrandt
 
 
 
-##Colophon
+## Colophon
 
 Harry van Vliet, Anne Moes & Bernadette Schrandt
 
@@ -77,7 +77,7 @@ Amsterdam, May 2015
 
 [3 logo's invoegen net als bij VKboekje]
 
-##Contents
+## Contents
 
 Introduction: The Fashion Retailscape
 
@@ -111,7 +111,7 @@ store into a ‘pop-up fieldlab’.
 
 
 
-##Introduction: The Fashion Retailscape
+## Introduction: The Fashion Retailscape
 
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
@@ -151,7 +151,7 @@ and digital strategies to engage with (potential) customers. Four main
 insights and challenges for the near future were clearly highlighted by
 these interviews.
 
-##Looking Ahead
+## Looking Ahead
 
 ### Shopping in 2020
 
@@ -774,7 +774,7 @@ this challenge: if people look for certain brands or fashion items, they
 want to make sure they are found quickly. But how to do that, remains a
 big task, especially when marketing budgets are limited.
 
-##Innovations on all Fronts
+## Innovations on all Fronts
 
 ### Service Innovations
 
@@ -1820,7 +1820,7 @@ an issue in the upcoming years, as it is very hard to track the same
 customers both physically and digitally, especially when they do not
 possess a membership card.
 
-##Cross-Media and Retail
+## Cross-Media and Retail
 
 ### Channels, Channels and More Channels
 
@@ -2410,7 +2410,7 @@ even believes that interactive mirrors can take over – to some extent –
 the activities of a sales assistant. Which seems to contradict one of
 the strengths of the physical store: personal advice from real people.
 
-##Conclusion
+## Conclusion
 
 An interactive full-length mirror is just one of the many innovations
 that are currently on offer in the fashion retail sector that will
@@ -2495,7 +2495,7 @@ expansions, forms a promising framework for analysing service encounters
 and helping retailers to find answers to pressing questions on renewal
 of their business.
 
-##End notes {.notes}
+## End notes {.notes}
 
 [^1]: The following categories have been included in the consumer
     spending for this: Food/Near-food/Health, Home & Garden, Fashion:
@@ -2913,7 +2913,7 @@ Williams, G. 2014. E-commerce is history. *Wired*, March, pp. 110-117.
 Wolters, M. 2013. *Hoe shopt uw klant in 2020?* *GfK expertonderzoek
 shopping 2020*. GfK.
 
-##[BACK COVER]
+## [BACK COVER]
 
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
@@ -2934,7 +2934,7 @@ In *The Fashion Retailscape* developments in (fashion) retail are
 critically analysed and enriched with insights from retailers in
 Amsterdam.
 
-###[About the Authors]
+### [About the Authors]
 Harry van Vliet is head of the Cross-media research group at the
 Amsterdam University of Applied Sciences. This research group examines
 the impact of new (technological) developments on business innovation
