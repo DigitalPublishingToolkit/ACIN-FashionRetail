@@ -42,6 +42,8 @@ Harry van Vliet, Anne Moes & Bernadette Schrandt
 
 The Fashion Retail Scape: Innovations in Shopping
 
+**Production** Rose Leighton
+
 **Design** UNDOG, Amsterdam
 
 **EPUB development** Gottfried Haider
@@ -50,14 +52,14 @@ The Fashion Retail Scape: Innovations in Shopping
 
 **Printer** [name]
 
-**Publisher** Amsterdam Creative Industries Publishing, Rose Leighton
+**Publisher** Amsterdam Creative Industries Publishing
 
 **Supported by** Amsterdam University of Applied Sciences (Hogeschool van
 Amsterdam), PublishingLab
 
 **Cover image** [name]
 
-**Photograpy** [name]
+**Photography** [name]
 
 **Contact** Amsterdam Creative Industries Publishing,
 www.amsterdamcreativeindustries.com
@@ -74,7 +76,7 @@ Amsterdam, May 2015
 
 **ISBN** (ePub)
 
-[3 logo's invoegen net als bij VKboekje]
+[4 logo's invoegen net als bij VKboekje]
 
 # Contents
 
