@@ -76,7 +76,10 @@ Amsterdam, May 2015
 
 **ISBN** (ePub)
 
-[4 logo's invoegen net als bij VKboekje]
+![](imgs/logo_KnowledgeMile.png)
+![](imgs/logo_ACICE.png)
+![](imgs/logo_HVA.png)
+![](imgs/logo_publishinglab.png)
 
 # Contents
 
@@ -483,7 +486,7 @@ the opinions of family and friends are consulted in order to decide what
 to buy. Brands and shops monitor this and try to influence it and to
 learn from their customers by analysing thoughts and statements.
 
-![Figure 1: Future shopping scenarios](images/figure1.png)
+![Figure 1: Future shopping scenarios](imgs/figure1.png)
 
 Figure 1: Future shopping scenarios
 
@@ -738,8 +741,31 @@ four innovation domains in more detail, give a few examples and describe
 a particular development for each domain in more detail.
 
 
-![Table 1: Classification of innovations in fashion retail](images/table1.png)
+Service Domain | Technological Domain | Organisational Domain | Financial Domain
+---  | --- | --- | ---
+_Personalisation_ | _In-Store_ | _Collaboration_ | _Payments_
+Customer Cards | Interactive mirrors | Outlet platforms | Alternatives
+Personalised products | Shopping walls | Affiliates | Coupons
+_Experiences_ | Interactive shop windows | _Logistics_ | _Crowd funding_
+The shop as an event | Customer tracking | Smart integrated inventory | _C2C_
+Atmospherics | 3D body scans | Smart inventory management | 
+Playful experiences | Smart hangers | Click & Collect | 
+Social experiences | Touchscreens | Stockless store | 
+_Crowdsourcing_ | Smart Garments | Pop up store | 
+Designed by customers | _Online_ | _Value Chain_ | 
+Co-creation | 3D shopping | Fast fashion | 
+&nbsp; | Virtual mirrors | Reverse supply chain | 
+&nbsp; | 3D fitting | 
+&nbsp; | _Mobile_ | 
+&nbsp; | Scanning | 
+&nbsp; | Holographic and augmented reality | 
+&nbsp; | LBS/Routing | 
+&nbsp; | _Public Space_ | 
+&nbsp; | Shopping walls | 
+&nbsp; | Public screens | 
+
 Table 1: Classification of innovations in fashion retail
+
 
 ## Insights and Challenges Amsterdam Fashion Retailers: Online Presence
 
@@ -1527,10 +1553,22 @@ referred to in the classic figure of the *flâneur/flânueuse* and has a
 longer history than one often assumes (Stobart, 2008).
 
 
-![Table 2: Two types of shoppers](images/table2.png)
+Shopping as a pleasurable social activity | Shopping as a necessary maintenance activity
+--- | ---
+Spending of time | Scarcity of time
+An end in itself | A means
+Does not necessarily imply making purchases | Always implies making purchases
+Impulsiveness	 | Planning
+Dreaminess and self-illusory hedonism | Realistic satisfaction of needs
+Effectiveness unimportant | As effective as possible
+Pleasure | Necessity
+Outside the routine of everyday | An everyday routine amongst others
+Emphasis on experience | Emphasis on rationality
+Playfulness | Seriousness
+
 Table 2: Two types of shoppers (Lehtonen & Mäenpää, 1997, p. 144)
 
-  
+
 More than two decades later we continue to see the same
 characterisations in a Shopping2020/GfK publication (GfK, 2013). For
 example, the report makes a distinction between the shopper who regards
@@ -1607,7 +1645,7 @@ axes produces a profile of four types of shoppers (Figure 2):
     H&M and Vero Moda.
 
 
-![Figure 2: Four types of shoppers (GfK, 2013)](images/figure2.png)
+![Figure 2: Four types of shoppers (GfK, 2013)](imgs/figure2.png)
 
 Figure 2: Four types of shoppers (GfK, 2013)
 
@@ -1675,7 +1713,7 @@ is explained by means of the 'consumption' of a baseball game (Figure
     stories). On the other hand, it means using the consumption objects
     to entertain each other (imitating commentators for example).
 
-![Figure 3: Consuming practices (Holt, 1995)](images/figure3.png)
+![Figure 3: Consuming practices (Holt, 1995)](imgs/figure3.png)
 
 Figure 3: Consuming practices (Holt, 1995)
 
@@ -2060,10 +2098,22 @@ already won because this is where the disappearance of physical stores
 is happening the most.
 
 
-![Table 3: Features of the physical store versus the webshop channels](images/table3.png)
+Physical stores | Webshops
+--- | ---
+- Limited opening times | + Open 24/7
+- Accessibility | + Always accessible online
+- High overheads | + Low overheads for webshop
+- Limited product range | + Unlimited product range
+- Local reach | + Worldwide reach
+± Limited knowledge gathering about customers (customer cards) | + Extensive knowledge gathering about customers
++ Personal contact/advice from staff | - Anonymous
++ See, feel and try a product | - Products are not tangible
++ Take away immediately | ± Delivery can take a relatively long time
+± Store appearance | ± Webshop appearance
++ Location (local embedding) | - Ability to find webshops
+
 Table 3: Features of the physical store versus the webshop channels[^13]
 
-  
 
 What is interesting are the crossovers that are created for parrying the
 strengths of the other channel.[^14] The concept of the 'endless aisle'
@@ -2289,7 +2339,7 @@ and a waiting room at the dentist all have their conventions and
 behaviours that are influenced by the specific physical layout of these
 rooms.
 
-![Figure 4: Bitner's model of Servicescapes](images/figure4.png)
+![Figure 4: Bitner's model of Servicescapes](imgs/figure4.png)
 
 Figure 4: Bitner's model of Servicescapes[^17]
 
@@ -2353,11 +2403,10 @@ selected, designed and managed in order to create, support and correctly
 guide *experiences*. These experiencescapes are sought out by visitors
 with the specific expectation of an *experience* (O’Dell, 2005).
 
-![Figure 5: Types of 'scapes'](images/figure5.png)
+
+![Figure 5: Types of 'scapes'](imgs/figure5.png)
 
 Figure 5: Types of ‘scapes’
-
-![](media/image5.png)
 
 Within *experiencescapes* we can make further subdivisions into, for
 example, festivalscapes (Van Vliet, 2012), retailscapes and museumscapes
