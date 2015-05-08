@@ -34,7 +34,6 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ### Harry van Vliet
 ### Anne Moes
 ### Bernadette Schrandt
-### Dr. Dre
 
 
 # Colophon
@@ -633,7 +632,7 @@ viewed in such a personal and non-intrusive context can influence
 consumers in a more subtle way than traditional media can (Halvorsen et
 al., 2013).
 
-> FASHION BLOGS: AUTHENTICITY IS FOR SALE RIGHT NOW
+> FASHION BLOGS: AUTHENTICITY IS FOR SALE
 > 
 Last year, Yara Michels wrote an article in her blog This Chick’s Got
 Style about her ninth ear piercing. She also told her readers where she
