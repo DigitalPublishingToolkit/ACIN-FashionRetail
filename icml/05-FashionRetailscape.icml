@@ -277,7 +277,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/logo_KnowledgeMile.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/logo_KnowledgeMile.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange>
@@ -305,7 +305,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/logo_ACICE.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/logo_ACICE.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange>
@@ -333,7 +333,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/logo_HVA.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/logo_HVA.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange>
@@ -361,7 +361,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/logo_publishinglab.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/logo_publishinglab.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -700,7 +700,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/figure1.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/figure1.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -2351,7 +2351,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/figure2.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/figure2.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -2418,7 +2418,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/figure3.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/figure3.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -3074,7 +3074,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/figure4.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/figure4.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -3216,7 +3216,7 @@
             <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="imgs/figure5.png" />
+        <Link Self="ueb" LinkResourceURI="file:imgs/figure5.png" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
