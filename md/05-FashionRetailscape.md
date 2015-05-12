@@ -72,9 +72,9 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
 Amsterdam, May 2015
 
-**ISBN** (print)
+**ISBN** 978-94-92171-02-3 (print)
 
-**ISBN** (ePub)
+**ISBN** 978-94-92171-03-0 (ePub)
 
 ![](imgs/logo_KnowledgeMile.png)
 ![](imgs/logo_ACICE.png)
@@ -109,7 +109,7 @@ contribution on fashion blogs, and Kjeld Groot, Daisy Theuvenet, Mart
 Zonneveld and Wouter Meys for creating the app used in our beacon
 research. Also, a sincere thank you to AMFI for the close collaboration,
 students as well as lecturers, especially Sander Schellens and Marco
-Mossinkoff. Finally, we would like to thank the byAMFI store and store
+Mossinkoff. Finally, we would like to thank the byAMFI Statement Store and store
 manager Rosiane Kuijper for giving us the opportunity to turn their
 store into a ‘pop-up fieldlab’.
 
@@ -146,10 +146,10 @@ We will enrich the developments we sketch and the arguments we use in
 two ways. Firstly, examples of current innovations are given throughout
 the text. Secondly, insights from interviews with Amsterdam fashion
 retailers are presented at the end of each main section. In 2014,
-students interviewed retailers in Amsterdam to ask about the future of
+students of the Amsterdam Fashion Institute (AMFI) interviewed retailers in Amsterdam to ask about the future of
 fashion retailing. In total, 16 fashion retailers in various segments -
 from small boutiques to well-known international brands - were
-interviewed by students of the Amsterdam Fashion Institute. During these
+interviewed (they have been anonymised in this publication). During these
 interviews, students were specifically interested in the usage of new
 and digital strategies to engage with (potential) customers. Four main
 insights and challenges for the near future were clearly highlighted by
@@ -249,7 +249,7 @@ them on, and all of the consequences this entails (such as returns for
 online orders). A 3D scanner performs a 360-degree scan of a person’s
 body, on the basis of which advice is given on the sizes of the
 different brands to be chosen (for example, see
-[http://www.me-ality.com](http://www.me-ality.com).
+[http://www.me-ality.com](http://www.me-ality.com)).
 
 Much is expected of wearables (Shopping2020, 2014b). There is a great
 deal of press interest in wearable virtual reality (Google Cardboard,
@@ -270,7 +270,7 @@ dollars.
 > STEALTH UNPOCKET
 > 
 The Affair, funded by Kickstarter, introduce with their new collection
-’1984′ the UnPocket™ stealth technology that secures your phone,
+'1984′ the UnPocket™' stealth technology that secures your phone,
 passport and bankcards with police-grade high performance shielding to
 \~100 dB. In other words: you become untrackable and unhackable.
 UnPocket is a stealth pocket that securely blocks all Cellular, WiFi,
@@ -307,10 +307,9 @@ days, the smart refrigerator is the example that is cited when
 underlining the fact that technology can be way off target: "Truth is,
 no one wants to communicate with their fridge. No one wants the
 obligation of keeping their fridge informed unless they're seriously
-short on inter-personal relationships."
-([http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks](http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks)).
+short on inter-personal relationships." (The Guardian, 2012).
 Perhaps it is indeed not necessary at all that every object has to be
-connected directly to the Internet since the possibility of uniquely
+connected directly to the Internet. The possibility of uniquely
 identifying an object via a barcode, QR code or through augmented
 reality and thus be able to retrieve additional information via the
 Internet, is probably sufficient for discovering whether we are buying a
@@ -370,8 +369,7 @@ a significantly more negative manner than the group that shopped without
 the app. Also, customers who used the app where significantly less
 willing to recommend the store to others than customers who did not use
 the app. Despite some of the positive reactions of customers, there were
-no positive effects of beacons found in this study (Moes & Van Vliet, in
-press). A clear indication that technological innovations do not
+no positive effects of beacons found in this study (Moes & Van Vliet, 2015). A clear indication that technological innovations do not
 necessarily lead to a more positive shopping experience.
 
 > MEET ALEX & ANI WITH iBEACON
@@ -388,7 +386,7 @@ spent in-store plus purchase preferences should give Alex & Ani more
 insight into the behaviour and wishes of their (future) customers. 
 
 > Alex & Ani ([www.alexandani.com/our-story](http://www.alexandani.com/our-story)) is the first companyin the US to start working with iBeacon nationwide
-(<http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani/>).
+(Swirl, 2014).
 Their aim is to make people who do not know Alex & Ani yet more aware of
 their existence. However, before rolling out, the company did some tests
 from May to July 2013 in order to determine the success rate of the
@@ -415,13 +413,18 @@ fashion shopping patterns facilitated by technology.
 The 'Business Models of the Future’ report (Shopping2020, 2014a) states
 two uncertainties:
 
-1.  Do consumers act on the basis of a) personal interest – are they
+1.  Do consumers act on the basis of a) individual interest – are they
     focused on control and not willing to share, or b) collective
     interest – are they focused on sharing and teamwork?
 
 2.  Are consumers looking for a) the lowest price or b) are they willing
     to pay more for extra added value such as convenience, luxury and
     sustainability?
+
+
+![Figure 1: Future shopping scenarios](imgs/figure1.png)
+
+Figure 1: Future shopping scenarios
 
 Four scenarios emerge when we intersect these two uncertainties (Figure
 1). The first scenario, a thriving collaborative economy is about
@@ -474,7 +477,7 @@ experience', the consumer’s experience is central. The store makes
 optimum use of virtual techniques in order to show how the personally
 selected clothing suits you. Interactive full-length mirrors, 3D models
 and virtual catwalks intensify the experience. In the 'Personal shop
-experience' scenario the consumer buys as they currently do, but the
+experience' scenario the consumer buys as he currently does, but the
 store is enriched with extra experience moments through smell, sound and
 visual stimulants matched to personal aspirations. For 'Virtual
 shopping', technology is used to enable the consumer to make a selection
@@ -485,10 +488,6 @@ role in the buying process, both online and offline. Review sites and
 the opinions of family and friends are consulted in order to decide what
 to buy. Brands and shops monitor this and try to influence it and to
 learn from their customers by analysing thoughts and statements.
-
-![Figure 1: Future shopping scenarios](imgs/figure1.png)
-
-Figure 1: Future shopping scenarios
 
 ## Online in the Past, Present and Future
 
@@ -529,7 +528,7 @@ retailers had a webshop in 2006.
 Want the total in-store experience without having the trouble of
 traveling to the store and having to deal with crowds? In 2012, Keytree
 developed an interactive system that enables users to shop virtually in
-their living room. By developing what is known as an, ‘immersive’ 3D
+their living room. By developing what is known as an ‘immersive’ 3D
 environment, users can walk virtually through the supermarket and order
 their items. In this way, shoppers do have the experience of being in a
 store, but don’t have to actually go there and queue up to get their
@@ -652,7 +651,7 @@ results show that fashion blog readers are influenced by product reviews
 and they are more likely to buy something after they have seen it in a
 fashion blog.
 > 
-In the interviews the bloggers said that they started blogging because
+In interviews with the bloggers, they said that they started blogging because
 they wanted to do something beside their study, they wanted to share
 their style or were bored. Fashion bloggers are becoming marketing tools
 since they work together with retailers and are paid for writing
@@ -769,8 +768,7 @@ Table 1: Classification of innovations in fashion retail
 
 ## Insights and Challenges Amsterdam Fashion Retailers: Online Presence
 
-Most of the interviewed retailers do have a – still simple – webshop.
-Some because they want to make sure that they have an online presence,
+Most of the retailers that were interviewed by AMFI students have a – still simple – webshop. Some because they want to make sure that they have an online presence,
 while others really see it as a way of increasing sales. However, most
 retailers struggle with how to handle this effectively: making sure that
 people find your website and are seduced to buy your products on it.
@@ -782,16 +780,16 @@ web*shop*. This really triggered me; it is so easy to become blind in
 this business. So I drastically lowered the amount of clicks to get to
 the point of purchase and gave more information about our terms in
 relation to online sales. Hopefully, it has now become more clear that
-we also run a webshop” (idem).
+we also run a webshop” (personal
+conversation, 2014).
 
 Looking at the future of fashion stores, retailer T has only one thing
 to say: “It will all be about online and digitalisation, like, marketing
-wise. The paper era is blowing its last breath. [..] I mean, this is
+wise. The paper era is blowing its last breath. [...] I mean, this is
 relevant to all retailers. In the end, you want to remain profitable.
 Paper advertising is a tradition of ours, but it is hard to tell
 conversion rates. If I buy 100,000 books to sell in my store, I do want
-to make sure that enough customers will buy them” (personal
-conversation, 2014). He therefore pays a lot of attention to his website
+to make sure that enough customers will buy them” (idem). He therefore pays a lot of attention to his website
 and SEO optimisation. Adding the right text, and the right links. “My
 goal is to appear in the top ranking in Google within one month. So if
 we have a new collection, I make sure that I announce it well, that
@@ -972,7 +970,7 @@ public places that used electric lighting, and not just for illuminating
 but also for the theatrical effects. Everything was configured for
 service and having fun whilst shopping, supported by unique spaces for
 children, restaurants, roof terraces, zoological gardens, ice-skating
-tracks, libraries, galleries, travel agencies, banks and all manner of
+rinks, libraries, galleries, travel agencies, banks and all manner of
 services for delivering your purchases to your home. And that wasn’t
 everything: "In their display of goods and use of colour, they often
 drew on the convention of theatre and exhibitions, continually
@@ -981,7 +979,7 @@ with *mise-en-scenes* which combined, or offered in sequence, modernist,
 traditional and exotic decors (…) These magnificent stage sets also
 served as a backdrop to live entertainment, which was provided on a
 regular basis. There were live orchestras in the restaurants and tea
-rooms - and even, occasionally, in the grocery departments. Dress shows,
+rooms and even, occasionally, in the grocery departments. Dress shows
 and pageants were regular events. 'Spectacular oriental extravaganzas',
 which included live tableaux of Turkish harems, Cairo markets or Hindu
 temples, with live performers, dance, music and of course oriental
@@ -1037,7 +1035,7 @@ examples of online *virtual mirrors* (*online fitting rooms*) as
 counterparts to in-store interactive full-length mirrors, where the
 image of the person filmed using a webcam is used for the virtual
 ‘fitting’ of all kinds of goods, from glasses, wigs, jewellery to
-make-up. Complete 3D shops can also be found online where you can walk
+make-up. Complete 3D shops can also be found online in which you can walk
 through the shop like 'in real life’ and do your shopping. These can
 also be personalised so that you do not have to spend an endless amount
 of time looking for that one particular product. Because sizes are a
@@ -1063,7 +1061,7 @@ After the consumer created a model, (s)he could start adding clothes and
 see how the garments fitted. This meant that shoppers could ‘try on’
 clothing while sitting at home behind their laptops, without having to
 pay a visit to the actual store.
-
+>
 With this feature, Tesco hoped to offer an extra service that would
 allow consumers to avoid long queues and try on clothing via their
 virtual avatar. However, looking at their
@@ -1074,9 +1072,9 @@ advice and trends.
 Finally, there are also technological innovations in the area of
 smartphones that are worth mentioning. Virtual reality has, for
 instance, become possible through the use of a certain app in
-combination with the Google Cardboard. We created this type of app where
+combination with the Google Cardboard. We created an app like this, in which
 anyone with a smartphone and a Google Cardboard can virtually ‘walk’
-through the byAmfi store in Amsterdam, wherever they are (Riester & Van
+through the byAmfi Statement Store in Amsterdam, wherever they are (Riester & Van
 Vliet, 2014). You can stand in six different places in and around the
 store and literally look around. A voice-over will guide you through the
 store at the pace you decide. Augmented reality via the smartphone is
@@ -1181,7 +1179,7 @@ that must support the entire sales process, including in the store:
 "Mobile's role is to bind the digital and physical selling environments
 together in a meaningful way for consumers." (Kilcourse & Rowen, 2014,
 p. 22). The main reasons why retailers and advertisers are lagging
-behind are: budget and knowledge as well as mistrust on the part of
+behind are budget and knowledge as well as mistrust on the part of
 consumers about (push) marketing (Shankar et al., 2010; Velti, 2013;
 Kilcourse & Rowen, 2014).
 
@@ -1241,23 +1239,6 @@ sales. Examples of stores that use this process are Zara (Inditex),
 Peacocks and Forever21. This so-called chain reversal is seen as an
 important future strategy for physical stores (Molenaar, 2011).
 
-> SELL ON MIINTO
-> 
-The formerly Scandinavian company Miinto is a perfect example of how to
-achieve online success. Miinto offers independent fashion retailers a
-platform for them to spread their online wings. Boutiques not only get
-their own online spot and are listed in the general catalogue of the
-platform, they can, for instance, also outsource the photography of
-their collections and the payment transactions to Miinto. Individual
-stores suddenly become e-tailers that can now profit from the power of
-online commerce. Boutiques can easily sign up by contacting Miinto. They
-will then check whether the boutique meets the conditions they think
-apply to their company. After a boutique is signed up, it can use
-Miinto’s resources to sell products online and even use their photo
-studio. Many small players are becoming a large force in the online
-market. Miinto is now the largest fashion store in Denmark and is
-currently expanding worldwide.
-
 Another innovation for which various examples can be given is online
 collaboration. For small, independent retailers it is difficult to
 compete online against the large platforms due to the costs and the
@@ -1282,6 +1263,23 @@ exclusively based on product category (jeans, shoes) but can also, for
 example, be based on location – an example of which is the 9straatjes in
 Amsterdam ([9straatjesonline.com](http://9straatjesonline.com)).
 
+> SELL ON MIINTO
+> 
+The formerly Scandinavian company Miinto is a perfect example of how to
+achieve online success. Miinto offers independent fashion retailers a
+platform for them to spread their online wings. Boutiques not only get
+their own online spot and are listed in the general catalogue of the
+platform, they can, for instance, also outsource the photography of
+their collections and the payment transactions to Miinto. Individual
+stores suddenly become e-tailers that can now profit from the power of
+online commerce. Boutiques can easily sign up by contacting Miinto. They
+will then check whether the boutique meets the conditions they think
+apply to their company. After a boutique is signed up, it can use
+Miinto’s resources to sell products online and even use their photo
+studio. Many small players are becoming a large force in the online
+market. Miinto is now the largest fashion store in Denmark and is
+currently expanding worldwide.
+
 However, the majority of the innovations encountered in the
 organisational domain concern logistics. For example, the smart
 integration of stock systems so that it is possible to see whether and
@@ -1296,7 +1294,7 @@ customers. In fashion, delivery is one of the most important aspects of
 consumer satisfaction (Peters & Witte, 2013). Customer satisfaction is
 not only an important criterion for paying a lot of attention to
 delivery; the costs are also important. In 2012, a quarter of the 88
-million online orders resulted in a return, for fashion this was as high
+million online orders resulted in a return. For fashion this was as high
 as 60%, while for electronics it was only 5% (PWC, 2013). Returns and
 the logistics surrounding them cost a lot of money. As long as it
 remains difficult to implement suitable sizing online and to properly
@@ -1309,7 +1307,7 @@ ability to remain in control is important. Research shows that the
 ability to choose a fixed delivery time is the most important aspect
 (31%), followed by pick-up points from a local store (24%), next-day
 delivery (24%) and same-day delivery (8%) (PWC, 2013). Schut et al.
-(2014) also find in a study that being able to determine the time of
+(2014) also found that being able to determine the time of
 delivery is an important criterion for the customer (90%), while this is
 only offered in 12% of the cases. Free returns are also a wish that
 emerged, with around 60% of consumers stating that this is important. In
@@ -1402,7 +1400,7 @@ close to the machine in order to pay. The embedded chip and antenna
 enable consumers to swipe their card over a reader at the point of
 sale. In the Netherlands you can pay amounts up to 25 euro in this
 manner. If you have to pay a higher amount, you still have to insert
-your PIN card.
+your PIN code.
 
 > POWATAG
 > 
@@ -1488,7 +1486,7 @@ to follow your customers, you have to be where they are” (idem).
 
 Social media also involve challenges for the retailers. The retailers
 all mention that they use social media especially because they are free,
-but they do find it hard to use them in a positive manner How does one
+but they do find it hard to use them in a positive manner. How does one
 deal with complaints? Or what to do with fake accounts, promising
 discounts and free gifts that are not available? What to do with the
 comments and data that it produces? When do you know when you are doing
@@ -1536,7 +1534,7 @@ destinations: you can spend all day or not, you may just look and not
 buy. Going shopping is pleasurable, and possibly transgressive and
 excessive: you may spend too much time or too much money. Doing the
 shopping, on the other hand, suggests an obligation or a regular
-routine. ‘The' shopping implies something both planned and limited: the
+routine. It implies something both planned and limited: the
 definite article, with no extras or deviations. Going shopping points to
 fashion, clothes and leisure; doing the shopping is food shopping, for
 the most part regarded as a chore. Food is necessary, fashion is fun and
@@ -1571,13 +1569,17 @@ Table 2: Two types of shoppers (Lehtonen & Mäenpää, 1997, p. 144)
 
 More than two decades later we continue to see the same
 characterisations in a Shopping2020/GfK publication (GfK, 2013). For
-example, the report makes a distinction between the shopper who regards
+example, this report makes a distinction between the shopper who regards
 shopping as a necessity and the shopper who regards shopping as a
 pleasurable activity. The study also raises an aspect that Lehtonen &
 Mäenpää (1997) used in their characterisation of these two types of
 shoppers and introduces it as a separate dimension: planned/prepared
 versus unplanned/spontaneous. The intersection of these two opposites or
 axes produces a profile of four types of shoppers (Figure 2):
+
+![Figure 2: Four types of shoppers (GfK, 2013)](imgs/figure2.png)
+
+Figure 2: Four types of shoppers (GfK, 2013)
 
 1.  The calculating shopper: 'shopping is like work'. This type of
     shopper includes men and women, and all age groups are represented
@@ -1645,10 +1647,6 @@ axes produces a profile of four types of shoppers (Figure 2):
     H&M and Vero Moda.
 
 
-![Figure 2: Four types of shoppers (GfK, 2013)](imgs/figure2.png)
-
-Figure 2: Four types of shoppers (GfK, 2013)
-
 ## Alternative Views on the Shopper
 
 The descriptions of the different shoppers remain an eclectic mishmash
@@ -1684,7 +1682,7 @@ is explained by means of the 'consumption' of a baseball game (Figure
 1.  'Consuming as experience': the subjective emotional reactions to
     consumption objects. This means the ability to interpret the object:
     what it is, how it works, what conventions are applicable, et
-    cetera. (understanding the 'world of baseball'), the evaluation of
+    cetera (understanding the 'world of baseball'), the evaluation of
     the object against standards, expectations, previous experiences
     (for example, on the basis of baseball statistics), and the
     emotional appreciation of those (ecstasy when there’s a home run or
@@ -1732,7 +1730,7 @@ which practices can vary.
 
 To view consuming as a process raises the question of possible steps or
 stages. In the characterisation of this process as a 'customer journey'
-or 'shopping journey' there are three stages that are always mentioned:
+or 'shopping journey', there are three stages that are always mentioned:
 orientation, selection and decision/transaction (Hofste & Teeuw, 2012).
 A more detailed classification from the perspective of the consumer has
 six stages: *awareness* (the recognition that there is a need),
@@ -1809,11 +1807,10 @@ some of them follow developments very closely.
 
 An important shift was therefore noticeable in recent years: it is less
 about branding and push-strategies, and more about listening to your
-customer and what a brand and its products can do for them (JamJam,
-2014). “It’s important to build a relationship with the customer and
+customer and what a brand and its products can do for them. “It’s important to build a relationship with the customer and
 that they become a fan of your brand. Then they become ambassadors of
 your brand when they are sharing their experiences about you on their
-Facebook page (Anonymous retailer H, 2014). Retailers believe that
+Facebook page" (Anonymous retailer H, 2014). Retailers believe that
 honesty and emphasizing how the brand can cater to customers’ needs,
 will be important values in the upcoming years.
 
@@ -1954,6 +1951,39 @@ similar looking webshop and physical store is Burberry, where the
 fundamental principle is that each element of the website is recreated
 offline (Williams, 2014).
 
+
+> BURBERRY REGENT FLAGSHIP STORE
+> 
+“There was a time when sales assistants at Burberry would have carried
+tape measures. These days, those working at the luxury retailer’s 545
+stores, concessions, outlets and franchises across the world are rarely
+seen without iPads.” In the Burberry flagship store at Regent Street all
+sorts of new digital solutions are offered to the customer to enhance
+the experience. A ‘magic’ mirror tells shoppers more about the item they
+are currently carrying with them, mannequins wear the same outfits as
+shown on the website, there is a giant screen that can be used to show
+the latest shows and they even put a secret stage. The whole concept is
+to integrate off- and online to stimulate an immersive experience. In
+their video, Burberry explains that they want to tell authentic stories.
+And to tell authentic stories, they also believe that the language
+spoken is very important, and, as Angela Ahrendts puts it, “their
+[consumers] language was rapidly becoming digital”. Hence, Burberry
+decided it should create that authentic experience by using both
+physical and digital languages and use the best of both to make it an
+immersive experience.
+> 
+How does it work? When entering the digital store, shoppers can, for
+instance, get extra information on garments if they carry them while
+standing in front of a ‘magic’ mirror. The mirror, able to recognise
+RFID tags, notices that the garment is nearby and shows extra
+information that should increase customer interest. As one can also see
+in the video, a great immersive experience is created by the big screens
+that are everywhere – they have the ability to create a different world
+and make you totally forget that you’re actually in a retail store.
+Moreover, it’s a total experience that should create a trustworthy
+relationship with Burberry.
+
+
 Consumers who still only use one channel for gathering information and
 deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy
 & Van Bruggen, 2005; Teerling et al., 2007; DigitasLBi, 2014). However,
@@ -1987,38 +2017,7 @@ online and offline (Rangaswamy & Van Bruggen, 2005). Price differences
 can also result in conflicts and undesirable behaviour from the
 perspective of the business. Consumers also make use of this by
 gathering extensive information and having the product demonstrated in
-the store and then buying via the Internet (*showrooming*).
-
-> BURBERRY REGENT FLAGSHIP STORE
-> 
-“There was a time when sales assistants at Burberry would have carried
-tape measures. These days, those working at the luxury retailer’s 545
-stores, concessions, outlets and franchises across the world are rarely
-seen without iPads.” In the Burberry flagship store at Regent Street all
-sorts of new digital solutions are offered to the customer to enhance
-the experience. A ‘magic’ mirror tells shoppers more about the item they
-are currently carrying with them, mannequins wear the same outfits as
-shown on the website, there is a giant screen that can be used to show
-the latest shows and they even put a secret stage. The whole concept is
-to integrate off- and online to stimulate an immersive experience. In
-their video, Burberry explains that they want to tell authentic stories.
-And to tell authentic stories, they also believe that the language
-spoken is very important, and, as Angela Ahrendts puts it, “their
-[consumers] language was rapidly becoming digital”. Hence, Burberry
-decided it should create that authentic experience by using both
-physical and digital languages and use the best of both to make it an
-immersive experience.
-> 
-How does it work? When entering the digital store, shoppers can, for
-instance, get extra information on garments if they carry them while
-standing in front of a ‘magic’ mirror. The mirror, able to recognise
-RFID tags, notices that the garment is nearby and shows extra
-information that should increase customer interest. As one can also see
-in the video, a great immersive experience is created by the big screens
-that are everywhere – they have the ability to create a different world
-and make you totally forget that you’re actually in a retail store.
-Moreover, it’s a total experience that should create a trustworthy
-relationship with Burberry.
+the store and then buying via the Internet.
 
 ## The Physical Store in a Cross-Media Context
 
@@ -2077,7 +2076,7 @@ money on a monthly basis, but do want to sell seasonal products, or just
 get temporary attention. In the Netherlands, specific websites or apps
 help those interested in setting up a temporary store. These websites
 show where vacant and available stores are located. An example is
-Popupsqsuare. Popupsquare is a platform for pop-up stores. Pop-up queen
+Popupsquare. Popupsquare is a platform for pop-up stores. Pop-up queen
 Caroline de Jager initiated the concept, because she believes that
 nobody benefits from vacancy. Not the consumer, not the owner of the
 property and not the retailer. Popupsquare brings people together who
@@ -2114,13 +2113,12 @@ Physical stores | Webshops
 
 Table 3: Features of the physical store versus the webshop channels[^13]
 
-
 What is interesting are the crossovers that are created for parrying the
 strengths of the other channel.[^14] The concept of the 'endless aisle'
 in the store is intended to counteract the normally limited product
 range by also presenting the online product range to the in-store
 customer, but with the added benefit, for example, of advice from the
-store staff. An example is the Chasing shop in Amsterdam. Another
+store staff. Another
 crossover is to remove the queues at the tills in the physical store by
 having a lot of staff in the store so that the customer can pay
 immediately (Apple Store in Amsterdam), or the endless searching in a
@@ -2392,7 +2390,7 @@ effective service delivery but increasingly emphasises creating the
 experience. We no longer drink beer in a pub but rather in an Irish pub
 or the Hard Rock café, we don’t eat in a normal restaurant but rather in
 the jungle of the Rainforest Café and we shop in the Wild West themed
-shopping centres that promise a rich shopping experience’. Entire
+shopping centres that promise a rich shopping experience. Entire
 districts (China Town, Old Pasadena), cities (Las Vegas), regions
 (Merrie England) and even islands (Hawaii) consist of ‘cardboard’
 nostalgia where we can re-experience the real, authentic China, England
@@ -2504,8 +2502,8 @@ in figuring out what works and what does not work at a certain time for
 a particular consumer. This task has been referred to as ‘orchestration’
 (Van Vliet, 2008). Different concepts can be regarded as being different
 interpretations of, or, different perspectives on this orchestration.
-Cross- media focuses on the interrelatedness of the various media or
-channels used in the orchestration; Transmedia or ‘sequential
+Cross-media focuses on the interrelatedness of the various media or
+channels used in the orchestration; transmedia or ‘sequential
 storytelling’ (Kleverlaan, 2014) focuses on the storyline being told
 throughout this orchestration; multi-channeling looks at the unique
 channel features of each channel and their overall contribution to the
@@ -2563,7 +2561,7 @@ of their business.
     interpreted properly.
 
 [^3]: An explanation for this difference is not given. Referring to the
-    w*isdom of the crowds* approach in the case of experts (Wolters,
+    *wisdom of the crowds* approach in the case of experts (Wolters,
     2013) is in any event not a valid argument in as much as a number of
     essential conditions for the effect of this approach are not met
     (see Van Vliet et al., 2013).
@@ -2589,14 +2587,14 @@ of their business.
 [^8]: Which, of course, says nothing about a causal relationship, only
     that there is a relationship between Smartphone use and spending.
 
-[^9]: See http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747
+[^9]: See [http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747](http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747)
 
 [^10]: We have omitted the crowdsourcing phenomenon here for which, as a
     matter of fact, there is also an exchange involved: time and knowhow
     are 'exchanged' for a better reputation, attention, a good feeling,
     etcetera. See further: Van Vliet et al., 2013.
 
-[^11]: See http://www.pinterest.com/fashionreatilfu/ for a visual report
+[^11]: See [http://www.pinterest.com/fashionreatilfu/](http://www.pinterest.com/fashionreatilfu/) for a visual report
     of this process by students in relation to their purchasing process.
     We do not discuss Molenaar’s ORCA model (2011) here because it does
     not add a lot and is also a model that is not without its problems,
@@ -2627,7 +2625,7 @@ of their business.
 
 [^16]: Alternative classifications are available (see, amongst other
     things, Baker, Grewal & Parasuraman, 1994; Turley & Milliman, 2000;
-    D'Astous, 2000).However, the differences are marginal. It is
+    D'Astous, 2000). However, the differences are marginal. It is
     interesting to perform a meta-analysis on this and to relate the
     aspects found to, for example, analyses of social situations, like
     in the study by Goffman (1974).
@@ -2703,9 +2701,7 @@ https://blogs.oracle.com/retail/entry/stop\_saying\_multi-channel
 Dorf, D. 2011. Commerce, anyway you want it. Commerce Anywhere Blog,15
 March.
 https://blogs.oracle.com/retail/entry/commerce\_anyway\_you\_want\_it
-(accessed 25 July
-
-2014).
+(accessed 25 July 2014).
 
 Emerce. 2014. *De Bijenkorf begint pilot met iBeacons in Rotterdam.*
 Retrieved from www.emerce.nl.
@@ -2728,7 +2724,7 @@ Falk, P., & Campbell, C. 1997. *The Shopping Experience*. London, etc.:
 Sage Publications.
 
 GfK. 2013. *Dé shopper bestaat niet*. Retrieved from
-[www.shopping2020.nl](http://www.shopping2020.nl)
+http://www.shopping2020.nl.
 
 Goffman, E. 1974. *Frame Analysis: An Essay on the Organization of
 Experience*. London: Harper & Row.
@@ -2746,7 +2742,7 @@ Bridging Fashion and Marketing*, 4, 3, pp. 211-224.
 
 Hewer, P. & C. Campbell. 1997. Research on shopping: A brief history and
 selected literature. In: Falk, P., & Campbell, C. (eds.). *The Shopping
-Experience*. London.: Sage Publications. (pp. 186-206)
+Experience*. London: Sage Publications. (pp. 186-206)
 
 Hofste, M. & W. Teeuw (eds.). 2012. *Winkel van de toekomst, toekomst
 van de winkel?* Enschede: Saxion, kenniscentrum Design en Technologie.
@@ -2783,14 +2779,14 @@ Maas, A. 2013. *De redenloze consument. Over framing in marketing*.
 Rotterdam: Hogeschool Rotterdam.
 
 Magrath, V. & McCormick, H. 2013. Branding design elements of mobile
-fashion retail apps. *Joutrnal of Fashion Marketing and Management*,
+fashion retail apps. *Journal of Fashion Marketing and Management*,
 17*,* 1, pp. 98-114.
 
 Moes, A. & Van Vliet, H. 2014. *Fashion's Retail Future: resultaten
 2014*. Amsterdam: Hogeschool van Amsterdam.
 
-Moes, A. & Van Vliet,. H. (in press). *Het effect van beacons in de
-ByAmfi Store*.
+Moes, A. & Van Vliet,. H. (2015). *Het effect van beacons in de
+ByAmfi Store*. Retrieved from www.marketingtribune.nl. 
 
 Molenaar, C. 2011. *Het einde van winkels? De strijd om de klant*. Den
 Haag: SDU Uitgevers.
@@ -2849,8 +2845,7 @@ Deventer.
 
 Schut, G., Josten, L., Beek, A., Heinemans, L., Selimi, S. & Jansen, B.
 2014. Consument organiseert in 2020 zijn eigen gemak. Postnl/Capgemini
-Consulting. Retrieved from 
-[www.shopping2020.nl](http://www.shopping2020.nl)
+Consulting. Retrieved from http://www.shopping2020.nl.
 
 Shankar, V., Venkatesh, A., Hofacker, C., & Naik, P. 2010. Mobile
 marketing in the retailing environment: Current insights and future
@@ -2863,21 +2858,20 @@ multichannel environments. *Industrial Marketing Management,* 36, pp.
 Sherry, J.F. (ed.). 1996. *Servicescapes*. Chicago: NTC Business Books.
 
 Shopping2020. 2013. *Shopping 2020 synthese - de e-ambitie voor
-nederland*. Retrieved from
-[www.shopping2020.nl](http://www.shopping2020.nl).
+nederland*. Retrieved from http://www.shopping2020.nl.
 
 Shopping2020.nl. 2013. *Ecology. What are Sustainability-Related Retail Future Trends
 in 2020 that Affect Environment, Dutch Society and Businesses?*
-[www.shopping2020.nl](http://www.shopping2020.nl)
+Retrieved from http://www.shopping2020.nl.
 
 Shopping2020.nl. 2014. *Innovate or Die*.
-[www.shopping2020.nl](http://www.shopping2020.nl)
+Retrieved from http://www.shopping2020.nl.
 
 Shopping2020. 2014a. *De business modellen van de toekomst*. Retrieved
-from [www.shopping2020.nl](http://www.shopping2020.nl).
+from  http://www.shopping2020.nl.
 
 Shopping2020. 2014b. *A Changing Future of Retail Touchpoints*.
-Retrieved from [www.shopping2020.nl](http://www.shopping2020.nl).
+Retrieved from  http://www.shopping2020.nl.
 
 Sorensen, H. 2012. The three shopping currencies. In: Stahlberg, M. &
 Maila, V. (eds.). *Shopper Marketing. How to Increase Decisions at the
@@ -2900,6 +2894,8 @@ Ter Haar, J. 2014. *The Retail Roadmap. Navigating a New Landscape in
 which Technology Fuels Tomorrow's Human Needs*. Studio by Judith ter
 Haar.
 
+The Guardian. 2012. *Smart Fridge? Idiot fridge, more like*. Retrieved from http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks 
+
 Toonen. A. 2014. Minder winkels, wen er maar aan. *NRC*, 24 juni 2014,
 p. E6-E7.
 
@@ -2912,6 +2908,8 @@ A., & Weltevreden, J. 2012. *Selling to the multichannel consumer.
 Strategic and operational challenges for multi-channel retailers*.
 Amsterdam: PWC/Hogeschool van Amsterdam.
 
+Swirl. 2014. *Swirl’s iBeacon Marketing Platform Goes Live Nationwide with Alex and Ani*. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani
+
 Van Galen, T. 2012. The missing link: turning shopper insight into
 practice. In: Stahlberg, M. & Maila, V. (eds.). *Shopper Marketing. How
 to Increase Decisions at the Point of Sale*. London: Kogan Page. (pp.
@@ -2923,27 +2921,15 @@ Van Heusden, I. 2013. Appletrucje werkt niet overal. *NRC*, 18/19 april
 Van Vliet, H. 2008. *Idola van de crossmedia*. Utrecht: Hogeschool
 Utrecht.
 
-—- 2009. *De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia*.
-Utrecht: Hogeschool Utrecht. (Cell Cahier \#1)
-
-—- (Red.) 2012. *Festivalbeleving. De waarde van publieksevenementen*.
-Utrecht: Hogeschool Utrecht. (Cell Cahier \#3)
-
-—- 2013. *Analyse eerste programmaregeling Digitale Innovatie bij Musea
-SNS Reaal Fonds*. Utrecht: SNS Reaal Fonds. (Juni 2013)
-
-—- 2014. *Cross-mediascapes*. Amsterdam: Amsterdam Universtity Press.
-
 Van Vliet, H., Brusse, R., Swart, D., Hekman, E., & Rovers, M. 2013.
 *Crowdsourcing*. Utrecht: Hogeschool Utrecht/Center of Expertise
 Creatieve Industrie.
 
 Veenstra, M. 2012. De toekomst van retail: focus op bezoeker en
-experience. Gepubliceerd op
-[www.frankwatching.nl](http://www.frankwatching.nl) (21/02/2012).
+experience. Retrieved from http://www.frankwatching.nl.
 
-Velti. 2013. *Mobile Marketing Monitor 2013*.
-[Mobilemarketing.nl/Velti](http://Mobilemarketing.nl/Velti).
+Velti. 2013. *Mobile Marketing Monitor 2013*. Retrieved from 
+http://Mobilemarketing.nl/Velti.
 
 Venkatesh, A. 1996. Cyberculture. Consumers and cybermarketspaces. In:
 J.F. Sherry (ed.). 1996. *Servicescapes*. Chicago: NTC Business Books.
@@ -2962,6 +2948,18 @@ Williams, G. 2014. E-commerce is history. *Wired*, March, pp. 110-117.
 
 Wolters, M. 2013. *Hoe shopt uw klant in 2020?* *GfK expertonderzoek
 shopping 2020*. GfK.
+
+—- 2009. *De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia*.
+Utrecht: Hogeschool Utrecht. (Cell Cahier \#1)
+
+—- 2012. *Festivalbeleving. De waarde van publieksevenementen*.
+Utrecht: Hogeschool Utrecht. (Cell Cahier \#3)
+
+—- 2013. *Analyse eerste programmaregeling Digitale Innovatie bij Musea
+SNS Reaal Fonds*. Utrecht: SNS Reaal Fonds. 
+
+—- 2014. *Cross-mediascapes*. Amsterdam: Amsterdam Universtity Press.
+
 
 # [BACK COVER]
 
