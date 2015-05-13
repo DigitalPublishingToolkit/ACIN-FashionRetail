@@ -165,7 +165,7 @@
     <Content>EPUB development</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Gottfried Haider</Content>
+    <Content> Gottfried Haider (PublishingLab)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -244,7 +244,7 @@
     <Content>ISBN</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (print)</Content>
+    <Content> 978-94-92171-02-3 (print)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -252,7 +252,7 @@
     <Content>ISBN</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (ePub)</Content>
+    <Content> 978-94-92171-03-0 (ePub)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -416,7 +416,7 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and creating the Virtual Tour 3D app. We thank Maaike Driessen for her contribution on fashion blogs, and Kjeld Groot, Daisy Theuvenet, Mart Zonneveld and Wouter Meys for creating the app used in our beacon research. Also, a sincere thank you to AMFI for the close collaboration, students as well as lecturers, especially Sander Schellens and Marco Mossinkoff. Finally, we would like to thank the byAMFI store and store manager Rosiane Kuijper for giving us the opportunity to turn their store into a ‘pop-up fieldlab’.</Content>
+    <Content> and creating the Virtual Tour 3D app. We thank Maaike Driessen for her contribution on fashion blogs, and Kjeld Groot, Daisy Theuvenet, Mart Zonneveld and Wouter Meys for creating the app used in our beacon research. Also, a sincere thank you to AMFI for the close collaboration, students as well as lecturers, especially Sander Schellens and Marco Mossinkoff. Finally, we would like to thank the byAMFI Statement Store and store manager Rosiane Kuijper for giving us the opportunity to turn their store into a ‘pop-up fieldlab’.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
@@ -431,7 +431,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>We will enrich the developments we sketch and the arguments we use in two ways. Firstly, examples of current innovations are given throughout the text. Secondly, insights from interviews with Amsterdam fashion retailers are presented at the end of each main section. In 2014, students interviewed retailers in Amsterdam to ask about the future of fashion retailing. In total, 16 fashion retailers in various segments - from small boutiques to well-known international brands - were interviewed by students of the Amsterdam Fashion Institute. During these interviews, students were specifically interested in the usage of new and digital strategies to engage with (potential) customers. Four main insights and challenges for the near future were clearly highlighted by these interviews.</Content>
+    <Content>We will enrich the developments we sketch and the arguments we use in two ways. Firstly, examples of current innovations are given throughout the text. Secondly, insights from interviews with Amsterdam fashion retailers are presented at the end of each main section. In 2014, students of the Amsterdam Fashion Institute (AMFI) interviewed retailers in Amsterdam to ask about the future of fashion retailing. In total, 16 fashion retailers in various segments - from small boutiques to well-known international brands - were interviewed (they have been anonymised in this publication). During these interviews, students were specifically interested in the usage of new and digital strategies to engage with (potential) customers. Four main insights and challenges for the near future were clearly highlighted by these interviews.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
@@ -489,7 +489,7 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+    <Content>).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -512,7 +512,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The Affair, funded by Kickstarter, introduce with their new collection ’1984′ the UnPocket™ stealth technology that secures your phone, passport and bankcards with police-grade high performance shielding to ~100 dB. In other words: you become untrackable and unhackable. UnPocket is a stealth pocket that securely blocks all Cellular, WiFi, GPS and RFID signals. A whole collection of clothes is built around these removable and water resistant pockets, so you can carry devices with you in style. People can be tracked easily because of the GPS or WiFi on their phone. Personal data on your contactless bank card or e-passport can be stolen or skimmed. This can be prevented, according to The Affair, by using UnPocket. Just pop your phone, passport and bank cards in the pocket and you become invisible to Big Brother. The Affair-1984 state on their website that their goal is to create: “Fashion for an under-surveillance society. Because let’s face it, Big Brother knows way too much already…”</Content>
+    <Content>The Affair, funded by Kickstarter, introduce with their new collection '1984′ the UnPocket™' stealth technology that secures your phone, passport and bankcards with police-grade high performance shielding to ~100 dB. In other words: you become untrackable and unhackable. UnPocket is a stealth pocket that securely blocks all Cellular, WiFi, GPS and RFID signals. A whole collection of clothes is built around these removable and water resistant pockets, so you can carry devices with you in style. People can be tracked easily because of the GPS or WiFi on their phone. Personal data on your contactless bank card or e-passport can be stolen or skimmed. This can be prevented, according to The Affair, by using UnPocket. Just pop your phone, passport and bank cards in the pocket and you become invisible to Big Brother. The Affair-1984 state on their website that their goal is to create: “Fashion for an under-surveillance society. Because let’s face it, Big Brother knows way too much already…”</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -528,15 +528,7 @@
     <Content>Watchdogs</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). An iconic example of that general connectivity is the refrigerator that places orders when, for example, you are about to run out of milk. The initial performance of these types of commercial products dates back to 1998 by the Japanese firm V-Sync (with a Pentium II processor!). In this case it seemed that science fiction followed the current events with an appearance by a ‘smart’ refrigerator in the film 'The 6th day', released in 2000. These days, the smart refrigerator is the example that is cited when underlining the fact that technology can be way off target: &quot;Truth is, no one wants to communicate with their fridge. No one wants the obligation of keeping their fridge informed unless they're seriously short on inter-personal relationships.&quot; (</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). Perhaps it is indeed not necessary at all that every object has to be connected directly to the Internet since the possibility of uniquely identifying an object via a barcode, QR code or through augmented reality and thus be able to retrieve additional information via the Internet, is probably sufficient for discovering whether we are buying a piece of healthy meat, whether the item of clothing is cheaper elsewhere or whether your friends enjoyed reading a certain book.</Content>
+    <Content>). An iconic example of that general connectivity is the refrigerator that places orders when, for example, you are about to run out of milk. The initial performance of these types of commercial products dates back to 1998 by the Japanese firm V-Sync (with a Pentium II processor!). In this case it seemed that science fiction followed the current events with an appearance by a ‘smart’ refrigerator in the film 'The 6th day', released in 2000. These days, the smart refrigerator is the example that is cited when underlining the fact that technology can be way off target: &quot;Truth is, no one wants to communicate with their fridge. No one wants the obligation of keeping their fridge informed unless they're seriously short on inter-personal relationships.&quot; (The Guardian, 2012). Perhaps it is indeed not necessary at all that every object has to be connected directly to the Internet. The possibility of uniquely identifying an object via a barcode, QR code or through augmented reality and thus be able to retrieve additional information via the Internet, is probably sufficient for discovering whether we are buying a piece of healthy meat, whether the item of clothing is cheaper elsewhere or whether your friends enjoyed reading a certain book.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -548,7 +540,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>For example, the Dutch department store the Bijenkorf in Rotterdam has implemented iBeacons. These small devices recognise customers when they approach the cash register (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.emerce.nl</Content>
     </CharacterStyleRange>
@@ -565,7 +557,7 @@
     <Content>to</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> the customer. In the byAMFI store in Amsterdam we tested the effect of sending information to customers on their shopping experience via beacons. Every time a customer approached a certain collection, he or she received extra information about that collection on a mobile phone. The beacons provided text and photographs about the designer and the concept behind the collection. Customers who were interviewed responded partially positively to this manner of information transfer. They said, for example, that they think that this manner of information provision suits not only the store, but also the future. They wished that more stores had a system like this. One of the interviewees even said that she was willing to pay more for the clothes now she knows more about the concept behind the garments. Another claimed that she really liked receiving information in this manner, because she loves to shop anonymously and using the beacons meant that she did not have to ask the staff for extra information. Besides these positive reactions, there was also criticism: “You have to have time in order to use this app. If you don’t have time, the app can be annoying”; “I prefer to decide for myself about which garment I want to receive more information and about which garment I don’t.” The study's overall result of the survey is that the group of customers that shopped with the app perceived the store’s atmosphere in a significantly more negative manner than the group that shopped without the app. Also, customers who used the app where significantly less willing to recommend the store to others than customers who did not use the app. Despite some of the positive reactions of customers, there were no positive effects of beacons found in this study (Moes &amp; Van Vliet, in press). A clear indication that technological innovations do not necessarily lead to a more positive shopping experience.</Content>
+    <Content> the customer. In the byAMFI store in Amsterdam we tested the effect of sending information to customers on their shopping experience via beacons. Every time a customer approached a certain collection, he or she received extra information about that collection on a mobile phone. The beacons provided text and photographs about the designer and the concept behind the collection. Customers who were interviewed responded partially positively to this manner of information transfer. They said, for example, that they think that this manner of information provision suits not only the store, but also the future. They wished that more stores had a system like this. One of the interviewees even said that she was willing to pay more for the clothes now she knows more about the concept behind the garments. Another claimed that she really liked receiving information in this manner, because she loves to shop anonymously and using the beacons meant that she did not have to ask the staff for extra information. Besides these positive reactions, there was also criticism: “You have to have time in order to use this app. If you don’t have time, the app can be annoying”; “I prefer to decide for myself about which garment I want to receive more information and about which garment I don’t.” The study's overall result of the survey is that the group of customers that shopped with the app perceived the store’s atmosphere in a significantly more negative manner than the group that shopped without the app. Also, customers who used the app where significantly less willing to recommend the store to others than customers who did not use the app. Despite some of the positive reactions of customers, there were no positive effects of beacons found in this study (Moes &amp; Van Vliet, 2015). A clear indication that technological innovations do not necessarily lead to a more positive shopping experience.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -582,21 +574,13 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Alex &amp; Ani (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.alexandani.com/our-story</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) is the first companyin the US to start working with iBeacon nationwide (</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani/</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). Their aim is to make people who do not know Alex &amp; Ani yet more aware of their existence. However, before rolling out, the company did some tests from May to July 2013 in order to determine the success rate of the technology. They found that over 75% of shoppers read Alex &amp; Ani’s offerings and half of these shoppers redeemed the promotion (20% discount on a bracelet). Although actual sales conversion rates are not known, Alex &amp; Ani therefore seem to be enthusiastic about the possibilities of iBeacon for their company.</Content>
+    <Content>) is the first companyin the US to start working with iBeacon nationwide (Swirl, 2014). Their aim is to make people who do not know Alex &amp; Ani yet more aware of their existence. However, before rolling out, the company did some tests from May to July 2013 in order to determine the success rate of the technology. They found that over 75% of shoppers read Alex &amp; Ani’s offerings and half of these shoppers redeemed the promotion (20% discount on a bracelet). Although actual sales conversion rates are not known, Alex &amp; Ani therefore seem to be enthusiastic about the possibilities of iBeacon for their company.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -616,66 +600,12 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Do consumers act on the basis of a) personal interest – are they focused on control and not willing to share, or b) collective interest – are they focused on sharing and teamwork?</Content>
+    <Content>Do consumers act on the basis of a) individual interest – are they focused on control and not willing to share, or b) collective interest – are they focused on sharing and teamwork?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Are consumers looking for a) the lowest price or b) are they willing to pay more for extra added value such as convenience, luxury and sustainability?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Four scenarios emerge when we intersect these two uncertainties (Figure 1). The first scenario, a thriving collaborative economy is about consumers having access to services and products that they wish to use, which they do not necessarily have to own, but which they can hire and use on a temporary basis. This can be for reasons of convenience or because of sustainability considerations. In the price-conscious collaborative economy (scenario number 2) the power of the collective is used to negotiate good deals through collective purchasing and agreements relating to, for example, energy and insurance. Products, such as cars, are also shared because it is less expensive to do it that way. Objects are also shared between people because this makes good economic sense (see </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>https://peerby.com</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). In the third scenario, price-conscious self-society, the main aim for the individual consumer is to find the best deal, and it makes no difference whether it is a different supplier or a different brand each time. Online marketplaces are consulted in order to find that best deal (see </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.beslist.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>). The lowest price is what counts, much more than convenience and sustainability. In the last scenario, the thriving self-society, the individual consumer is looking for convenience, luxury and experience, for which he or she is willing to pay. Online marketplaces are used to find unique products and services. This type of consumer is happy to be advised and often takes out a subscription in order to be able to continue to enjoy the experience (see </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.winecast.com</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>).</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hofste &amp; Teeuw (2012) also present four scenarios; however, these are more closely tailored to the consumer and how he or she shops. As a consequence, these scenarios are less abstract compared to the scenarios discussed above. This is a direct consequence of the uncertainties that were chosen:</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Does the consumer act on the basis of a) purchasing a product or service, or b) focusing on the experience?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Does the current shopping process change or not under the influence of, for example, the mobile phone?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Both axes are, in fact, not chosen very well. The first axis does not so much describe an uncertainty but two different ‘consumers’ (see discussion below). For the second axis, the outcome was already known at the time of publication in 2012: yes, the shopping process is changed even just by using a smartphone in the shop (to compare prices), or for advance online orientation (comparison sites). This is, therefore, far from being an uncertainty, already a reality (in 2012).</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Four more possible scenarios can also be generated on the basis of these two axes (Figure 1). In the first scenario, the 'Augmented Shopping experience', the consumer’s experience is central. The store makes optimum use of virtual techniques in order to show how the personally selected clothing suits you. Interactive full-length mirrors, 3D models and virtual catwalks intensify the experience. In the 'Personal shop experience' scenario the consumer buys as they currently do, but the store is enriched with extra experience moments through smell, sound and visual stimulants matched to personal aspirations. For 'Virtual shopping', technology is used to enable the consumer to make a selection from a large range by creating a virtual fitting room and the ability to show the choice immediately to friends via a Tweet mirror. In the last scenario, that of the 'Social shopper', social media play an important role in the buying process, both online and offline. Review sites and the opinions of family and friends are consulted in order to decide what to buy. Brands and shops monitor this and try to influence it and to learn from their customers by analysing thoughts and statements.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -710,6 +640,60 @@
     <Content>Figure 1: Future shopping scenarios</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Four scenarios emerge when we intersect these two uncertainties (Figure 1). The first scenario, a thriving collaborative economy is about consumers having access to services and products that they wish to use, which they do not necessarily have to own, but which they can hire and use on a temporary basis. This can be for reasons of convenience or because of sustainability considerations. In the price-conscious collaborative economy (scenario number 2) the power of the collective is used to negotiate good deals through collective purchasing and agreements relating to, for example, energy and insurance. Products, such as cars, are also shared because it is less expensive to do it that way. Objects are also shared between people because this makes good economic sense (see </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://peerby.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>). In the third scenario, price-conscious self-society, the main aim for the individual consumer is to find the best deal, and it makes no difference whether it is a different supplier or a different brand each time. Online marketplaces are consulted in order to find that best deal (see </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.beslist.nl</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>). The lowest price is what counts, much more than convenience and sustainability. In the last scenario, the thriving self-society, the individual consumer is looking for convenience, luxury and experience, for which he or she is willing to pay. Online marketplaces are used to find unique products and services. This type of consumer is happy to be advised and often takes out a subscription in order to be able to continue to enjoy the experience (see </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.winecast.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Hofste &amp; Teeuw (2012) also present four scenarios; however, these are more closely tailored to the consumer and how he or she shops. As a consequence, these scenarios are less abstract compared to the scenarios discussed above. This is a direct consequence of the uncertainties that were chosen:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Does the consumer act on the basis of a) purchasing a product or service, or b) focusing on the experience?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Does the current shopping process change or not under the influence of, for example, the mobile phone?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Both axes are, in fact, not chosen very well. The first axis does not so much describe an uncertainty but two different ‘consumers’ (see discussion below). For the second axis, the outcome was already known at the time of publication in 2012: yes, the shopping process is changed even just by using a smartphone in the shop (to compare prices), or for advance online orientation (comparison sites). This is, therefore, far from being an uncertainty, already a reality (in 2012).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Four more possible scenarios can also be generated on the basis of these two axes (Figure 1). In the first scenario, the 'Augmented Shopping experience', the consumer’s experience is central. The store makes optimum use of virtual techniques in order to show how the personally selected clothing suits you. Interactive full-length mirrors, 3D models and virtual catwalks intensify the experience. In the 'Personal shop experience' scenario the consumer buys as he currently does, but the store is enriched with extra experience moments through smell, sound and visual stimulants matched to personal aspirations. For 'Virtual shopping', technology is used to enable the consumer to make a selection from a large range by creating a virtual fitting room and the ability to show the choice immediately to friends via a Tweet mirror. In the last scenario, that of the 'Social shopper', social media play an important role in the buying process, both online and offline. Review sites and the opinions of family and friends are consulted in order to decide what to buy. Brands and shops monitor this and try to influence it and to learn from their customers by analysing thoughts and statements.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Online in the Past, Present and Future</Content>
@@ -737,7 +721,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Want the total in-store experience without having the trouble of traveling to the store and having to deal with crowds? In 2012, Keytree developed an interactive system that enables users to shop virtually in their living room. By developing what is known as an, ‘immersive’ 3D environment, users can walk virtually through the supermarket and order their items. In this way, shoppers do have the experience of being in a store, but don’t have to actually go there and queue up to get their products. Keytree works with Kinect technology, thereby making it possible to navigate through the environment without using a mouse or PC. Rather, your body becomes the console. The store data is provided by Tesco, Amazon and eBay and by tracking the personal behaviour of both the individual and the total amount of shoppers, and personalisation is offered by both the individual preferences and suggestions based on what others bought.</Content>
+    <Content>Want the total in-store experience without having the trouble of traveling to the store and having to deal with crowds? In 2012, Keytree developed an interactive system that enables users to shop virtually in their living room. By developing what is known as an ‘immersive’ 3D environment, users can walk virtually through the supermarket and order their items. In this way, shoppers do have the experience of being in a store, but don’t have to actually go there and queue up to get their products. Keytree works with Kinect technology, thereby making it possible to navigate through the environment without using a mouse or PC. Rather, your body becomes the console. The store data is provided by Tesco, Amazon and eBay and by tracking the personal behaviour of both the individual and the total amount of shoppers, and personalisation is offered by both the individual preferences and suggestions based on what others bought.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -816,10 +800,10 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>An explanation for this difference is not given. Referring to the w</Content>
+          <Content>An explanation for this difference is not given. Referring to the </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>isdom of the crowds</Content>
+          <Content>wisdom of the crowds</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content> approach in the case of experts (Wolters, 2013) is in any event not a valid argument in as much as a number of essential conditions for the effect of this approach are not met (see Van Vliet et al., 2013).</Content>
@@ -873,14 +857,14 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In the interviews the bloggers said that they started blogging because they wanted to do something beside their study, they wanted to share their style or were bored. Fashion bloggers are becoming marketing tools since they work together with retailers and are paid for writing articles. None of the fashion bloggers spoken to dreamed of getting paid for what they loved to do. A lot of them do now, and all fashion bloggers are happy to work with retailers. But bloggers have a few terms and conditions. First, the retailer should suit their style and second they like to get something in return.</Content>
+    <Content>In interviews with the bloggers, they said that they started blogging because they wanted to do something beside their study, they wanted to share their style or were bored. Fashion bloggers are becoming marketing tools since they work together with retailers and are paid for writing articles. None of the fashion bloggers spoken to dreamed of getting paid for what they loved to do. A lot of them do now, and all fashion bloggers are happy to work with retailers. But bloggers have a few terms and conditions. First, the retailer should suit their style and second they like to get something in return.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Retailers are also eager to work with fashion bloggers but the research shows they do not really know how to use fashion bloggers for their marketing strategy. The website </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.blogmakelaar.nl</Content>
     </CharacterStyleRange>
@@ -898,7 +882,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>What is missing among all of these (extrapolated) numbers is a more qualitative picture of the changes that will take place: What will the innovations be that will ensure that more is sold online or that consumers still go to stores? It is true that all of the Shopping2020 reports are interspersed with examples of innovations, from a more science fiction type character (the 'Sight'-video on </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://vimeo.com/46304267</Content>
     </CharacterStyleRange>
@@ -941,7 +925,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>For the time being, these fundamental principles have resulted in the following classifications for the innovations that have been found (Table 1). The actual inventory of innovations in fashion retail is published on the website </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.fashionretailfuture.com</Content>
     </CharacterStyleRange>
@@ -1398,18 +1382,18 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Most of the interviewed retailers do have a – still simple – webshop. Some because they want to make sure that they have an online presence, while others really see it as a way of increasing sales. However, most retailers struggle with how to handle this effectively: making sure that people find your website and are seduced to buy your products on it. Retailer T: “Recently, I asked two boys, with no knowledge of what I was doing, to buy a pair of jeans from our webshop. And after doing so, they said that it was unclear to them whether or not they could actually buy a pair of jeans on our website. So for them, it was a website, not a web</Content>
+    <Content>Most of the retailers that were interviewed by AMFI students have a – still simple – webshop. Some because they want to make sure that they have an online presence, while others really see it as a way of increasing sales. However, most retailers struggle with how to handle this effectively: making sure that people find your website and are seduced to buy your products on it. Retailer T: “Recently, I asked two boys, with no knowledge of what I was doing, to buy a pair of jeans from our webshop. And after doing so, they said that it was unclear to them whether or not they could actually buy a pair of jeans on our website. So for them, it was a website, not a web</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>shop</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. This really triggered me; it is so easy to become blind in this business. So I drastically lowered the amount of clicks to get to the point of purchase and gave more information about our terms in relation to online sales. Hopefully, it has now become more clear that we also run a webshop” (idem).</Content>
+    <Content>. This really triggered me; it is so easy to become blind in this business. So I drastically lowered the amount of clicks to get to the point of purchase and gave more information about our terms in relation to online sales. Hopefully, it has now become more clear that we also run a webshop” (personal conversation, 2014).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Looking at the future of fashion stores, retailer T has only one thing to say: “It will all be about online and digitalisation, like, marketing wise. The paper era is blowing its last breath. [..] I mean, this is relevant to all retailers. In the end, you want to remain profitable. Paper advertising is a tradition of ours, but it is hard to tell conversion rates. If I buy 100,000 books to sell in my store, I do want to make sure that enough customers will buy them” (personal conversation, 2014). He therefore pays a lot of attention to his website and SEO optimisation. Adding the right text, and the right links. “My goal is to appear in the top ranking in Google within one month. So if we have a new collection, I make sure that I announce it well, that everybody knows about it when searching for it. This is where the main part of the marketing budget goes to” (idem). Other retailers confirm this challenge: if people look for certain brands or fashion items, they want to make sure they are found quickly. But how to do that, remains a big task, especially when marketing budgets are limited.</Content>
+    <Content>Looking at the future of fashion stores, retailer T has only one thing to say: “It will all be about online and digitalisation, like, marketing wise. The paper era is blowing its last breath. [...] I mean, this is relevant to all retailers. In the end, you want to remain profitable. Paper advertising is a tradition of ours, but it is hard to tell conversion rates. If I buy 100,000 books to sell in my store, I do want to make sure that enough customers will buy them” (idem). He therefore pays a lot of attention to his website and SEO optimisation. Adding the right text, and the right links. “My goal is to appear in the top ranking in Google within one month. So if we have a new collection, I make sure that I announce it well, that everybody knows about it when searching for it. This is where the main part of the marketing budget goes to” (idem). Other retailers confirm this challenge: if people look for certain brands or fashion items, they want to make sure they are found quickly. But how to do that, remains a big task, especially when marketing budgets are limited.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
@@ -1426,7 +1410,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The service domain concerns the added value that a service or product provides for the customer. A great deal is expected of personalisation, in other words, the customising of the service or product for a particular individual so that a more or less unique service or product is created. The most literal interpretation of this is tailor-made clothes and the independent creation of, for example, a Louis Vuitton bespoke handbag from The Haute Maroquinerie in Bond Street in London. Personalisation is not just about creating a unique product or service; it also relates to finding an appropriate or unique product or service for an individual. Recommendations for you, the customer, based on your previous purchases or based on preferences of people with similar tastes can be found in many webshops. Another example is </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Buyosphere.com</Content>
     </CharacterStyleRange>
@@ -1500,7 +1484,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Examples are the Burberry store with large screens and magic mirrors (that respond to RFID tags in clothing), interactive Coca Cola floors in shops and apps that allow you to shop 'socially' because you and your friends can all go shopping at the same time using social media (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.bevyup.com</Content>
     </CharacterStyleRange>
@@ -1559,13 +1543,13 @@
     <Content>experience</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, not just a job to be done&quot; (in Bowlby, 1997, p. 99). Furthermore: &quot;In the late eighteenth century Oxford Street had already been described as a 'dazzling spectacle' of 'splendidly lit shop fronts' and 'alluring' and 'handsome' displays.&quot; (Nava, 1997, p. 64). Even more important than a vision and an illustrative example is that particular experiences were 'produced' and perceived around the turn of the 19th to the 20th century, the most iconic example of these being department stores. Department stores were more than just a place for doing your shopping; they formed a new public venue for displaying modernity and were visited as tourist attractions. The Selfridges department store was regarded, like Westminster Abbey and other places, as one of the biggest attractions in London. One of the Selfridges advertising slogans was: &quot;Shopping at Selfridge's: A Pleasure - A Pastime - A Recreation&quot;. Department stores were 'fantasy palaces', luxuriously built from marble, iron ornaments, large open staircases, parquet flooring and silk and leather furniture. They were the first public places that used electric lighting, and not just for illuminating but also for the theatrical effects. Everything was configured for service and having fun whilst shopping, supported by unique spaces for children, restaurants, roof terraces, zoological gardens, ice-skating tracks, libraries, galleries, travel agencies, banks and all manner of services for delivering your purchases to your home. And that wasn’t everything: &quot;In their display of goods and use of colour, they often drew on the convention of theatre and exhibitions, continually innovating in order to produce new, vivid and seductive environments, with </Content>
+    <Content>, not just a job to be done&quot; (in Bowlby, 1997, p. 99). Furthermore: &quot;In the late eighteenth century Oxford Street had already been described as a 'dazzling spectacle' of 'splendidly lit shop fronts' and 'alluring' and 'handsome' displays.&quot; (Nava, 1997, p. 64). Even more important than a vision and an illustrative example is that particular experiences were 'produced' and perceived around the turn of the 19th to the 20th century, the most iconic example of these being department stores. Department stores were more than just a place for doing your shopping; they formed a new public venue for displaying modernity and were visited as tourist attractions. The Selfridges department store was regarded, like Westminster Abbey and other places, as one of the biggest attractions in London. One of the Selfridges advertising slogans was: &quot;Shopping at Selfridge's: A Pleasure - A Pastime - A Recreation&quot;. Department stores were 'fantasy palaces', luxuriously built from marble, iron ornaments, large open staircases, parquet flooring and silk and leather furniture. They were the first public places that used electric lighting, and not just for illuminating but also for the theatrical effects. Everything was configured for service and having fun whilst shopping, supported by unique spaces for children, restaurants, roof terraces, zoological gardens, ice-skating rinks, libraries, galleries, travel agencies, banks and all manner of services for delivering your purchases to your home. And that wasn’t everything: &quot;In their display of goods and use of colour, they often drew on the convention of theatre and exhibitions, continually innovating in order to produce new, vivid and seductive environments, with </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>mise-en-scenes</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> which combined, or offered in sequence, modernist, traditional and exotic decors (…) These magnificent stage sets also served as a backdrop to live entertainment, which was provided on a regular basis. There were live orchestras in the restaurants and tea rooms - and even, occasionally, in the grocery departments. Dress shows, and pageants were regular events. 'Spectacular oriental extravaganzas', which included live tableaux of Turkish harems, Cairo markets or Hindu temples, with live performers, dance, music and of course oriental products, were also held frequently.&quot; (Nava, 1997, pp. 66-67; also see Stobart, 2008).</Content>
+    <Content> which combined, or offered in sequence, modernist, traditional and exotic decors (…) These magnificent stage sets also served as a backdrop to live entertainment, which was provided on a regular basis. There were live orchestras in the restaurants and tea rooms and even, occasionally, in the grocery departments. Dress shows and pageants were regular events. 'Spectacular oriental extravaganzas', which included live tableaux of Turkish harems, Cairo markets or Hindu temples, with live performers, dance, music and of course oriental products, were also held frequently.&quot; (Nava, 1997, pp. 66-67; also see Stobart, 2008).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -1626,9 +1610,9 @@
     <Content>online fitting rooms</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) as counterparts to in-store interactive full-length mirrors, where the image of the person filmed using a webcam is used for the virtual ‘fitting’ of all kinds of goods, from glasses, wigs, jewellery to make-up. Complete 3D shops can also be found online where you can walk through the shop like 'in real life’ and do your shopping. These can also be personalised so that you do not have to spend an endless amount of time looking for that one particular product. Because sizes are a significant bottleneck when ordering clothing online, online solutions for this have been developed that allow you to have a model of yourself produced and have that model try on the clothes (</Content>
+    <Content>) as counterparts to in-store interactive full-length mirrors, where the image of the person filmed using a webcam is used for the virtual ‘fitting’ of all kinds of goods, from glasses, wigs, jewellery to make-up. Complete 3D shops can also be found online in which you can walk through the shop like 'in real life’ and do your shopping. These can also be personalised so that you do not have to spend an endless amount of time looking for that one particular product. Because sizes are a significant bottleneck when ordering clothing online, online solutions for this have been developed that allow you to have a model of yourself produced and have that model try on the clothes (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://corpo.myvirtualmodel.com/index.html</Content>
     </CharacterStyleRange>
@@ -1656,11 +1640,11 @@
     <Content>In 2012, Tesco launched a web-application that enabled consumers to create a 3D-photo-realistic model by entering body measurements and uploading two photos. Users of the Tesco feature were invited to upload a photo of their face to create the face of the virtual model. After some small adjustments, such as entering some identification points to calculate face measurements and adding a hairstyle, one could start creating the body by giving information about height, weight, and hip measurements (or by uploading a body photo). After the avatar was created, the consumer could start the shopping and fitting process. After the consumer created a model, (s)he could start adding clothes and see how the garments fitted. This meant that shoppers could ‘try on’ clothing while sitting at home behind their laptops, without having to pay a visit to the actual store.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>With this feature, Tesco hoped to offer an extra service that would allow consumers to avoid long queues and try on clothing via their virtual avatar. However, looking at their website, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.clothingattesco.com</Content>
     </CharacterStyleRange>
@@ -1671,7 +1655,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Finally, there are also technological innovations in the area of smartphones that are worth mentioning. Virtual reality has, for instance, become possible through the use of a certain app in combination with the Google Cardboard. We created this type of app where anyone with a smartphone and a Google Cardboard can virtually ‘walk’ through the byAmfi store in Amsterdam, wherever they are (Riester &amp; Van Vliet, 2014). You can stand in six different places in and around the store and literally look around. A voice-over will guide you through the store at the pace you decide. Augmented reality via the smartphone is also used to boost the consumer experience and to provide additional information about a product. The latter is a common use of the smartphone: whether it is by scanning QR codes, via Bluetooth (beacons) or RFID, the smartphone is a commonly used device for providing consumers with personalised extra information or for informing them about special offers. This additional information is often combined with information about the consumer’s location (</Content>
+    <Content>Finally, there are also technological innovations in the area of smartphones that are worth mentioning. Virtual reality has, for instance, become possible through the use of a certain app in combination with the Google Cardboard. We created an app like this, in which anyone with a smartphone and a Google Cardboard can virtually ‘walk’ through the byAmfi Statement Store in Amsterdam, wherever they are (Riester &amp; Van Vliet, 2014). You can stand in six different places in and around the store and literally look around. A voice-over will guide you through the store at the pace you decide. Augmented reality via the smartphone is also used to boost the consumer experience and to provide additional information about a product. The latter is a common use of the smartphone: whether it is by scanning QR codes, via Bluetooth (beacons) or RFID, the smartphone is a commonly used device for providing consumers with personalised extra information or for informing them about special offers. This additional information is often combined with information about the consumer’s location (</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>location based services</Content>
@@ -1679,7 +1663,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>). For example, a few years ago Wehkamp was able to launch a campaign that gave consumers a 10% extra discount on Wehkamp products if the consumer was in a competitor’s physical store, for example in the Mediamarkt, at that moment (Hofste &amp; Teeuw, 2012). Another example is the Shopkick app (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.shopkick.com</Content>
     </CharacterStyleRange>
@@ -1697,7 +1681,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Do you want to show multiple products in one advertisement, but don’t have the space to do so? Or do you want to offer a new experience for consumers while browsing through advertisements? Augmented reality advertising does just that. Augmented reality ads can offer a new product experience. According to Layar (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.layar.com/why-layar/</Content>
     </CharacterStyleRange>
@@ -1750,7 +1734,7 @@
     <Content>couponing</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (Velti, 2013). The latter can, for example, be via an 'opt-in' procedure where the customer can decide whether or not to receive coupons. These expectations are not only based on the increasing use of smartphones, but also on the fact that the smartphone is experienced as being personal and the retailer has the possibility to ‘follow’ the consumer everywhere: &quot;Retailers can now enter the consumer's environment through the mobile device, and, because the mobile device stays with the consumer, the retailer can be anywhere, anytime&quot; (Shankar et al., 2010, p. 112). There is, however, a shift taking place in the belief that mobile devices not only have to have a function for attracting the consumers to the store but that they also have to be seen as a channel that must support the entire sales process, including in the store: &quot;Mobile's role is to bind the digital and physical selling environments together in a meaningful way for consumers.&quot; (Kilcourse &amp; Rowen, 2014, p. 22). The main reasons why retailers and advertisers are lagging behind are: budget and knowledge as well as mistrust on the part of consumers about (push) marketing (Shankar et al., 2010; Velti, 2013; Kilcourse &amp; Rowen, 2014).</Content>
+    <Content> (Velti, 2013). The latter can, for example, be via an 'opt-in' procedure where the customer can decide whether or not to receive coupons. These expectations are not only based on the increasing use of smartphones, but also on the fact that the smartphone is experienced as being personal and the retailer has the possibility to ‘follow’ the consumer everywhere: &quot;Retailers can now enter the consumer's environment through the mobile device, and, because the mobile device stays with the consumer, the retailer can be anywhere, anytime&quot; (Shankar et al., 2010, p. 112). There is, however, a shift taking place in the belief that mobile devices not only have to have a function for attracting the consumers to the store but that they also have to be seen as a channel that must support the entire sales process, including in the store: &quot;Mobile's role is to bind the digital and physical selling environments together in a meaningful way for consumers.&quot; (Kilcourse &amp; Rowen, 2014, p. 22). The main reasons why retailers and advertisers are lagging behind are budget and knowledge as well as mistrust on the part of consumers about (push) marketing (Shankar et al., 2010; Velti, 2013; Kilcourse &amp; Rowen, 2014).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1768,6 +1752,49 @@
     <Content>The organisation domain in the STOF model concerns innovations in collaboration with other parties in the value chain and the organisation of the processes for delivering the service to the customer. An innovation that has been ongoing for somewhat longer in the value chain is what is known as 'fast fashion'. For many fashion retailers, the process commences with the supplier and designer who design a new collection a year beforehand. New collections are, for example, launched twice per year in the store, after which the consumer buys the clothing. With 'fast fashion' the starting point is the buying pattern of the consumers, which is monitored closely: what is popular, what is the big seller, et cetera. The store manager then places orders with designers on the basis of this information. The logistics process is configured in such a way that the new collection is on display in the store within two weeks. This involves higher logistics and production costs, but, on the other hand, only products are sold for which there is a demand, so they can be sold at full price, and little of the collection ends up in the sales. Examples of stores that use this process are Zara (Inditex), Peacocks and Forever21. This so-called chain reversal is seen as an important future strategy for physical stores (Molenaar, 2011).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Another innovation for which various examples can be given is online collaboration. For small, independent retailers it is difficult to compete online against the large platforms due to the costs and the knowhow required and also because it is difficult to attract sufficient consumers to a relatively unknown website or webshop. An increasing number of major players such as Amazon and Bol.com give small shops the possibility to use their platform. The benefit for such a platform is that their product range increases even further, and their position as a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>one-stop-shop</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is strengthened. For the small retailers, they not only benefit from all kinds of webshop logistics processes (order fulfilment, secure payments) but the penetration to potential customers is increased many times compared to them having just their own webshop. In the fashion industry, the Scandinavian firm Miinto is a good example of this. This platform provides independent fashion retailers with their online webshop, which is part of the general catalogue of the platform. The fashion retailers can also ‘buy in’ other services from Miinto such as collection photography and transaction handling. Other examples are </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>etsy.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>jeansonline.nl</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>topshoe.nl</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. The collaboration does not need to be exclusively based on product category (jeans, shoes) but can also, for example, be based on location – an example of which is the 9straatjes in Amsterdam (</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>9straatjesonline.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>SELL ON MIINTO</Content>
@@ -1780,61 +1807,18 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Another innovation for which various examples can be given is online collaboration. For small, independent retailers it is difficult to compete online against the large platforms due to the costs and the knowhow required and also because it is difficult to attract sufficient consumers to a relatively unknown website or webshop. An increasing number of major players such as Amazon and Bol.com give small shops the possibility to use their platform. The benefit for such a platform is that their product range increases even further, and their position as a </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>one-stop-shop</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> is strengthened. For the small retailers, they not only benefit from all kinds of webshop logistics processes (order fulfilment, secure payments) but the penetration to potential customers is increased many times compared to them having just their own webshop. In the fashion industry, the Scandinavian firm Miinto is a good example of this. This platform provides independent fashion retailers with their online webshop, which is part of the general catalogue of the platform. The fashion retailers can also ‘buy in’ other services from Miinto such as collection photography and transaction handling. Other examples are </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>etsy.com</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>jeansonline.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>topshoe.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. The collaboration does not need to be exclusively based on product category (jeans, shoes) but can also, for example, be based on location – an example of which is the 9straatjes in Amsterdam (</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>9straatjesonline.com</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>).</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>However, the majority of the innovations encountered in the organisational domain concern logistics. For example, the smart integration of stock systems so that it is possible to see whether and where a product is still available in the store or online. There are also so-called </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>stockless stores</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> where customers can see the complete stock or collection in a physical store using iPads or large video walls, place their orders and have the products delivered to their homes. At most, there are some demo products available in the store. An example of this is the Scottish retailer House of Fraser. The vast majority of the examples are, however, about delivery of products to customers. In fashion, delivery is one of the most important aspects of consumer satisfaction (Peters &amp; Witte, 2013). Customer satisfaction is not only an important criterion for paying a lot of attention to delivery; the costs are also important. In 2012, a quarter of the 88 million online orders resulted in a return, for fashion this was as high as 60%, while for electronics it was only 5% (PWC, 2013). Returns and the logistics surrounding them cost a lot of money. As long as it remains difficult to implement suitable sizing online and to properly convey the colour and texture properties returns will, for the time being, continue to be an important aspect of the service and the costs.</Content>
+    <Content> where customers can see the complete stock or collection in a physical store using iPads or large video walls, place their orders and have the products delivered to their homes. At most, there are some demo products available in the store. An example of this is the Scottish retailer House of Fraser. The vast majority of the examples are, however, about delivery of products to customers. In fashion, delivery is one of the most important aspects of consumer satisfaction (Peters &amp; Witte, 2013). Customer satisfaction is not only an important criterion for paying a lot of attention to delivery; the costs are also important. In 2012, a quarter of the 88 million online orders resulted in a return. For fashion this was as high as 60%, while for electronics it was only 5% (PWC, 2013). Returns and the logistics surrounding them cost a lot of money. As long as it remains difficult to implement suitable sizing online and to properly convey the colour and texture properties returns will, for the time being, continue to be an important aspect of the service and the costs.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Although several criteria play a role in delivery, such as speed, convenience, costs and reliability, for the consumer it appears that the ability to remain in control is important. Research shows that the ability to choose a fixed delivery time is the most important aspect (31%), followed by pick-up points from a local store (24%), next-day delivery (24%) and same-day delivery (8%) (PWC, 2013). Schut et al. (2014) also find in a study that being able to determine the time of delivery is an important criterion for the customer (90%), while this is only offered in 12% of the cases. Free returns are also a wish that emerged, with around 60% of consumers stating that this is important. In reality, only 15% of deliveries can be returned free of charge. A further important aspect of returns is: quick and clear instructions about the return process and money credited to the customer’s account.</Content>
+    <Content>Although several criteria play a role in delivery, such as speed, convenience, costs and reliability, for the consumer it appears that the ability to remain in control is important. Research shows that the ability to choose a fixed delivery time is the most important aspect (31%), followed by pick-up points from a local store (24%), next-day delivery (24%) and same-day delivery (8%) (PWC, 2013). Schut et al. (2014) also found that being able to determine the time of delivery is an important criterion for the customer (90%), while this is only offered in 12% of the cases. Free returns are also a wish that emerged, with around 60% of consumers stating that this is important. In reality, only 15% of deliveries can be returned free of charge. A further important aspect of returns is: quick and clear instructions about the return process and money credited to the customer’s account.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1853,7 +1837,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>) and the delivery of ordered products to specific pick-up points, for which experiments are already being conducted with fitting rooms at pick-up points so that pick-up and returns can be combined (see </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.deburen.nl</Content>
     </CharacterStyleRange>
@@ -1891,7 +1875,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The financial domain concerns the way in which incomes are generated from a specific service or product, and the way in which risks, investments and revenues are shared between the different actors in the network. An example of this is innovations in pricing. Price comparison websites (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>kieskeurig.nl</Content>
     </CharacterStyleRange>
@@ -1899,7 +1883,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>; </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>preisroboter.de</Content>
     </CharacterStyleRange>
@@ -1907,7 +1891,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>) provide insight into the prices of different providers and lead to price adjustments on a daily basis in order to be able to sell at 'lowest prices'. Prices are adjusted dynamically on the basis of demand, competitors and seasonal fluctuations and data about other variables in which patterns are discovered that determine the sale of products (for example, see Daphne Stores: </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://vimeo.com/45975732</Content>
     </CharacterStyleRange>
@@ -1915,7 +1899,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>). Alternatively, 'exclusive' clubs are formed in which members can buy clothing at a substantially reduced price (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>www.vente-exclusive.com</Content>
     </CharacterStyleRange>
@@ -1923,7 +1907,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>fashiondeal.nl</Content>
     </CharacterStyleRange>
@@ -1931,7 +1915,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Brandinvites.nl</Content>
     </CharacterStyleRange>
@@ -1942,7 +1926,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A considerable amount of innovations concern payment methods, which are often managed by technological development and are focussed on customer convenience. A collaboration between Samsung and Paypal means that Paypal is pre-installed on the Gear2 Watch. A development like Near Field Communication (NFC) incorporated in, amongst other things, bank cards or mobile phones makes it possible to make payments easily and quickly. Contactless payment systems are, like the name already suggest, systems whereby customers can pay for their goods without having to insert their card into a payment terminal. Signatures and PIN codes are also no longer a necessity. Just keep your card (or even mobile phone) close to the machine in order to pay. The embedded chip and antenna enable consumers to swipe their card over a reader at the point of sale. In the Netherlands you can pay amounts up to 25 euro in this manner. If you have to pay a higher amount, you still have to insert your PIN card.</Content>
+    <Content>A considerable amount of innovations concern payment methods, which are often managed by technological development and are focussed on customer convenience. A collaboration between Samsung and Paypal means that Paypal is pre-installed on the Gear2 Watch. A development like Near Field Communication (NFC) incorporated in, amongst other things, bank cards or mobile phones makes it possible to make payments easily and quickly. Contactless payment systems are, like the name already suggest, systems whereby customers can pay for their goods without having to insert their card into a payment terminal. Signatures and PIN codes are also no longer a necessity. Just keep your card (or even mobile phone) close to the machine in order to pay. The embedded chip and antenna enable consumers to swipe their card over a reader at the point of sale. In the Netherlands you can pay amounts up to 25 euro in this manner. If you have to pay a higher amount, you still have to insert your PIN code.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -1971,8 +1955,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747</Content>
-        </CharacterStyleRange><Br />
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1984,7 +1973,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>A more serious development is that of consumer-to-consumer transactions. On the one hand this concerns marketplaces where consumers can trade between each other, with the most well-known examples being </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>eBay.com</Content>
     </CharacterStyleRange>
@@ -1992,7 +1981,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> and </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>marktplaats.nl</Content>
     </CharacterStyleRange>
@@ -2000,7 +1989,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. This has expanded into all kinds of products and services, such as travel (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>airbnb.com</Content>
     </CharacterStyleRange>
@@ -2008,7 +1997,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>), hiring a car from someone local (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>snappcar.com</Content>
     </CharacterStyleRange>
@@ -2016,7 +2005,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>), selling homemade products (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>etsy.com</Content>
     </CharacterStyleRange>
@@ -2024,7 +2013,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>) and peer-to-peer lending without the intervention of a bank (</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>prosper.com</Content>
     </CharacterStyleRange>
@@ -2032,7 +2021,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>). On the other hand, it is also about borrowing and exchanging, as is the case on peerby.com, where you can borrow things from local people, or </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>thuisafgehaald.nl</Content>
     </CharacterStyleRange>
@@ -2070,7 +2059,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Social media also involve challenges for the retailers. The retailers all mention that they use social media especially because they are free, but they do find it hard to use them in a positive manner How does one deal with complaints? Or what to do with fake accounts, promising discounts and free gifts that are not available? What to do with the comments and data that it produces? When do you know when you are doing well? Does 10,000 likes represent good positioning? A lot of questions arise about how to deal with the (potential) customer, how to create a good dialogue, how to use the data that companies receive and what kind of actions should be related to it. What percentage of those 10,000 likes will actually buy something of your brand? Recommend your brand? Or discourage others to buy something of your brand? The interviewed retailers are whistling in the dark.</Content>
+    <Content>Social media also involve challenges for the retailers. The retailers all mention that they use social media especially because they are free, but they do find it hard to use them in a positive manner. How does one deal with complaints? Or what to do with fake accounts, promising discounts and free gifts that are not available? What to do with the comments and data that it produces? When do you know when you are doing well? Does 10,000 likes represent good positioning? A lot of questions arise about how to deal with the (potential) customer, how to create a good dialogue, how to use the data that companies receive and what kind of actions should be related to it. What percentage of those 10,000 likes will actually buy something of your brand? Recommend your brand? Or discourage others to buy something of your brand? The interviewed retailers are whistling in the dark.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
@@ -2108,7 +2097,7 @@
     <Content>extravagance</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> - literally, 'wandering out'. It is open-ended, with no precise plans or destinations: you can spend all day or not, you may just look and not buy. Going shopping is pleasurable, and possibly transgressive and excessive: you may spend too much time or too much money. Doing the shopping, on the other hand, suggests an obligation or a regular routine. ‘The' shopping implies something both planned and limited: the definite article, with no extras or deviations. Going shopping points to fashion, clothes and leisure; doing the shopping is food shopping, for the most part regarded as a chore. Food is necessary, fashion is fun and spontaneous.&quot; (Bowlby, 1997, p. 102).</Content>
+    <Content> - literally, 'wandering out'. It is open-ended, with no precise plans or destinations: you can spend all day or not, you may just look and not buy. Going shopping is pleasurable, and possibly transgressive and excessive: you may spend too much time or too much money. Doing the shopping, on the other hand, suggests an obligation or a regular routine. It implies something both planned and limited: the definite article, with no extras or deviations. Going shopping points to fashion, clothes and leisure; doing the shopping is food shopping, for the most part regarded as a chore. Food is necessary, fashion is fun and spontaneous.&quot; (Bowlby, 1997, p. 102).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2290,43 +2279,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>More than two decades later we continue to see the same characterisations in a Shopping2020/GfK publication (GfK, 2013). For example, the report makes a distinction between the shopper who regards shopping as a necessity and the shopper who regards shopping as a pleasurable activity. The study also raises an aspect that Lehtonen &amp; Mäenpää (1997) used in their characterisation of these two types of shoppers and introduces it as a separate dimension: planned/prepared versus unplanned/spontaneous. The intersection of these two opposites or axes produces a profile of four types of shoppers (Figure 2):</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The calculating shopper: 'shopping is like work'. This type of shopper includes men and women, and all age groups are represented in it, though the 40-64 age group is more prevalent. Average income is lower than average, as is the academic level. This shopper lives in a family with children more often than the average. Purchases are planned. The preference is for own brands, and they are not sensitive to fashion or new trends. They believe that accessibility and parking facilities are important and do not find small specialist business to be particularly important. Price is the general motive for product selection. This shopper shops in well-known retail chains and well-known webshops. Online, prices are mainly compared because it is easy to do so, and a quality mark is important, as is the ease of return. With regard to reviews, those of acquaintances are preferred. In the future, this shopper will buy more online because of the decline in local retail. Typical stores that are visited are V&amp;D, Wehkamp, Hornbach, C&amp;A, Bonprix, Scapino and </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>kieskeurig.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The deliberate shopper: 'shopping is like sport'. This type of shopper also includes just as many men as women. All ages are represented, but the average age is lower than in the other groups. Income is above average and academic level is relatively high. This shopper sets out well prepared, orientates himself/herself using the Internet, chooses quality, is brand-sensitive, specialists stores are preferred and he/she likes to talk to experts in order to confirm their research. Online is easy to fit in with the hectic lifestyle and is used for comparing products and gathering more information. In the store, they seek the touch and feel and personal advice. Accessibility and an extensive range are important. Greater value is placed on experts than on their own social circle. In the future, online will be used even more for preparing for the offline visit. Typical stores visited are Duthler, We, de Bijenkorf, Cool Blue, Tommy Hilfiger and </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>Wehkamp.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The passive shopper: 'shopping is like a visit to the dentist'. This type of shopper is more often a man than a woman. All ages are represented, but the average age is higher than in the other groups. Income is average and academic level is relatively low. This shopper only goes shopping when it is absolutely necessary – at well-known retail chains in shopping centres or at local retailers where there is ample opportunity for parking. This shopper is sensitive to store staff recommendations or those made by acquaintances. Online is especially easy and well organised but the personal attention is lacking. This shopper goes for shopping convenience and minimum risk and mainly wants a simple buying process. Because of the decline in local retail this shopper will shop more online in the future, with a few well-known retailers that provide good service. Typical stores that are visited are C&amp;A, Hubo, TerStal and Hema.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The passionate shopper: 'shopping is a hobby'. This type of shopper will more often be a woman than a man. All ages are represented, but the younger age categories are more strongly represented within this group. Income is lower on average, and academic level is average. Shopping is a pleasurable activity, can be done anywhere, is a social experience and is relaxing. This shopper likes to be tempted and is driven by brand image as well as price and quality. Prefers to shop where there are a lot of stores at one location, with major brands and retail chains present. Shops mainly have to provide atmosphere and inspiration. Shops online and offline, and likes a wide choice. Online mainly means reduced experience, time between purchase and delivery and a fuss about delivery and returns. Opinions of family/friends are important, also via social media. Typical stores that are visited are Zara, Action, Zalando, Primark, H&amp;M and Vero Moda.</Content>
+    <Content>More than two decades later we continue to see the same characterisations in a Shopping2020/GfK publication (GfK, 2013). For example, this report makes a distinction between the shopper who regards shopping as a necessity and the shopper who regards shopping as a pleasurable activity. The study also raises an aspect that Lehtonen &amp; Mäenpää (1997) used in their characterisation of these two types of shoppers and introduces it as a separate dimension: planned/prepared versus unplanned/spontaneous. The intersection of these two opposites or axes produces a profile of four types of shoppers (Figure 2):</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2361,6 +2314,42 @@
     <Content>Figure 2: Four types of shoppers (GfK, 2013)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The calculating shopper: 'shopping is like work'. This type of shopper includes men and women, and all age groups are represented in it, though the 40-64 age group is more prevalent. Average income is lower than average, as is the academic level. This shopper lives in a family with children more often than the average. Purchases are planned. The preference is for own brands, and they are not sensitive to fashion or new trends. They believe that accessibility and parking facilities are important and do not find small specialist business to be particularly important. Price is the general motive for product selection. This shopper shops in well-known retail chains and well-known webshops. Online, prices are mainly compared because it is easy to do so, and a quality mark is important, as is the ease of return. With regard to reviews, those of acquaintances are preferred. In the future, this shopper will buy more online because of the decline in local retail. Typical stores that are visited are V&amp;D, Wehkamp, Hornbach, C&amp;A, Bonprix, Scapino and </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>kieskeurig.nl</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The deliberate shopper: 'shopping is like sport'. This type of shopper also includes just as many men as women. All ages are represented, but the average age is lower than in the other groups. Income is above average and academic level is relatively high. This shopper sets out well prepared, orientates himself/herself using the Internet, chooses quality, is brand-sensitive, specialists stores are preferred and he/she likes to talk to experts in order to confirm their research. Online is easy to fit in with the hectic lifestyle and is used for comparing products and gathering more information. In the store, they seek the touch and feel and personal advice. Accessibility and an extensive range are important. Greater value is placed on experts than on their own social circle. In the future, online will be used even more for preparing for the offline visit. Typical stores visited are Duthler, We, de Bijenkorf, Cool Blue, Tommy Hilfiger and </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-38" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Wehkamp.nl</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The passive shopper: 'shopping is like a visit to the dentist'. This type of shopper is more often a man than a woman. All ages are represented, but the average age is higher than in the other groups. Income is average and academic level is relatively low. This shopper only goes shopping when it is absolutely necessary – at well-known retail chains in shopping centres or at local retailers where there is ample opportunity for parking. This shopper is sensitive to store staff recommendations or those made by acquaintances. Online is especially easy and well organised but the personal attention is lacking. This shopper goes for shopping convenience and minimum risk and mainly wants a simple buying process. Because of the decline in local retail this shopper will shop more online in the future, with a few well-known retailers that provide good service. Typical stores that are visited are C&amp;A, Hubo, TerStal and Hema.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The passionate shopper: 'shopping is a hobby'. This type of shopper will more often be a woman than a man. All ages are represented, but the younger age categories are more strongly represented within this group. Income is lower on average, and academic level is average. Shopping is a pleasurable activity, can be done anywhere, is a social experience and is relaxing. This shopper likes to be tempted and is driven by brand image as well as price and quality. Prefers to shop where there are a lot of stores at one location, with major brands and retail chains present. Shops mainly have to provide atmosphere and inspiration. Shops online and offline, and likes a wide choice. Online mainly means reduced experience, time between purchase and delivery and a fuss about delivery and returns. Opinions of family/friends are important, also via social media. Typical stores that are visited are Zara, Action, Zalando, Primark, H&amp;M and Vero Moda.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Alternative Views on the Shopper</Content>
@@ -2378,7 +2367,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'Consuming as experience': the subjective emotional reactions to consumption objects. This means the ability to interpret the object: what it is, how it works, what conventions are applicable, et cetera. (understanding the 'world of baseball'), the evaluation of the object against standards, expectations, previous experiences (for example, on the basis of baseball statistics), and the emotional appreciation of those (ecstasy when there’s a home run or admiration for the elegance of a throw).</Content>
+    <Content>'Consuming as experience': the subjective emotional reactions to consumption objects. This means the ability to interpret the object: what it is, how it works, what conventions are applicable, et cetera (understanding the 'world of baseball'), the evaluation of the object against standards, expectations, previous experiences (for example, on the basis of baseball statistics), and the emotional appreciation of those (ecstasy when there’s a home run or admiration for the elegance of a throw).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
@@ -2435,7 +2424,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>To view consuming as a process raises the question of possible steps or stages. In the characterisation of this process as a 'customer journey' or 'shopping journey' there are three stages that are always mentioned: orientation, selection and decision/transaction (Hofste &amp; Teeuw, 2012). A more detailed classification from the perspective of the consumer has six stages: </Content>
+    <Content>To view consuming as a process raises the question of possible steps or stages. In the characterisation of this process as a 'customer journey' or 'shopping journey', there are three stages that are always mentioned: orientation, selection and decision/transaction (Hofste &amp; Teeuw, 2012). A more detailed classification from the perspective of the consumer has six stages: </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>awareness</Content>
@@ -2485,7 +2474,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See http://www.pinterest.com/fashionreatilfu/ for a visual report of this process by students in relation to their purchasing process. We do not discuss Molenaar’s ORCA model (2011) here because it does not add a lot and is also a model that is not without its problems, both in the linear character and in the actual modelling (semantics of arrows, process steps and outcomes are swapped, et cetera).</Content>
+          <Content>See </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-39" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.pinterest.com/fashionreatilfu/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> for a visual report of this process by students in relation to their purchasing process. We do not discuss Molenaar’s ORCA model (2011) here because it does not add a lot and is also a model that is not without its problems, both in the linear character and in the actual modelling (semantics of arrows, process steps and outcomes are swapped, et cetera).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -2546,7 +2543,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>An important shift was therefore noticeable in recent years: it is less about branding and push-strategies, and more about listening to your customer and what a brand and its products can do for them (JamJam, 2014). “It’s important to build a relationship with the customer and that they become a fan of your brand. Then they become ambassadors of your brand when they are sharing their experiences about you on their Facebook page (Anonymous retailer H, 2014). Retailers believe that honesty and emphasizing how the brand can cater to customers’ needs, will be important values in the upcoming years.</Content>
+    <Content>An important shift was therefore noticeable in recent years: it is less about branding and push-strategies, and more about listening to your customer and what a brand and its products can do for them. “It’s important to build a relationship with the customer and that they become a fan of your brand. Then they become ambassadors of your brand when they are sharing their experiences about you on their Facebook page&quot; (Anonymous retailer H, 2014). Retailers believe that honesty and emphasizing how the brand can cater to customers’ needs, will be important values in the upcoming years.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2600,6 +2597,21 @@
     <Content>Each channel has its type of consumers and its motivations for using that channel. Motivation for using a channel can be economic advantage, product range, convenience, social status, opportunity, freedom of choice, greater satisfaction, social interaction, et cetera. It is not just the motivation that can differ per channel; the loyalty displayed to a channel and the degree at which cross-buying occurs can also differ. The latter refers to the level of ‘reward’ for the consumer and the time that it takes (channel adaption duration) to switch from one channel to another. This switching pattern is a significant challenge (Weltevreden, 2012). The most commonly used ways of encouraging online visitors into a physical store are: 1) special offers online can also be used in the store, 2) the webshop looks like the store, 3) products ordered online are collected in the store. Conversely, the most commonly used ways of encouraging store visitors to go the webshop are: 1) URL visible in the store, 2) webshop and store look alike, 3) special offers in the store can also be used online (Van Ameijden et al., 2012). Fashion businesses still make little use of online strategies for encouraging store visits (Boels &amp; Weltevreden, 2013). An example of a similar looking webshop and physical store is Burberry, where the fundamental principle is that each element of the website is recreated offline (Williams, 2014).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>BURBERRY REGENT FLAGSHIP STORE</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“There was a time when sales assistants at Burberry would have carried tape measures. These days, those working at the luxury retailer’s 545 stores, concessions, outlets and franchises across the world are rarely seen without iPads.” In the Burberry flagship store at Regent Street all sorts of new digital solutions are offered to the customer to enhance the experience. A ‘magic’ mirror tells shoppers more about the item they are currently carrying with them, mannequins wear the same outfits as shown on the website, there is a giant screen that can be used to show the latest shows and they even put a secret stage. The whole concept is to integrate off- and online to stimulate an immersive experience. In their video, Burberry explains that they want to tell authentic stories. And to tell authentic stories, they also believe that the language spoken is very important, and, as Angela Ahrendts puts it, “their [consumers] language was rapidly becoming digital”. Hence, Burberry decided it should create that authentic experience by using both physical and digital languages and use the best of both to make it an immersive experience.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>How does it work? When entering the digital store, shoppers can, for instance, get extra information on garments if they carry them while standing in front of a ‘magic’ mirror. The mirror, able to recognise RFID tags, notices that the garment is nearby and shows extra information that should increase customer interest. As one can also see in the video, a great immersive experience is created by the big screens that are everywhere – they have the ability to create a different world and make you totally forget that you’re actually in a retail store. Moreover, it’s a total experience that should create a trustworthy relationship with Burberry.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Consumers who still only use one channel for gathering information and deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy &amp; Van Bruggen, 2005; Teerling et al., 2007; DigitasLBi, 2014). However, harmonising and managing channels, for example, in order to link customer data across different channels appears to be a significant challenge. The result of this is that returning customers are not recognised (whilst, for example, they are entitled to a discount) or customers are bombarded with the same information from different channels. It is about the integration of cultures, technologies, marketing strategies, elements of the organisation and understanding different consumer patterns; not exactly a trivial matter (PWC, 2007).</Content>
@@ -2627,28 +2639,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Thirdly, channels can also come into conflict with each other because they differ in the information about products and services, for example, or because it is not clear whether the same products can be bought online and offline (Rangaswamy &amp; Van Bruggen, 2005). Price differences can also result in conflicts and undesirable behaviour from the perspective of the business. Consumers also make use of this by gathering extensive information and having the product demonstrated in the store and then buying via the Internet (</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>showrooming</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>).</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>BURBERRY REGENT FLAGSHIP STORE</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“There was a time when sales assistants at Burberry would have carried tape measures. These days, those working at the luxury retailer’s 545 stores, concessions, outlets and franchises across the world are rarely seen without iPads.” In the Burberry flagship store at Regent Street all sorts of new digital solutions are offered to the customer to enhance the experience. A ‘magic’ mirror tells shoppers more about the item they are currently carrying with them, mannequins wear the same outfits as shown on the website, there is a giant screen that can be used to show the latest shows and they even put a secret stage. The whole concept is to integrate off- and online to stimulate an immersive experience. In their video, Burberry explains that they want to tell authentic stories. And to tell authentic stories, they also believe that the language spoken is very important, and, as Angela Ahrendts puts it, “their [consumers] language was rapidly becoming digital”. Hence, Burberry decided it should create that authentic experience by using both physical and digital languages and use the best of both to make it an immersive experience.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>How does it work? When entering the digital store, shoppers can, for instance, get extra information on garments if they carry them while standing in front of a ‘magic’ mirror. The mirror, able to recognise RFID tags, notices that the garment is nearby and shows extra information that should increase customer interest. As one can also see in the video, a great immersive experience is created by the big screens that are everywhere – they have the ability to create a different world and make you totally forget that you’re actually in a retail store. Moreover, it’s a total experience that should create a trustworthy relationship with Burberry.</Content>
+    <Content> Thirdly, channels can also come into conflict with each other because they differ in the information about products and services, for example, or because it is not clear whether the same products can be bought online and offline (Rangaswamy &amp; Van Bruggen, 2005). Price differences can also result in conflicts and undesirable behaviour from the perspective of the business. Consumers also make use of this by gathering extensive information and having the product demonstrated in the store and then buying via the Internet.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -2679,7 +2670,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>All over the world, stores pop up that are aimed at short-term sales. That is, creating a temporary venue where customers can buy, for instance, niche products. According to Wikipedia, Vacant (LA) was the first company that began to experiment with the concept. The store ‘pops up’ within only a couple of days, for it to quickly melt away (within a couple of days or weeks). As such, these temporary sales venues are very suitable for seasonal specials. In a time where some brick-built stores can no longer pay their rent, partly due to growing online sales, cities are having to deal with increasing numbers of empty outlets. Empty stores and offices don’t make anybody happy. They are even a little bit depressing. So why not transform them into a temporary store? This is a great opportunity for brands that do not want to spend great amounts of money on a monthly basis, but do want to sell seasonal products, or just get temporary attention. In the Netherlands, specific websites or apps help those interested in setting up a temporary store. These websites show where vacant and available stores are located. An example is Popupsqsuare. Popupsquare is a platform for pop-up stores. Pop-up queen Caroline de Jager initiated the concept, because she believes that nobody benefits from vacancy. Not the consumer, not the owner of the property and not the retailer. Popupsquare brings people together who are looking for an empty store with people who are offering an empty store. Becoming a member of popupsquare.nl makes it possible to see other peoples’ posts. Then you fill in your own profile and let others know what you are looking for or what you have to offer. If you’re really serious, you also write down your plan for the store.</Content>
+    <Content>All over the world, stores pop up that are aimed at short-term sales. That is, creating a temporary venue where customers can buy, for instance, niche products. According to Wikipedia, Vacant (LA) was the first company that began to experiment with the concept. The store ‘pops up’ within only a couple of days, for it to quickly melt away (within a couple of days or weeks). As such, these temporary sales venues are very suitable for seasonal specials. In a time where some brick-built stores can no longer pay their rent, partly due to growing online sales, cities are having to deal with increasing numbers of empty outlets. Empty stores and offices don’t make anybody happy. They are even a little bit depressing. So why not transform them into a temporary store? This is a great opportunity for brands that do not want to spend great amounts of money on a monthly basis, but do want to sell seasonal products, or just get temporary attention. In the Netherlands, specific websites or apps help those interested in setting up a temporary store. These websites show where vacant and available stores are located. An example is Popupsquare. Popupsquare is a platform for pop-up stores. Pop-up queen Caroline de Jager initiated the concept, because she believes that nobody benefits from vacancy. Not the consumer, not the owner of the property and not the retailer. Popupsquare brings people together who are looking for an empty store with people who are offering an empty store. Becoming a member of popupsquare.nl makes it possible to see other peoples’ posts. Then you fill in your own profile and let others know what you are looking for or what you have to offer. If you’re really serious, you also write down your plan for the store.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2930,7 +2921,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The concept of the 'endless aisle' in the store is intended to counteract the normally limited product range by also presenting the online product range to the in-store customer, but with the added benefit, for example, of advice from the store staff. An example is the Chasing shop in Amsterdam. Another crossover is to remove the queues at the tills in the physical store by having a lot of staff in the store so that the customer can pay immediately (Apple Store in Amsterdam), or the endless searching in a supermarket for a product whilst it can be found immediately online: &quot;To illustrate the future role of the portability of mobile devices, consider a customer with a RFID-enabled mobile device that also contains a personal shopping list. When he walks into a grocery store, the store's RFID reader can identify him and match his preferred brands to the listed items. The mobile device can display an in-store aisle-by-aisle route using the GPS, update the invoice in real-time as items are added in the shopping cart, and make an electronic payment as he walks out the store without having to wait in line to pay.&quot; (Shankar et al., 2010, p. 119).</Content>
+    <Content> The concept of the 'endless aisle' in the store is intended to counteract the normally limited product range by also presenting the online product range to the in-store customer, but with the added benefit, for example, of advice from the store staff. Another crossover is to remove the queues at the tills in the physical store by having a lot of staff in the store so that the customer can pay immediately (Apple Store in Amsterdam), or the endless searching in a supermarket for a product whilst it can be found immediately online: &quot;To illustrate the future role of the portability of mobile devices, consider a customer with a RFID-enabled mobile device that also contains a personal shopping list. When he walks into a grocery store, the store's RFID reader can identify him and match his preferred brands to the listed items. The mobile device can display an in-store aisle-by-aisle route using the GPS, update the invoice in real-time as items are added in the shopping cart, and make an electronic payment as he walks out the store without having to wait in line to pay.&quot; (Shankar et al., 2010, p. 119).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -3010,7 +3001,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Alternative classifications are available (see, amongst other things, Baker, Grewal &amp; Parasuraman, 1994; Turley &amp; Milliman, 2000; D'Astous, 2000).However, the differences are marginal. It is interesting to perform a meta-analysis on this and to relate the aspects found to, for example, analyses of social situations, like in the study by Goffman (1974).</Content>
+          <Content>Alternative classifications are available (see, amongst other things, Baker, Grewal &amp; Parasuraman, 1994; Turley &amp; Milliman, 2000; D'Astous, 2000). However, the differences are marginal. It is interesting to perform a meta-analysis on this and to relate the aspects found to, for example, analyses of social situations, like in the study by Goffman (1974).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -3179,7 +3170,7 @@
     <Content>Festivalbeleving</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (Van Vliet, 2012) there is a proposal to characterise a specific sub-class of servicescapes as experiencescapes. Experiencescapes are servicescapes that are configured for the visitor experience. The layout of stores, museums, sports stadia, restaurants, shopping centres, city parks and tourist attractions no longer focuses exclusively on the most efficient and effective service delivery but increasingly emphasises creating the experience. We no longer drink beer in a pub but rather in an Irish pub or the Hard Rock café, we don’t eat in a normal restaurant but rather in the jungle of the Rainforest Café and we shop in the Wild West themed shopping centres that promise a rich shopping experience’. Entire districts (China Town, Old Pasadena), cities (Las Vegas), regions (Merrie England) and even islands (Hawaii) consist of ‘cardboard’ nostalgia where we can re-experience the real, authentic China, England or whatever. These nostalgiascapes or retroscapes (Brown &amp; Sherry, 2003) are only one interpretation of what we can more broadly designate as experiencescapes. Experiencescapes are specific spaces that are selected, designed and managed in order to create, support and correctly guide </Content>
+    <Content> (Van Vliet, 2012) there is a proposal to characterise a specific sub-class of servicescapes as experiencescapes. Experiencescapes are servicescapes that are configured for the visitor experience. The layout of stores, museums, sports stadia, restaurants, shopping centres, city parks and tourist attractions no longer focuses exclusively on the most efficient and effective service delivery but increasingly emphasises creating the experience. We no longer drink beer in a pub but rather in an Irish pub or the Hard Rock café, we don’t eat in a normal restaurant but rather in the jungle of the Rainforest Café and we shop in the Wild West themed shopping centres that promise a rich shopping experience. Entire districts (China Town, Old Pasadena), cities (Las Vegas), regions (Merrie England) and even islands (Hawaii) consist of ‘cardboard’ nostalgia where we can re-experience the real, authentic China, England or whatever. These nostalgiascapes or retroscapes (Brown &amp; Sherry, 2003) are only one interpretation of what we can more broadly designate as experiencescapes. Experiencescapes are specific spaces that are selected, designed and managed in order to create, support and correctly guide </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>experiences</Content>
@@ -3275,7 +3266,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>If we skip the recurring discussion on what to call it (cross-media, transmedia, omni-channel, et cetera), the underlying drive is to find a conclusive answer or final understanding about how organisations should use media as an instrument in their communication with and service development for their customers. Formulated in this way it reveals that, despite all new semantics, the underlying questions have not really changed. Organisations are making (strategic) decisions about how to put all kinds of media to use in order to attract, inform, persuade and lock-in customers to whatever goal they set themselves. Due to a plethora of media occurrences, each with their particular characteristics and usages, and the many contextual variables that are apparent in any offer an organisation makes, there is a monumental task in figuring out what works and what does not work at a certain time for a particular consumer. This task has been referred to as ‘orchestration’ (Van Vliet, 2008). Different concepts can be regarded as being different interpretations of, or, different perspectives on this orchestration. Cross- media focuses on the interrelatedness of the various media or channels used in the orchestration; Transmedia or ‘sequential storytelling’ (Kleverlaan, 2014) focuses on the storyline being told throughout this orchestration; multi-channeling looks at the unique channel features of each channel and their overall contribution to the set targets.</Content>
+    <Content>If we skip the recurring discussion on what to call it (cross-media, transmedia, omni-channel, et cetera), the underlying drive is to find a conclusive answer or final understanding about how organisations should use media as an instrument in their communication with and service development for their customers. Formulated in this way it reveals that, despite all new semantics, the underlying questions have not really changed. Organisations are making (strategic) decisions about how to put all kinds of media to use in order to attract, inform, persuade and lock-in customers to whatever goal they set themselves. Due to a plethora of media occurrences, each with their particular characteristics and usages, and the many contextual variables that are apparent in any offer an organisation makes, there is a monumental task in figuring out what works and what does not work at a certain time for a particular consumer. This task has been referred to as ‘orchestration’ (Van Vliet, 2008). Different concepts can be regarded as being different interpretations of, or, different perspectives on this orchestration. Cross-media focuses on the interrelatedness of the various media or channels used in the orchestration; transmedia or ‘sequential storytelling’ (Kleverlaan, 2014) focuses on the storyline being told throughout this orchestration; multi-channeling looks at the unique channel features of each channel and their overall contribution to the set targets.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3448,12 +3439,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Dorf, D. 2011. Commerce, anyway you want it. Commerce Anywhere Blog,15 March. https://blogs.oracle.com/retail/entry/commerce_anyway_you_want_it (accessed 25 July</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>2014).</Content>
+    <Content>Dorf, D. 2011. Commerce, anyway you want it. Commerce Anywhere Blog,15 March. https://blogs.oracle.com/retail/entry/commerce_anyway_you_want_it (accessed 25 July 2014).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3530,13 +3516,8 @@
     <Content>Dé shopper bestaat niet</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-43" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+    <Content>. Retrieved from http://www.shopping2020.nl.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -3590,7 +3571,7 @@
     <Content>The Shopping Experience</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London.: Sage Publications. (pp. 186-206)</Content>
+    <Content>. London: Sage Publications. (pp. 186-206)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3719,7 +3700,7 @@
     <Content>Magrath, V. &amp; McCormick, H. 2013. Branding design elements of mobile fashion retail apps. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Joutrnal of Fashion Marketing and Management</Content>
+    <Content>Journal of Fashion Marketing and Management</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, 17</Content>
@@ -3744,13 +3725,13 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Moes, A. &amp; Van Vliet,. H. (in press). </Content>
+    <Content>Moes, A. &amp; Van Vliet,. H. (2015). </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Het effect van beacons in de ByAmfi Store</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+    <Content>. Retrieved from www.marketingtribune.nl.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3920,13 +3901,8 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Schut, G., Josten, L., Beek, A., Heinemans, L., Selimi, S. &amp; Jansen, B. 2014. Consument organiseert in 2020 zijn eigen gemak. Postnl/Capgemini Consulting. Retrieved from </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-44" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+    <Content>Schut, G., Josten, L., Beek, A., Heinemans, L., Selimi, S. &amp; Jansen, B. 2014. Consument organiseert in 2020 zijn eigen gemak. Postnl/Capgemini Consulting. Retrieved from http://www.shopping2020.nl.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -3969,15 +3945,7 @@
     <Content>Shopping 2020 synthese - de e-ambitie voor nederland</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-45" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+    <Content>. Retrieved from http://www.shopping2020.nl.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3988,13 +3956,8 @@
     <Content>Ecology. What are Sustainability-Related Retail Future Trends in 2020 that Affect Environment, Dutch Society and Businesses?</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-46" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+    <Content> Retrieved from http://www.shopping2020.nl.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -4004,13 +3967,8 @@
     <Content>Innovate or Die</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-47" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+    <Content>. Retrieved from http://www.shopping2020.nl.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -4020,15 +3978,7 @@
     <Content>De business modellen van de toekomst</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-48" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+    <Content>. Retrieved from http://www.shopping2020.nl.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4039,15 +3989,7 @@
     <Content>A Changing Future of Retail Touchpoints</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-49" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.shopping2020.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+    <Content>. Retrieved from http://www.shopping2020.nl.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4118,6 +4060,17 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Guardian. 2012. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Smart Fridge? Idiot fridge, more like</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Retrieved from http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Toonen. A. 2014. Minder winkels, wen er maar aan. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -4147,6 +4100,17 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. Amsterdam: PWC/Hogeschool van Amsterdam.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Swirl. 2014. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Swirl’s iBeacon Marketing Platform Goes Live Nationwide with Alex and Ani</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4184,50 +4148,6 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2009. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #1)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- (Red.) 2012. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Festivalbeleving. De waarde van publieksevenementen</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #3)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2013. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Analyse eerste programmaregeling Digitale Innovatie bij Musea SNS Reaal Fonds</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Utrecht: SNS Reaal Fonds. (Juni 2013)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2014. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Cross-mediascapes</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Amsterdam: Amsterdam Universtity Press.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Van Vliet, H., Brusse, R., Swart, D., Hekman, E., &amp; Rovers, M. 2013. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -4239,15 +4159,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Veenstra, M. 2012. De toekomst van retail: focus op bezoeker en experience. Gepubliceerd op </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-50" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.frankwatching.nl</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (21/02/2012).</Content>
+    <Content>Veenstra, M. 2012. De toekomst van retail: focus op bezoeker en experience. Retrieved from http://www.frankwatching.nl.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4258,15 +4170,7 @@
     <Content>Mobile Marketing Monitor 2013</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. </Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-51" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>Mobilemarketing.nl/Velti</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
+    <Content>. Retrieved from http://Mobilemarketing.nl/Velti.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4341,6 +4245,50 @@
     <Content>. GfK.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2009. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #1)</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2012. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Festivalbeleving. De waarde van publieksevenementen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #3)</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2013. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Analyse eerste programmaregeling Digitale Innovatie bij Musea SNS Reaal Fonds</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Utrecht: SNS Reaal Fonds.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2014. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cross-mediascapes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Amsterdam: Amsterdam Universtity Press.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>[BACK COVER]</Content>
@@ -4389,69 +4337,6 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://Mobilemarketing.nl/Velti" Name="link" DestinationURL="http://Mobilemarketing.nl/Velti" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-51" Name="http://Mobilemarketing.nl/Velti" Source="htss-51" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://Mobilemarketing.nl/Velti</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.frankwatching.nl" Name="link" DestinationURL="http://www.frankwatching.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-50" Name="http://www.frankwatching.nl" Source="htss-50" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.frankwatching.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-49" Name="http://www.shopping2020.nl" Source="htss-49" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-48" Name="http://www.shopping2020.nl" Source="htss-48" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-47" Name="http://www.shopping2020.nl" Source="htss-47" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-46" Name="http://www.shopping2020.nl" Source="htss-46" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-45" Name="http://www.shopping2020.nl" Source="htss-45" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-44" Name="http://www.shopping2020.nl" Source="htss-44" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shopping2020.nl" Name="link" DestinationURL="http://www.shopping2020.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-43" Name="http://www.shopping2020.nl" Source="htss-43" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shopping2020.nl</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youtube.com/watch?v=N5WurXNec7E" Name="link" DestinationURL="http://www.youtube.com/watch?v=N5WurXNec7E" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-42" Name="http://www.youtube.com/watch?v=N5WurXNec7E" Source="htss-42" Visible="true" DestinationUniqueKey="1">
     <Properties>
@@ -4473,256 +4358,256 @@
       <Destination type="object">HyperlinkURLDestination/http://www.youtube.com/watch?v=cbtf1oyNg-8</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pinterest.com/fashionreatilfu/" Name="link" DestinationURL="http://www.pinterest.com/fashionreatilfu/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-39" Name="http://www.pinterest.com/fashionreatilfu/" Source="htss-39" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.pinterest.com/fashionreatilfu/</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://Wehkamp.nl" Name="link" DestinationURL="http://Wehkamp.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-39" Name="http://Wehkamp.nl" Source="htss-39" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-38" Name="http://Wehkamp.nl" Source="htss-38" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://Wehkamp.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://kieskeurig.nl" Name="link" DestinationURL="http://kieskeurig.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-38" Name="http://kieskeurig.nl" Source="htss-38" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-37" Name="http://kieskeurig.nl" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://kieskeurig.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://thuisafgehaald.nl" Name="link" DestinationURL="http://thuisafgehaald.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-37" Name="http://thuisafgehaald.nl" Source="htss-37" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-36" Name="http://thuisafgehaald.nl" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://thuisafgehaald.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://prosper.com" Name="link" DestinationURL="http://prosper.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-36" Name="http://prosper.com" Source="htss-36" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-35" Name="http://prosper.com" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://prosper.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://etsy.com" Name="link" DestinationURL="http://etsy.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-35" Name="http://etsy.com" Source="htss-35" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-34" Name="http://etsy.com" Source="htss-34" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://etsy.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://snappcar.com" Name="link" DestinationURL="http://snappcar.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-34" Name="http://snappcar.com" Source="htss-34" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-33" Name="http://snappcar.com" Source="htss-33" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://snappcar.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://airbnb.com" Name="link" DestinationURL="http://airbnb.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-33" Name="http://airbnb.com" Source="htss-33" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-32" Name="http://airbnb.com" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://airbnb.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://marktplaats.nl" Name="link" DestinationURL="http://marktplaats.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-32" Name="http://marktplaats.nl" Source="htss-32" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-31" Name="http://marktplaats.nl" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://marktplaats.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ebay.com" Name="link" DestinationURL="http://ebay.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-31" Name="http://ebay.com" Source="htss-31" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-30" Name="http://ebay.com" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://ebay.com</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747" Name="link" DestinationURL="http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-29" Name="http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747" Source="htss-29" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://brandinvites.nl" Name="link" DestinationURL="http://brandinvites.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-30" Name="http://brandinvites.nl" Source="htss-30" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-28" Name="http://brandinvites.nl" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://brandinvites.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fashiondeal.nl" Name="link" DestinationURL="http://fashiondeal.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-29" Name="http://fashiondeal.nl" Source="htss-29" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-27" Name="http://fashiondeal.nl" Source="htss-27" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://fashiondeal.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.vente-exclusive.com" Name="link" DestinationURL="http://www.vente-exclusive.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-28" Name="http://www.vente-exclusive.com" Source="htss-28" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-26" Name="http://www.vente-exclusive.com" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.vente-exclusive.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/45975732" Name="link" DestinationURL="http://vimeo.com/45975732" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-27" Name="http://vimeo.com/45975732" Source="htss-27" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-25" Name="http://vimeo.com/45975732" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://vimeo.com/45975732</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://preisroboter.de" Name="link" DestinationURL="http://preisroboter.de" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-26" Name="http://preisroboter.de" Source="htss-26" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-24" Name="http://preisroboter.de" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://preisroboter.de</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://kieskeurig.nl" Name="link" DestinationURL="http://kieskeurig.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-25" Name="http://kieskeurig.nl" Source="htss-25" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-23" Name="http://kieskeurig.nl" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://kieskeurig.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.deburen.nl" Name="link" DestinationURL="https://www.deburen.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-24" Name="https://www.deburen.nl" Source="htss-24" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-22" Name="https://www.deburen.nl" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.deburen.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://9straatjesonline.com" Name="link" DestinationURL="http://9straatjesonline.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-23" Name="http://9straatjesonline.com" Source="htss-23" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-21" Name="http://9straatjesonline.com" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://9straatjesonline.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://topshoe.nl" Name="link" DestinationURL="http://topshoe.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-22" Name="http://topshoe.nl" Source="htss-22" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-20" Name="http://topshoe.nl" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://topshoe.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://jeansonline.nl" Name="link" DestinationURL="http://jeansonline.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-21" Name="http://jeansonline.nl" Source="htss-21" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-19" Name="http://jeansonline.nl" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://jeansonline.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://etsy.com" Name="link" DestinationURL="http://etsy.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-20" Name="http://etsy.com" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-18" Name="http://etsy.com" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://etsy.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.layar.com/why-layar/" Name="link" DestinationURL="https://www.layar.com/why-layar/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-19" Name="https://www.layar.com/why-layar/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="https://www.layar.com/why-layar/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.layar.com/why-layar/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.shopkick.com" Name="link" DestinationURL="https://www.shopkick.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="https://www.shopkick.com" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-16" Name="https://www.shopkick.com" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.shopkick.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.clothingattesco.com/" Name="link" DestinationURL="http://www.clothingattesco.com/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="http://www.clothingattesco.com/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="http://www.clothingattesco.com/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.clothingattesco.com/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://corpo.myvirtualmodel.com/index.html" Name="link" DestinationURL="http://corpo.myvirtualmodel.com/index.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="http://corpo.myvirtualmodel.com/index.html" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="http://corpo.myvirtualmodel.com/index.html" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://corpo.myvirtualmodel.com/index.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bevyup.com" Name="link" DestinationURL="http://www.bevyup.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="http://www.bevyup.com" Source="htss-15" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="http://www.bevyup.com" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.bevyup.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://Buyosphere.com" Name="link" DestinationURL="http://Buyosphere.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="http://Buyosphere.com" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="http://Buyosphere.com" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://Buyosphere.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fashionretailfuture.com" Name="link" DestinationURL="http://www.fashionretailfuture.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://www.fashionretailfuture.com" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.fashionretailfuture.com" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.fashionretailfuture.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vimeo.com/46304267" Name="link" DestinationURL="http://vimeo.com/46304267" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://vimeo.com/46304267" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="http://vimeo.com/46304267" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://vimeo.com/46304267</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.blogmakelaar.nl" Name="link" DestinationURL="http://www.blogmakelaar.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://www.blogmakelaar.nl" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="http://www.blogmakelaar.nl" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.blogmakelaar.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.winecast" Name="link" DestinationURL="http://www.winecast" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://www.winecast" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://www.winecast" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.winecast</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.beslist.nl" Name="link" DestinationURL="http://www.beslist.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.beslist.nl" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="http://www.beslist.nl" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.beslist.nl</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://peerby.com" Name="link" DestinationURL="https://peerby.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="https://peerby.com" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="https://peerby.com" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://peerby.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani/" Name="link" DestinationURL="http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani/</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.alexandani.com/our-story" Name="link" DestinationURL="http://www.alexandani.com/our-story" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="http://www.alexandani.com/our-story" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-5" Name="http://www.alexandani.com/our-story" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.alexandani.com/our-story</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.emerce.nl" Name="link" DestinationURL="http://www.emerce.nl" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://www.emerce.nl" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-4" Name="http://www.emerce.nl" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.emerce.nl</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks" Name="link" DestinationURL="http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks" Source="htss-4" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.hapi.com/products-hapifork.asp" Name="link" DestinationURL="http://www.hapi.com/products-hapifork.asp" DestinationUniqueKey="1" />
