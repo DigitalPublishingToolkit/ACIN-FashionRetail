@@ -46,7 +46,7 @@ The Fashion Retail Scape: Innovations in Shopping
 
 **Design** UNDOG, Amsterdam
 
-**EPUB development** Gottfried Haider
+**EPUB development** Gottfried Haider (PublishingLab)
 
 **Copy-editor** The Text Company
 
