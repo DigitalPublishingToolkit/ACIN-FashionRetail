@@ -413,13 +413,9 @@ fashion shopping patterns facilitated by technology.
 The 'Business Models of the Future’ report (Shopping2020, 2014a) states
 two uncertainties:
 
-1.  Do consumers act on the basis of a) individual interest – are they
-    focused on control and not willing to share, or b) collective
-    interest – are they focused on sharing and teamwork?
+1.  Do consumers act on the basis of a) individual interest – are they focused on control and not willing to share, or b) collective interest – are they focused on sharing and teamwork?
 
-2.  Are consumers looking for a) the lowest price or b) are they willing
-    to pay more for extra added value such as convenience, luxury and
-    sustainability?
+2.  Are consumers looking for a) the lowest price or b) are they willing to pay more for extra added value such as convenience, luxury and sustainability?
 
 
 ![Figure 1: Future shopping scenarios](imgs/figure1.png)
@@ -457,11 +453,9 @@ consequence, these scenarios are less abstract compared to the scenarios
 discussed above. This is a direct consequence of the uncertainties that
 were chosen:
 
-1.  Does the consumer act on the basis of a) purchasing a product or
-    service, or b) focusing on the experience?
+1.  Does the consumer act on the basis of a) purchasing a product or service, or b) focusing on the experience?
 
-2.  Does the current shopping process change or not under the influence
-    of, for example, the mobile phone?
+2.  Does the current shopping process change or not under the influence of, for example, the mobile phone?
 
 Both axes are, in fact, not chosen very well. The first axis does not so
 much describe an uncertainty but two different ‘consumers’ (see
@@ -667,7 +661,6 @@ marketing strategy. The
 website [www.blogmakelaar.nl](http://www.blogmakelaar.nl) was created as
 a result of this research. This website allows retailers to get to know
 more about fashion bloggers as a marketing communication tool.
-(contribution by Maaike Driessen)
 
 ## The Future in 2015
 
@@ -924,22 +917,13 @@ shopping areas and in so doing allowed himself to be guided by 12
 experts. In the end, he devised four principles. Their strength is that
 he attempted to translate them into specific instructions:[^7]
 
-1.  Achieve harmony, in other words harmonise all variables within a
-    shopping area with each other. For example, appropriate for the
-    environment, logical routing, correct size and scale in the shopping
-    area, correct retail choice (sectoring, price, quality), quantity
-    and quality of catering.
+1.  Achieve harmony, in other words harmonise all variables within a shopping area with each other. For example, appropriate for the environment, logical routing, correct size and scale in the shopping area, correct retail choice (sectoring, price, quality), quantity and quality of catering.
 
-2.  Avoid negative impressions that can affect the experience such as
-    dirty and unsafe environments, poor accessibility, high parking
-    charges, unoccupied property, wind nuisance, etcetera.
+2.  Avoid negative impressions that can affect the experience such as dirty and unsafe environments, poor accessibility, high parking charges, unoccupied property, wind nuisance, etcetera.
 
-3.  Activate the senses to create stimuli that feed the experience:
-    light, smell, sounds, climate control, sight lines and visual
-    aspects.
+3.  Activate the senses to create stimuli that feed the experience: light, smell, sounds, climate control, sight lines and visual aspects.
 
-4.  Create an identity by paying attention to recognisability (landmark,
-    logo, promotion) and by creating a safe and pleasant atmosphere.
+4.  Create an identity by paying attention to recognisability (landmark, logo, promotion) and by creating a safe and pleasant atmosphere.
 
 One final remark on experiences is necessary. In Van Vliet (2012) it is
 already stated, as a result of reviewing the Pine & Gilmore theory, that
@@ -1962,7 +1946,7 @@ sorts of new digital solutions are offered to the customer to enhance
 the experience. A ‘magic’ mirror tells shoppers more about the item they
 are currently carrying with them, mannequins wear the same outfits as
 shown on the website, there is a giant screen that can be used to show
-the latest shows and they even put a secret stage. The whole concept is
+the latest shows and they even put up a secret stage. The whole concept is
 to integrate off- and online to stimulate an immersive experience. In
 their video, Burberry explains that they want to tell authentic stories.
 And to tell authentic stories, they also believe that the language
@@ -2921,6 +2905,18 @@ Van Heusden, I. 2013. Appletrucje werkt niet overal. *NRC*, 18/19 april
 Van Vliet, H. 2008. *Idola van de crossmedia*. Utrecht: Hogeschool
 Utrecht.
 
+—- 2009. *De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia*.
+Utrecht: Hogeschool Utrecht. (Cell Cahier \#1)
+
+—- 2012. *Festivalbeleving. De waarde van publieksevenementen*.
+Utrecht: Hogeschool Utrecht. (Cell Cahier \#3)
+
+
+—- 2013. *Analyse eerste programmaregeling Digitale Innovatie bij Musea
+SNS Reaal Fonds*. Utrecht: SNS Reaal Fonds. 
+
+—- 2014. *Cross-mediascapes*. Amsterdam: Amsterdam University Press.
+
 Van Vliet, H., Brusse, R., Swart, D., Hekman, E., & Rovers, M. 2013.
 *Crowdsourcing*. Utrecht: Hogeschool Utrecht/Center of Expertise
 Creatieve Industrie.
@@ -2949,16 +2945,6 @@ Williams, G. 2014. E-commerce is history. *Wired*, March, pp. 110-117.
 Wolters, M. 2013. *Hoe shopt uw klant in 2020?* *GfK expertonderzoek
 shopping 2020*. GfK.
 
-—- 2009. *De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia*.
-Utrecht: Hogeschool Utrecht. (Cell Cahier \#1)
-
-—- 2012. *Festivalbeleving. De waarde van publieksevenementen*.
-Utrecht: Hogeschool Utrecht. (Cell Cahier \#3)
-
-—- 2013. *Analyse eerste programmaregeling Digitale Innovatie bij Musea
-SNS Reaal Fonds*. Utrecht: SNS Reaal Fonds. 
-
-—- 2014. *Cross-mediascapes*. Amsterdam: Amsterdam Universtity Press.
 
 
 # [BACK COVER]
