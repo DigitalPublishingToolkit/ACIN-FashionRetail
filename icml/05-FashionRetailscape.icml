@@ -217,6 +217,11 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The example on page 22 is a contribution of Maaike Driessen.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Contact</Content>
   </CharacterStyleRange>
@@ -461,7 +466,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In the predictions there are major uncertainties, for instance about the role of ecological developments (the role of sustainability, 'green' policies) and political developments (including privacy legislation, rental legislation for retail premises and opening hours policy). However, technology remains the best subject for the party game in which we envisage the situation in the (near) future. Technology and what that will bring us plays a recurring and leading role in all kinds of speculation about retail developments (e.g. Hofste &amp; Teeuw, 2012; GfK, 2013; Shopping2020, 2013; PWC, 2014; Shopping2020, 2014b). The current star players are big data, 3D printing and wearables.</Content>
+    <Content>In the predictions there are major uncertainties, for instance about the role of ecological developments (the role of sustainability, 'green' policies) and political developments (including privacy legislation, rental legislation for retail premises and opening hours policy). However, technology remains the best subject for the party game in which we envisage the situation in the (near) future. Technology and what that will bring us plays a recurring and leading role in all kinds of speculation about retail developments (e.g. Hofste &amp; Teeuw, 2012; GfK, 2013; Shopping2020, 2013; PwC, 2014; Shopping2020, 2014b). The current star players are big data, 3D printing and wearables.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -870,7 +875,7 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> was created as a result of this research. This website allows retailers to get to know more about fashion bloggers as a marketing communication tool. (contribution by Maaike Driessen)</Content>
+    <Content> was created as a result of this research. This website allows retailers to get to know more about fashion bloggers as a marketing communication tool.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -1412,7 +1417,7 @@
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>Buyosphere.com</Content>
+      <Content>Buyosphere</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1456,7 +1461,7 @@
     <Content>experiences</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Piet Zoomers said in an interview: &quot;Those that want to survive in the future will have to pay a great deal of attention to the in-store experience, certainly if one wishes to take on online shopping.&quot; (in Hofste &amp; Teeuw, 2012, p. 6). Veenstra (2012) regards 'experience' as an important weapon in combating inner-city property vacancy. Williams (2014) sees Disney's &quot;Merchantainment' strategy as the next phase of e-commerce: the retail-store strategy of offering environments where consumers want to spend time - and money (p. 114). Ter Haar (2014) talks about the 'total retail experience'. And in the PWC trend report (2014) the (digitising of the) </Content>
+    <Content>. Piet Zoomers said in an interview: &quot;Those that want to survive in the future will have to pay a great deal of attention to the in-store experience, certainly if one wishes to take on online shopping.&quot; (in Hofste &amp; Teeuw, 2012, p. 6). Veenstra (2012) regards 'experience' as an important weapon in combating inner-city property vacancy. Williams (2014) sees Disney's &quot;Merchantainment' strategy as the next phase of e-commerce: the retail-store strategy of offering environments where consumers want to spend time - and money (p. 114). Ter Haar (2014) talks about the 'total retail experience'. And in the PwC trend report (2014) the (digitising of the) </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>shopper experience</Content>
@@ -1692,7 +1697,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The level of prominence of smartphone usage in the consumer’s current buying process is apparent from, among others, the DigitasLBi study (2014). Around two-thirds of Dutch consumers stated that using a mobile phone has had a significant impact on the buying process. For example, 90% of consumers use their mobile phone to search for more information about a product when they are at home, at work or school, and around 40% do this when they are in the store. So as a retailer it is worth considering how to create a valuable experience for your customers with smartphones. The mobile phone is used in the store to search for information, to compare prices and to ask the opinion of friends and family about the products. The Snaptell app, for example, allows you to take a photograph of a book, CD or videogame and then shows reviews and ratings for the product. Purchases made by mobile phone are lagging behind somewhat; around 18% of consumers have bought something via the mobile phone during the last three months.</Content>
+    <Content>The level of prominence of smartphone usage in the consumer’s current buying process is apparent from, among others, the DigitasLBi study (2014). Around two-thirds of Dutch consumers stated that using a mobile phone has had a significant impact on the buying process. For example, 90% of consumers use their mobile phone to search for more information about a product when they are at home, at work or school, and around 40% do this when they are in the store. So as a retailer it is worth considering how to create a valuable experience for your customers with smartphones. The mobile phone is used in the store to search for information, to compare prices and to ask the opinion of friends and family about the products. The Snaptell app, for example, allows you to take a photograph of a book, CD or videogame and then shows reviews and ratings for the product. Purchases made by mobile phone are lagging behind somewhat; when asked if they had purchased a product via their smartphone in te last three months, only 18% of Dutch consumers said yes (DigitasLBi, 2014).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1813,12 +1818,12 @@
     <Content>stockless stores</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> where customers can see the complete stock or collection in a physical store using iPads or large video walls, place their orders and have the products delivered to their homes. At most, there are some demo products available in the store. An example of this is the Scottish retailer House of Fraser. The vast majority of the examples are, however, about delivery of products to customers. In fashion, delivery is one of the most important aspects of consumer satisfaction (Peters &amp; Witte, 2013). Customer satisfaction is not only an important criterion for paying a lot of attention to delivery; the costs are also important. In 2012, a quarter of the 88 million online orders resulted in a return. For fashion this was as high as 60%, while for electronics it was only 5% (PWC, 2013). Returns and the logistics surrounding them cost a lot of money. As long as it remains difficult to implement suitable sizing online and to properly convey the colour and texture properties returns will, for the time being, continue to be an important aspect of the service and the costs.</Content>
+    <Content> where customers can see the complete stock or collection in a physical store using iPads or large video walls, place their orders and have the products delivered to their homes. At most, there are some demo products available in the store. An example of this is the Scottish retailer House of Fraser. The vast majority of the examples are, however, about delivery of products to customers. In fashion, delivery is one of the most important aspects of consumer satisfaction (Peters &amp; Witte, 2013). Customer satisfaction is not only an important criterion for paying a lot of attention to delivery; the costs are also important. In 2012, a quarter of the 88 million online orders resulted in a return. For fashion this was as high as 60%, while for electronics it was only 5% (PwC, 2013). Returns and the logistics surrounding them cost a lot of money. As long as it remains difficult to implement suitable sizing online and to properly convey the colour and texture properties returns will, for the time being, continue to be an important aspect of the service and the costs.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Although several criteria play a role in delivery, such as speed, convenience, costs and reliability, for the consumer it appears that the ability to remain in control is important. Research shows that the ability to choose a fixed delivery time is the most important aspect (31%), followed by pick-up points from a local store (24%), next-day delivery (24%) and same-day delivery (8%) (PWC, 2013). Schut et al. (2014) also found that being able to determine the time of delivery is an important criterion for the customer (90%), while this is only offered in 12% of the cases. Free returns are also a wish that emerged, with around 60% of consumers stating that this is important. In reality, only 15% of deliveries can be returned free of charge. A further important aspect of returns is: quick and clear instructions about the return process and money credited to the customer’s account.</Content>
+    <Content>Although several criteria play a role in delivery, such as speed, convenience, costs and reliability, for the consumer it appears that the ability to remain in control is important. Research shows that the ability to choose a fixed delivery time is the most important aspect (31%), followed by pick-up points from a local store (24%), next-day delivery (24%) and same-day delivery (8%) (PwC, 2013). Schut et al. (2014) also found that being able to determine the time of delivery is an important criterion for the customer (90%), while this is only offered in 12% of the cases. Free returns are also a wish that emerged, with around 60% of consumers stating that this is important. In reality, only 15% of deliveries can be returned free of charge. A further important aspect of returns is: quick and clear instructions about the return process and money credited to the customer’s account.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1961,7 +1966,10 @@
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource><Br />
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -2604,17 +2612,12 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“There was a time when sales assistants at Burberry would have carried tape measures. These days, those working at the luxury retailer’s 545 stores, concessions, outlets and franchises across the world are rarely seen without iPads.” In the Burberry flagship store at Regent Street all sorts of new digital solutions are offered to the customer to enhance the experience. A ‘magic’ mirror tells shoppers more about the item they are currently carrying with them, mannequins wear the same outfits as shown on the website, there is a giant screen that can be used to show the latest shows and they even put a secret stage. The whole concept is to integrate off- and online to stimulate an immersive experience. In their video, Burberry explains that they want to tell authentic stories. And to tell authentic stories, they also believe that the language spoken is very important, and, as Angela Ahrendts puts it, “their [consumers] language was rapidly becoming digital”. Hence, Burberry decided it should create that authentic experience by using both physical and digital languages and use the best of both to make it an immersive experience.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>How does it work? When entering the digital store, shoppers can, for instance, get extra information on garments if they carry them while standing in front of a ‘magic’ mirror. The mirror, able to recognise RFID tags, notices that the garment is nearby and shows extra information that should increase customer interest. As one can also see in the video, a great immersive experience is created by the big screens that are everywhere – they have the ability to create a different world and make you totally forget that you’re actually in a retail store. Moreover, it’s a total experience that should create a trustworthy relationship with Burberry.</Content>
+    <Content>“There was a time when sales assistants at Burberry would have carried tape measures. These days, those working at the luxury retailer’s 545 stores, concessions, outlets and franchises across the world are rarely seen without iPads.” In the Burberry flagship store at Regent Street all sorts of new digital solutions are offered to the customer to enhance the experience. A ‘magic’ mirror tells shoppers more about the item they are currently carrying with them, mannequins wear the same outfits as shown on the website, there is a giant screen that can be used to show the latest shows and they even put up a secret stage. The whole concept is to integrate off- and online to stimulate an immersive experience. In their video, Burberry explains that they want to tell authentic stories. And to tell authentic stories, they also believe that the language spoken is very important, and, as Angela Ahrendts puts it, “their [consumers] language was rapidly becoming digital”. Hence, Burberry decided it should create that authentic experience by using both physical and digital languages and use the best of both to make it an immersive experience.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Consumers who still only use one channel for gathering information and deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy &amp; Van Bruggen, 2005; Teerling et al., 2007; DigitasLBi, 2014). However, harmonising and managing channels, for example, in order to link customer data across different channels appears to be a significant challenge. The result of this is that returning customers are not recognised (whilst, for example, they are entitled to a discount) or customers are bombarded with the same information from different channels. It is about the integration of cultures, technologies, marketing strategies, elements of the organisation and understanding different consumer patterns; not exactly a trivial matter (PWC, 2007).</Content>
+    <Content>Consumers who still only use one channel for gathering information and deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy &amp; Van Bruggen, 2005; Teerling et al., 2007; DigitasLBi, 2014). However, harmonising and managing channels, for example, in order to link customer data across different channels appears to be a significant challenge. The result of this is that returning customers are not recognised (whilst, for example, they are entitled to a discount) or customers are bombarded with the same information from different channels. It is about the integration of cultures, technologies, marketing strategies, elements of the organisation and understanding different consumer patterns; not exactly a trivial matter (PwC, 2007).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2936,7 +2939,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The majority of survival scenarios for the physical store focus on the strengths of the store and the weaknesses of the webshop: personal contact/advice from the staff, the ability to feel and see products and the appearance of the store/local environment: &quot;Online shopping lacks the aesthetic value compared to traditional shopping - colours, fabric and sizes - as well as the fun and social component&quot; (PWC, 2013); &quot;The ambiance in a shop is becoming an increasingly important sales aspect &quot; (Hofste &amp; Teeuw, 2012, p. 22); and &quot;Shops have to create added value through advice, the presence of physical products or through offline experiences.&quot; (Molenaar, 2011, p. 112). This is also what consumers themselves say are the most important reasons for continuing to go to the shops: seeing and trying the products, personal in-store advice from the staff, immediate availability of the product as well as special in-store offers (DigitasLBi, 2014). For consumers, the most important reasons for not ordering online are: want to see/feel products before buying (37%), delivery costs too high (36%), concern about quality of products (26%) and the ease of sending returns (20%) (Schut et al. (2014). Capitalising on the physical location / environment of the store results in all kinds of scenarios for achieving the best possible response to the unique location and the consumer who is present there, such as in inner cities and at train stations, workplaces and events (see INretail, 2014).</Content>
+    <Content>The majority of survival scenarios for the physical store focus on the strengths of the store and the weaknesses of the webshop: personal contact/advice from the staff, the ability to feel and see products and the appearance of the store/local environment: &quot;Online shopping lacks the aesthetic value compared to traditional shopping - colours, fabric and sizes - as well as the fun and social component&quot; (PwC, 2013); &quot;The ambiance in a shop is becoming an increasingly important sales aspect &quot; (Hofste &amp; Teeuw, 2012, p. 22); and &quot;Shops have to create added value through advice, the presence of physical products or through offline experiences.&quot; (Molenaar, 2011, p. 112). This is also what consumers themselves say are the most important reasons for continuing to go to the shops: seeing and trying the products, personal in-store advice from the staff, immediate availability of the product as well as special in-store offers (DigitasLBi, 2014). For consumers, the most important reasons for not ordering online are: want to see/feel products before buying (37%), delivery costs too high (36%), concern about quality of products (26%) and the ease of sending returns (20%) (Schut et al. (2014). Capitalising on the physical location / environment of the store results in all kinds of scenarios for achieving the best possible response to the unique location and the consumer who is present there, such as in inner cities and at train stations, workplaces and events (see INretail, 2014).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2976,7 +2979,15 @@
           <Content>Festivalbeleving</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> [Festival Exeprience] (Van Vliet, 2012).</Content>
+          <Content> </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-43" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>Festival Experience</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (Van Vliet, 2012).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -3030,7 +3041,7 @@
     <Content>perceived servicescape</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. This perceived servicescape seems to affect how people experience the quality of the goods on sale and the service (Baker, Grewal &amp; Parasuraman (1994). The perceived appearance of a store ('atmospherics') appears to influence the consumer’s (buying) pattern and shopping experience (Turley &amp; Milliman, 2000).</Content>
+    <Content>. This perceived servicescape seems to affect how people experience the quality of the goods on sale and the service (Baker, Grewal &amp; Parasuraman, 1994). The perceived appearance of a store ('atmospherics') appears to influence the consumer’s (buying) pattern and shopping experience (Turley &amp; Milliman, 2000).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3261,7 +3272,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>An interactive full-length mirror is just one of the many innovations that are currently on offer in the fashion retail sector that will doubtlessly force the retailer to ask himself ‘What am I to do with it?’ Is such a technological innovation to be used as a PR stunt in order to boost the image of being an innovative organisation; is it a means of drawing attention in an unconventional way and thus achieving positive customer attitude (Hutter &amp; Hoffmann, 2014); is it an alternative to existing processes or can it be integrated into existing processes? Even aside from the costs and revenues, this is already a stressful situation that is difficult to avoid because technological innovations are ongoing. As a deer staring into the headlights of an approaching car, many retailers go numb, and it is, therefore, not surprising that: “Many retailers are restrained about introducing new technologies” (PWC, 2014). A conclusion reflected in our observations of innovative behaviour of fashion retail stores in Amsterdam and the interviews with Amsterdam retailers. The interviewed retailers were often struggling with their ‘omni-channel’ strategies, especially because retailers find it hard to predict which innovations could really benefit them. Fashion retailers are aware of the fact that consumers do a lot online, but the knowledge of how to respond to that was not always present. We think the quote taken from Kilcourse &amp; Rowen (2014) is the most to the point in this case: &quot;There is a vast distance between retailers' understanding of the value of many of today's technical solutions and actual use - even though many of those technologies have been available for quite some time&quot; (p. ii).</Content>
+    <Content>An interactive full-length mirror is just one of the many innovations that are currently on offer in the fashion retail sector that will doubtlessly force the retailer to ask himself ‘What am I to do with it?’ Is such a technological innovation to be used as a PR stunt in order to boost the image of being an innovative organisation; is it a means of drawing attention in an unconventional way and thus achieving positive customer attitude (Hutter &amp; Hoffmann, 2014); is it an alternative to existing processes or can it be integrated into existing processes? Even aside from the costs and revenues, this is already a stressful situation that is difficult to avoid because technological innovations are ongoing. As a deer staring into the headlights of an approaching car, many retailers go numb, and it is, therefore, not surprising that: “Many retailers are restrained about introducing new technologies” (PwC, 2014). A conclusion reflected in our observations of innovative behaviour of fashion retail stores in Amsterdam and the interviews with Amsterdam retailers. The interviewed retailers were often struggling with their ‘omni-channel’ strategies, especially because retailers find it hard to predict which innovations could really benefit them. Fashion retailers are aware of the fact that consumers do a lot online, but the knowledge of how to respond to that was not always present. We think the quote taken from Kilcourse &amp; Rowen (2014) is the most to the point in this case: &quot;There is a vast distance between retailers' understanding of the value of many of today's technical solutions and actual use - even though many of those technologies have been available for quite some time&quot; (p. ii).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3319,7 +3330,7 @@
     <Content>Explorations in Consumer Culture Theory</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London, New York: Routledge. (pp. 83-97)</Content>
+    <Content>. London, New York: Routledge. (pp. 83-97).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3341,7 +3352,7 @@
     <Content>Shopper Marketing. How to Increase Decisions at the Point of Sale</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Kogan Page. (pp. 211-218)</Content>
+    <Content>. London: Kogan Page. (pp. 211-218).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3363,7 +3374,7 @@
     <Content>The Shopping Experience</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London, etc.: Sage Publications. (pp. 92- 110)</Content>
+    <Content>. London, etc.: Sage Publications. (pp. 92- 110).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3483,7 +3494,7 @@
     <Content>Handbook of Consumer Psychology</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. New York, London: Psychology Press. (pp. 823 − 835)</Content>
+    <Content>. New York, London: Psychology Press. (pp. 823 − 835).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3571,7 +3582,7 @@
     <Content>The Shopping Experience</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Sage Publications. (pp. 186-206)</Content>
+    <Content>. London: Sage Publications. (pp. 186-206).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3659,7 +3670,7 @@
     <Content>The Shopping Experience</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Sage Publications. (pp. 136-165)</Content>
+    <Content>. London: Sage Publications. (pp. 136-165).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3681,7 +3692,7 @@
     <Content>Shopper Marketing. How to Increase Decisions at the Point of Sale</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Kogan Page. (pp. 117-124)</Content>
+    <Content>. London: Kogan Page. (pp. 117-124).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3753,7 +3764,7 @@
     <Content>The Shopping Experience</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London, etc.: Sage Publications. (pp. 56-92)</Content>
+    <Content>. London, etc.: Sage Publications. (pp. 56-92).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3786,7 +3797,7 @@
     <Content>Experiencescapes: Tourism, Culture, and Economy</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Copenhagen, Business School Press. (pp. 11 - 33)</Content>
+    <Content>. Copenhagen, Business School Press. (pp. 11 - 33).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3797,7 +3808,7 @@
     <Content>Handbook of Consumer Psychology</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. New York, London: Psychology Press. (pp. 193 − 219)</Content>
+    <Content>. New York, London: Psychology Press. (pp. 193 − 219).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3824,13 +3835,13 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>PWC. 2007. </Content>
+    <Content>PwC. 2007. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Convergence Monitor: The Digital Home. Understanding the Customer in het New Converged World</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. PriceWaterhouseCoopers.</Content>
+    <Content>. PricewaterhouseCoopers.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -3885,7 +3896,7 @@
     <Content>Shopper Marketing. How to Increase Decisions at the Point of Sale</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Kogan Page. (pp. 39-43)</Content>
+    <Content>. London: Kogan Page. (pp. 39-43).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4000,7 +4011,7 @@
     <Content>Shopper Marketing. How to Increase Decisions at the Point of Sale</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Kogan Page. (pp. 51-64)</Content>
+    <Content>. London: Kogan Page. (pp. 51-64).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4066,7 +4077,7 @@
     <Content>Smart Fridge? Idiot fridge, more like</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks</Content>
+    <Content>. Retrieved from http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4099,7 +4110,7 @@
     <Content>Selling to the multichannel consumer. Strategic and operational challenges for multi-channel retailers</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Amsterdam: PWC/Hogeschool van Amsterdam.</Content>
+    <Content>. Amsterdam: PwC/Hogeschool van Amsterdam.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4110,7 +4121,7 @@
     <Content>Swirl’s iBeacon Marketing Platform Goes Live Nationwide with Alex and Ani</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani</Content>
+    <Content>. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4121,7 +4132,7 @@
     <Content>Shopper Marketing. How to Increase Decisions at the Point of Sale</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. London: Kogan Page. (pp. 131-136)</Content>
+    <Content>. London: Kogan Page. (pp. 131-136).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4148,6 +4159,50 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2009. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #1).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2012. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Festivalbeleving. De waarde van publieksevenementen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #3).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2013. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Analyse eerste programmaregeling Digitale Innovatie bij Musea SNS Reaal Fonds</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Utrecht: SNS Reaal Fonds.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>—- 2014. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cross-mediascapes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Amsterdam: Amsterdam University Press.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Van Vliet, H., Brusse, R., Swart, D., Hekman, E., &amp; Rovers, M. 2013. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -4170,7 +4225,7 @@
     <Content>Mobile Marketing Monitor 2013</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Retrieved from http://Mobilemarketing.nl/Velti.</Content>
+    <Content>. Retrieved from http://www.adformatie.nl/dossier/mobile-marketing-monitor-2013.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4181,7 +4236,7 @@
     <Content>Servicescapes</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Chicago: NTC Business Books. (pp. 343-375)</Content>
+    <Content>. Chicago: NTC Business Books. (pp. 343-375).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4245,50 +4300,6 @@
     <Content>. GfK.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2009. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #1)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2012. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Festivalbeleving. De waarde van publieksevenementen</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Utrecht: Hogeschool Utrecht. (Cell Cahier #3)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2013. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Analyse eerste programmaregeling Digitale Innovatie bij Musea SNS Reaal Fonds</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Utrecht: SNS Reaal Fonds.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>—- 2014. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Cross-mediascapes</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Amsterdam: Amsterdam Universtity Press.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>[BACK COVER]</Content>
@@ -4337,6 +4348,13 @@
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.crossmedialab.nl/files/Cahier_Festivalbeleving.pdf" Name="link" DestinationURL="http://www.crossmedialab.nl/files/Cahier_Festivalbeleving.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-43" Name="http://www.crossmedialab.nl/files/Cahier_Festivalbeleving.pdf" Source="htss-43" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.crossmedialab.nl/files/Cahier_Festivalbeleving.pdf</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youtube.com/watch?v=N5WurXNec7E" Name="link" DestinationURL="http://www.youtube.com/watch?v=N5WurXNec7E" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-42" Name="http://www.youtube.com/watch?v=N5WurXNec7E" Source="htss-42" Visible="true" DestinationUniqueKey="1">
     <Properties>
@@ -4547,11 +4565,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.bevyup.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://Buyosphere.com" Name="link" DestinationURL="http://Buyosphere.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://Buyosphere.com" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://twitter.com/buyosphere" Name="link" DestinationURL="https://twitter.com/buyosphere" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="https://twitter.com/buyosphere" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://Buyosphere.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://twitter.com/buyosphere</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fashionretailfuture.com" Name="link" DestinationURL="http://www.fashionretailfuture.com" DestinationUniqueKey="1" />
@@ -4575,11 +4593,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.blogmakelaar.nl</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.winecast" Name="link" DestinationURL="http://www.winecast" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.winecast" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.winecast.com" Name="link" DestinationURL="http://www.winecast.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://www.winecast.com" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.winecast</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.winecast.com</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.beslist.nl" Name="link" DestinationURL="http://www.beslist.nl" DestinationUniqueKey="1" />
