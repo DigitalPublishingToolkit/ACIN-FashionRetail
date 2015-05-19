@@ -61,6 +61,8 @@ Amsterdam), PublishingLab
 
 **Photography** [name]
 
+The example on page 22 is a contribution of Maaike Driessen.
+
 **Contact** Amsterdam Creative Industries Publishing,
 www.amsterdamcreativeindustries.com
 
@@ -1112,9 +1114,7 @@ smartphones. The mobile phone is used in the store to search for
 information, to compare prices and to ask the opinion of friends and
 family about the products. The Snaptell app, for example, allows you to
 take a photograph of a book, CD or videogame and then shows reviews and
-ratings for the product. Purchases made by mobile phone are lagging
-behind somewhat; around 18% of consumers have bought something via the
-mobile phone during the last three months.
+ratings for the product. Purchases made by mobile phone are lagging behind somewhat; when asked if they had purchased a product via their smartphone in te last three months, only 18% of Dutch consumers said yes (DigitasLBi, 2014).
 
 We can see comparable results in the Kilcourse & Rowen study (2014):
 one-third of customers use their mobile phone in the store and do so
@@ -1955,18 +1955,6 @@ spoken is very important, and, as Angela Ahrendts puts it, “their
 decided it should create that authentic experience by using both
 physical and digital languages and use the best of both to make it an
 immersive experience.
-> 
-How does it work? When entering the digital store, shoppers can, for
-instance, get extra information on garments if they carry them while
-standing in front of a ‘magic’ mirror. The mirror, able to recognise
-RFID tags, notices that the garment is nearby and shows extra
-information that should increase customer interest. As one can also see
-in the video, a great immersive experience is created by the big screens
-that are everywhere – they have the ability to create a different world
-and make you totally forget that you’re actually in a retail store.
-Moreover, it’s a total experience that should create a trustworthy
-relationship with Burberry.
-
 
 Consumers who still only use one channel for gathering information and
 deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy
@@ -2571,7 +2559,7 @@ of their business.
 [^8]: Which, of course, says nothing about a causal relationship, only
     that there is a relationship between Smartphone use and spending.
 
-[^9]: See [http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747](http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747)
+[^9]: See [http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747](http://mumbrella.com.au/special-k-launches-experiential-social-campaign-in-westfield-172747).
 
 [^10]: We have omitted the crowdsourcing phenomenon here for which, as a
     matter of fact, there is also an exchange involved: time and knowhow
@@ -2641,21 +2629,21 @@ Academy of Marketing Science*, 22, 4, pp. 328-359.
 
 Bardhi, F. & Askegaard, S. 2011. Home away from home. Home-as-order and
 dwelling in mobility. In: J.F. Sherry & E. Fischer (Eds.), *Explorations
-in Consumer Culture Theory*. London, New York: Routledge. (pp. 83-97)
+in Consumer Culture Theory*. London, New York: Routledge. (pp. 83-97).
 
 Bitner, M.J. 1992. Servicescapes: The impact of physical surroundings on
 customers and employees. *Journal of Marketing*, 56, 2, pp. 57-71.
 
 Blatt, D. 2012. The circle of shopper marketing mechanization. In:
 Stahlberg, M. & Maila, V. (Eds.). *Shopper Marketing. How to Increase
-Decisions at the Point of Sale*. London: Kogan Page. (pp. 211-218)
+Decisions at the Point of Sale*. London: Kogan Page. (pp. 211-218).
 
 Boels, H. & J. Weltevreden. 2013. *Onderzoek Online Readiness
 Modezaken*. Amsterdam: Hogeschool van Amsterdam/CAREM.
 
 Bowlby, R. 1997. Supermarket futures. In: Falk, P., & Campbell, C.
 (eds.). *The Shopping Experience*. London, etc.: Sage Publications. (pp.
-92- 110)
+92- 110).
 
 Brown, S. & Sherry, J.F. (eds.). 2003. *Time, Space, and the Market.
 Retroscapes Rising*. New York, London: M.E. Sharpe Inc.
@@ -2699,7 +2687,7 @@ Erich, M. 2014. *Winkelgebied 2025. Samen in beweging*. ING.
 Eroglu, S.A. & Machleit, K.A. 2008. Theory in Consumer-Environment
 Research. In: C.P. Haugtvedt, P.M. Herr & F.R. Kardes (eds.), *Handbook
 of Consumer Psychology*. New York, London: Psychology Press. (pp. 823 −
-835)
+835).
 
 Ezeh, Ch. & Harris, L. C. 2007. Servicescape research: A review and a
 research agenda. *The Marketing Review*, 7, 1, pp. 59-78.
@@ -2726,7 +2714,7 @@ Bridging Fashion and Marketing*, 4, 3, pp. 211-224.
 
 Hewer, P. & C. Campbell. 1997. Research on shopping: A brief history and
 selected literature. In: Falk, P., & Campbell, C. (eds.). *The Shopping
-Experience*. London: Sage Publications. (pp. 186-206)
+Experience*. London: Sage Publications. (pp. 186-206).
 
 Hofste, M. & W. Teeuw (eds.). 2012. *Winkel van de toekomst, toekomst
 van de winkel?* Enschede: Saxion, kenniscentrum Design en Technologie.
@@ -2750,14 +2738,14 @@ Benchmarkt Report 2014*. Retail Systems Research.
 
 Lehtonen, T-K. & Mäenpää, P. 1997. Shopping in the east centre mall. In:
 Falk, P., & Campbell, C. (eds.). *The Shopping Experience*. London: Sage
-Publications. (pp. 136-165)
+Publications. (pp. 136-165).
 
 Lesser, J.A. & Kamal, P. 1991. An inductively described model of the
 motivation to shop. *Psychology Marketing*, 8, (Fall), pp. 177-191.
 
 Levy, R. 2012. Ensuring your brand gets on the shopping list. In:
 Stahlberg, M. & Maila, V. (eds.). *Shopper Marketing. How to Increase
-Decisions at the Point of Sale*. London: Kogan Page. (pp. 117-124)
+Decisions at the Point of Sale*. London: Kogan Page. (pp. 117-124).
 
 Maas, A. 2013. *De redenloze consument. Over framing in marketing*.
 Rotterdam: Hogeschool Rotterdam.
@@ -2777,7 +2765,7 @@ Haag: SDU Uitgevers.
 
 Nava, M. 1997. Modernity's disavowal: Women, the city and the department
 store. In: Falk, P., & Campbell, C. (eds.). *The Shopping Experience*.
-London, etc.: Sage Publications. (pp. 56-92)
+London, etc.: Sage Publications. (pp. 56-92).
 
 Novak, Th.P., Hoffman, D.L., & Yung, Y-F. 2000. Measuring the customer
 experience in online environments: A structual modeling approach.
@@ -2790,13 +2778,13 @@ preferences: 2. Media, leisure time and music. *Psychology of Music*,
 O’Dell, T. 2005. Experiencescapes: Blurring borders and testing
 connections. In: O’Dell, T. & Billings, P. (eds.). 2005.
 *Experiencescapes: Tourism, Culture, and Economy*. Copenhagen, Business
-School Press. (pp. 11 - 33)
+School Press. (pp. 11 - 33).
 
 Peck, J. & Childers, T.L. 2008. Effects of sensory factors on consumer
 behavior. If it tastes, smells, sounds, and feels like a duck, then it
 must be a …. In: C.P. Haugtvedt, P.M. Herr & F.R. Kardes (Eds.),
 *Handbook of Consumer Psychology*. New York, London: Psychology Press.
-(pp. 193 − 219)
+(pp. 193 − 219).
 
 Peters, S. & E. Witte. 2013. *De consument in 2020*. Ede: GfK.
 
@@ -2821,7 +2809,7 @@ case of fashion blogs. *Journalism Practice, 6,* 1, 92-106.
 
 Sansolo, M. 2012. Illogic inside the mind of the shopper. In: Stahlberg,
 M. & Maila, V. (eds.). *Shopper Marketing. How to Increase Decisions at
-the Point of Sale*. London: Kogan Page. (pp. 39-43)
+the Point of Sale*. London: Kogan Page. (pp. 39-43).
 
 Schrandt, B., Riester, J. & Van Vliet, H. 2014. *Fashion's Retail
 Future: resultaten*. Presentatie voor VvFb projectgroep, maart 2014,
@@ -2859,7 +2847,7 @@ Retrieved from  http://www.shopping2020.nl.
 
 Sorensen, H. 2012. The three shopping currencies. In: Stahlberg, M. &
 Maila, V. (eds.). *Shopper Marketing. How to Increase Decisions at the
-Point of Sale*. London: Kogan Page. (pp. 51-64)
+Point of Sale*. London: Kogan Page. (pp. 51-64).
 
 Stahlberg, M. & Maila, V. (eds.). 2012. *Shopper Marketing. How to
 Increase Decisions at the Point of Sale*. London: Kogan Page.
@@ -2878,7 +2866,7 @@ Ter Haar, J. 2014. *The Retail Roadmap. Navigating a New Landscape in
 which Technology Fuels Tomorrow's Human Needs*. Studio by Judith ter
 Haar.
 
-The Guardian. 2012. *Smart Fridge? Idiot fridge, more like*. Retrieved from http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks 
+The Guardian. 2012. *Smart Fridge? Idiot fridge, more like*. Retrieved from http://www.theguardian.com/lifeandstyle/2012/jan/11/homes-fooddrinks.
 
 Toonen. A. 2014. Minder winkels, wen er maar aan. *NRC*, 24 juni 2014,
 p. E6-E7.
@@ -2892,12 +2880,12 @@ A., & Weltevreden, J. 2012. *Selling to the multichannel consumer.
 Strategic and operational challenges for multi-channel retailers*.
 Amsterdam: PWC/Hogeschool van Amsterdam.
 
-Swirl. 2014. *Swirl’s iBeacon Marketing Platform Goes Live Nationwide with Alex and Ani*. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani
+Swirl. 2014. *Swirl’s iBeacon Marketing Platform Goes Live Nationwide with Alex and Ani*. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani.
 
 Van Galen, T. 2012. The missing link: turning shopper insight into
 practice. In: Stahlberg, M. & Maila, V. (eds.). *Shopper Marketing. How
 to Increase Decisions at the Point of Sale*. London: Kogan Page. (pp.
-131-136)
+131-136).
 
 Van Heusden, I. 2013. Appletrucje werkt niet overal. *NRC*, 18/19 april
 2013, p. 31.
@@ -2906,10 +2894,10 @@ Van Vliet, H. 2008. *Idola van de crossmedia*. Utrecht: Hogeschool
 Utrecht.
 
 —- 2009. *De Digitale Kunstkammer. Cultureel Erfgoed en Crossmedia*.
-Utrecht: Hogeschool Utrecht. (Cell Cahier \#1)
+Utrecht: Hogeschool Utrecht. (Cell Cahier \#1).
 
 —- 2012. *Festivalbeleving. De waarde van publieksevenementen*.
-Utrecht: Hogeschool Utrecht. (Cell Cahier \#3)
+Utrecht: Hogeschool Utrecht. (Cell Cahier \#3).
 
 
 —- 2013. *Analyse eerste programmaregeling Digitale Innovatie bij Musea
@@ -2929,7 +2917,7 @@ http://Mobilemarketing.nl/Velti.
 
 Venkatesh, A. 1996. Cyberculture. Consumers and cybermarketspaces. In:
 J.F. Sherry (ed.). 1996. *Servicescapes*. Chicago: NTC Business Books.
-(pp. 343-375)
+(pp. 343-375).
 
 Weltevreden, J. 2012. *De evolutie van online winkelen in Nederland*.
 Amsterdam: Hogeschool van Amsterdam.
