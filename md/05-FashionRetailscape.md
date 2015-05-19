@@ -208,7 +208,7 @@ However, technology remains the best subject for the party game in which
 we envisage the situation in the (near) future. Technology and what that
 will bring us plays a recurring and leading role in all kinds of
 speculation about retail developments (e.g. Hofste & Teeuw, 2012; GfK,
-2013; Shopping2020, 2013; PWC, 2014; Shopping2020, 2014b). The current
+2013; Shopping2020, 2013; PwC, 2014; Shopping2020, 2014b). The current
 star players are big data, 3D printing and wearables.
 
 Big data is the analysis of linked databases in order to provide new
@@ -447,7 +447,7 @@ looking for convenience, luxury and experience, for which he or she is
 willing to pay. Online marketplaces are used to find unique products and
 services. This type of consumer is happy to be advised and often takes
 out a subscription in order to be able to continue to enjoy the
-experience (see [http://www.winecast.com](http://www.winecast)).
+experience (see [http://www.winecast.com](http://www.winecast.com)).
 
 Hofste & Teeuw (2012) also present four scenarios; however, these are
 more closely tailored to the consumer and how he or she shops. As a
@@ -810,7 +810,7 @@ it also relates to finding an appropriate or unique product or service
 for an individual. Recommendations for you, the customer, based on your
 previous purchases or based on preferences of people with similar tastes
 can be found in many webshops. Another example is
-[Buyosphere.com](http://Buyosphere.com) where you can obtain personal
+[Buyosphere](https://twitter.com/buyosphere) where you can obtain personal
 fashion advice from other visitors. Personalisation is also about
 customising the information about the service or product by taking into
 account the specific moment (morning rush hour, Wednesday afternoon,
@@ -889,7 +889,7 @@ vacancy. Williams (2014) sees Disney's "Merchantainment' strategy as the
 next phase of e-commerce: the retail-store strategy of offering
 environments where consumers want to spend time - and money (p. 114).
 Ter Haar (2014) talks about the 'total retail experience'. And in the
-PWC trend report (2014) the (digitising of the) *shopper experience* is
+PwC trend report (2014) the (digitising of the) *shopper experience* is
 referred to as a megatrend: "A digital experience of products and
 services is achieved by creating a clear experience of his product
 and/or formula, in which online and offline are integrated. This digital
@@ -1279,7 +1279,7 @@ consumer satisfaction (Peters & Witte, 2013). Customer satisfaction is
 not only an important criterion for paying a lot of attention to
 delivery; the costs are also important. In 2012, a quarter of the 88
 million online orders resulted in a return. For fashion this was as high
-as 60%, while for electronics it was only 5% (PWC, 2013). Returns and
+as 60%, while for electronics it was only 5% (PwC, 2013). Returns and
 the logistics surrounding them cost a lot of money. As long as it
 remains difficult to implement suitable sizing online and to properly
 convey the colour and texture properties returns will, for the time
@@ -1290,7 +1290,7 @@ convenience, costs and reliability, for the consumer it appears that the
 ability to remain in control is important. Research shows that the
 ability to choose a fixed delivery time is the most important aspect
 (31%), followed by pick-up points from a local store (24%), next-day
-delivery (24%) and same-day delivery (8%) (PWC, 2013). Schut et al.
+delivery (24%) and same-day delivery (8%) (PwC, 2013). Schut et al.
 (2014) also found that being able to determine the time of
 delivery is an important criterion for the customer (90%), while this is
 only offered in 12% of the cases. Free returns are also a wish that
@@ -1966,7 +1966,7 @@ recognised (whilst, for example, they are entitled to a discount) or
 customers are bombarded with the same information from different
 channels. It is about the integration of cultures, technologies,
 marketing strategies, elements of the organisation and understanding
-different consumer patterns; not exactly a trivial matter (PWC, 2007).
+different consumer patterns; not exactly a trivial matter (PwC, 2007).
 
 Even more important: there are also negative ’drivers’ (Sharma &
 Mehrotra, 2007). Firstly, the revenue drops when multiple channels are
@@ -2132,7 +2132,7 @@ strengths of the store and the weaknesses of the webshop: personal
 contact/advice from the staff, the ability to feel and see products and
 the appearance of the store/local environment: "Online shopping lacks
 the aesthetic value compared to traditional shopping - colours, fabric
-and sizes - as well as the fun and social component" (PWC, 2013); "The
+and sizes - as well as the fun and social component" (PwC, 2013); "The
 ambiance in a shop is becoming an increasingly important sales aspect "
 (Hofste & Teeuw, 2012, p. 22); and "Shops have to create added value
 through advice, the presence of physical products or through offline
@@ -2270,7 +2270,7 @@ dimensions by the consumer. The consumer will form a holistic image on
 the basis of all of the servicescape stimuli. Bitner calls this general
 impression the *perceived servicescape*. This perceived servicescape
 seems to affect how people experience the quality of the goods on sale
-and the service (Baker, Grewal & Parasuraman (1994). The perceived
+and the service (Baker, Grewal & Parasuraman, 1994). The perceived
 appearance of a store ('atmospherics') appears to influence the
 consumer’s (buying) pattern and shopping experience (Turley & Milliman,
 2000).
@@ -2444,7 +2444,7 @@ aside from the costs and revenues, this is already a stressful situation
 that is difficult to avoid because technological innovations are
 ongoing. As a deer staring into the headlights of an approaching car,
 many retailers go numb, and it is, therefore, not surprising that: “Many
-retailers are restrained about introducing new technologies” (PWC,
+retailers are restrained about introducing new technologies” (PwC,
 2014). A conclusion reflected in our observations of innovative
 behaviour of fashion retail stores in Amsterdam and the interviews with
 Amsterdam retailers. The interviewed retailers were often struggling
@@ -2593,7 +2593,7 @@ of their business.
     [http://www.youtube.com/watch?v=N5WurXNec7E](http://www.youtube.com/watch?v=N5WurXNec7E).
 
 [^15]: This section is based on the paragraph about servicescapes in the
-    book *Festivalbeleving* [Festival Exeprience] (Van Vliet, 2012).
+    book *Festivalbeleving* [Festival Experience]( http://www.crossmedialab.nl/files/Cahier_Festivalbeleving.pdf) (Van Vliet, 2012).
 
 [^16]: Alternative classifications are available (see, amongst other
     things, Baker, Grewal & Parasuraman, 1994; Turley & Milliman, 2000;
@@ -2667,12 +2667,12 @@ pp. 283-294.
 
 Dorf, D. 2010. Stop saying “multi-channel!” Commerce Anywhere Blog, 27
 December.
-https://blogs.oracle.com/retail/entry/stop\_saying\_multi-channel
+https://blogs.oracle.com/retail/entry/stop_saying_multi-channel
 (accessed 25 July 2014).
 
 Dorf, D. 2011. Commerce, anyway you want it. Commerce Anywhere Blog,15
 March.
-https://blogs.oracle.com/retail/entry/commerce\_anyway\_you\_want\_it
+https://blogs.oracle.com/retail/entry/commerce_anyway_you_want_it
 (accessed 25 July 2014).
 
 Emerce. 2014. *De Bijenkorf begint pilot met iBeacons in Rotterdam.*
@@ -2791,8 +2791,8 @@ Peters, S. & E. Witte. 2013. *De consument in 2020*. Ede: GfK.
 Pine, B.J. & Gilmore, J.H. 1999. *The Experience Economy*. Boston:
 Harvard Business School Press.
 
-PWC. 2007. *Convergence Monitor: The Digital Home. Understanding the
-Customer in het New Converged World*. PriceWaterhouseCoopers.
+PwC. 2007. *Convergence Monitor: The Digital Home. Understanding the
+Customer in het New Converged World*. PricewaterhouseCoopers.
 
 Rangaswamy, A. & Van Bruggen, G. 2005. Opportunities and challenges in
 multichannel marketing: An introduction to the special issue. *Journal
@@ -2878,7 +2878,7 @@ Research*, 49, pp. 193-211.
 Van Ameijden, D., Huismans, J., Van Vulpen, J., Wenting, R., Krawczyk,
 A., & Weltevreden, J. 2012. *Selling to the multichannel consumer.
 Strategic and operational challenges for multi-channel retailers*.
-Amsterdam: PWC/Hogeschool van Amsterdam.
+Amsterdam: PwC/Hogeschool van Amsterdam.
 
 Swirl. 2014. *Swirl’s iBeacon Marketing Platform Goes Live Nationwide with Alex and Ani*. Retrieved from http://www.swirl.com/swirls-ibeacon-marketing-platform-goes-live-nationwide-with-alex-and-ani.
 
@@ -2913,7 +2913,7 @@ Veenstra, M. 2012. De toekomst van retail: focus op bezoeker en
 experience. Retrieved from http://www.frankwatching.nl.
 
 Velti. 2013. *Mobile Marketing Monitor 2013*. Retrieved from 
-http://Mobilemarketing.nl/Velti.
+ http://www.adformatie.nl/dossier/mobile-marketing-monitor-2013.
 
 Venkatesh, A. 1996. Cyberculture. Consumers and cybermarketspaces. In:
 J.F. Sherry (ed.). 1996. *Servicescapes*. Chicago: NTC Business Books.
