@@ -28,6 +28,49 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
 ...
 
+An interactive full-length mirror that allows your customers to browse
+through an endless collection of clothing that you offer and see
+immediately whether something fits them, including when they turn
+around, and which also allows them to send a picture quickly to their
+family and friends to hear what they think. This mirror is a
+technological development that is already possible and which is being
+introduced in fashion stores here and there.
+
+But how probable is it that this technological innovation will become a
+permanent feature of our shopping experience? How probable is it that
+you as a retailer will invest in such a mirror? And does such an
+innovation will save the physical store from becoming obsolete while
+more and more consumers are buying online? And who is that consumer
+anyway and what does he or she need?
+
+In *The Fashion Retailscape* developments in (fashion) retail are
+critically analysed and enriched with insights from retailers in
+Amsterdam.
+
+**Harry van Vliet** is head of the Cross-media research group at the
+Amsterdam University of Applied Sciences. This research group examines
+the impact of new (technological) developments on business innovation
+and consumer experiences. As a trained psychologist he holds a PhD in
+the humanities from the Utrecht University. He publishes regularly on
+topics such as consumer experience, media strategy, crowdsourcing,
+cross-media and business model theory.
+
+**Anne Moes**, researcher at the Cross-media research group, is primarily
+engaged in research on innovations in fashion retail environments and
+its impact on the shopping experience for customers. She also teaches at
+the Amsterdam Fashion Institute in ‘Fashion in Retail & Marketing’. Anne
+graduated in persuasive communication (University of Amsterdam) and
+wrote her master thesis on the effect of different emotions in charity
+advertisements.
+
+**Bernadette Schrandt** works as a researcher at the Cross-media research
+group and has a degree in Media and Performance studies (Utrecht
+University). She is specifically interested in embodied experiences: how
+consumers behave in mediated environments and how their interaction with
+these media creates meaningful experiences to them. Her research mainly
+focuses on cultural experiences.
+
+
 # The Fashion Retailscape: Innovations in Shopping
     
 
@@ -2959,50 +3002,3 @@ Williams, G. 2014. E-commerce is history. *Wired*, March, pp. 110-117.
 
 Wolters, M. 2013. *Hoe shopt uw klant in 2020?* *GfK expertonderzoek
 shopping 2020*. GfK.
-
-
-
-# [BACK COVER]
-
-An interactive full-length mirror that allows your customers to browse
-through an endless collection of clothing that you offer and see
-immediately whether something fits them, including when they turn
-around, and which also allows them to send a picture quickly to their
-family and friends to hear what they think. This mirror is a
-technological development that is already possible and which is being
-introduced in fashion stores here and there.
-
-But how probable is it that this technological innovation will become a
-permanent feature of our shopping experience? How probable is it that
-you as a retailer will invest in such a mirror? And does such an
-innovation will save the physical store from becoming obsolete while
-more and more consumers are buying online? And who is that consumer
-anyway and what does he or she need?
-
-In *The Fashion Retailscape* developments in (fashion) retail are
-critically analysed and enriched with insights from retailers in
-Amsterdam.
-
-## [About the Authors]
-Harry van Vliet is head of the Cross-media research group at the
-Amsterdam University of Applied Sciences. This research group examines
-the impact of new (technological) developments on business innovation
-and consumer experiences. As a trained psychologist he holds a PhD in
-the humanities from the Utrecht University. He publishes regularly on
-topics such as consumer experience, media strategy, crowdsourcing,
-cross-media and business model theory.
-
-Anne Moes, researcher at the Cross-media research group, is primarily
-engaged in research on innovations in fashion retail environments and
-its impact on the shopping experience for customers. She also teaches at
-the Amsterdam Fashion Institute in ‘Fashion in Retail & Marketing’. Anne
-graduated in persuasive communication (University of Amsterdam) and
-wrote her master thesis on the effect of different emotions in charity
-advertisements.
-
-Bernadette Schrandt works as a researcher at the Cross-media research
-group and has a degree in Media and Performance studies (Utrecht
-University). She is specifically interested in embodied experiences: how
-consumers behave in mediated environments and how their interaction with
-these media creates meaningful experiences to them. Her research mainly
-focuses on cultural experiences.
