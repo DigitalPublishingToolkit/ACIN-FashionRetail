@@ -71,12 +71,12 @@ h1,h2,h3,h4{
 h1{
     font-size:1.8em;
     color: #f23f4e;
+    page-break-before: always;
 }
 
 h2{
     font-size: 1.2em;
     margin-top: 2em;
-    page-break-before: always;
 }
 
 
@@ -124,7 +124,9 @@ font-size: 0.5em;
 
 
 blockquote{
-    font-size: 0.8em;
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 a { color: #f23f4e;
