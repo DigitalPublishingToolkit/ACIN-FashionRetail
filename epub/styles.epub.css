@@ -1,182 +1,109 @@
 @font-face{
-    font-family: 'Arnhem';
+    font-family: 'VAGRoundedStd-Light';
     font-weight: normal;
     font-style: normal;
-    src:url('Arnhem-Normal.otf') format('opentype');
+    src:url('VAGRoundedStd-Light.otf')format("opentype");
 }
 
 @font-face{
-    font-family: 'Arnhem';
-    font-weight: normal;
-    font-style: italic;
-    src:url('Arnhem-NormalItalic.otf') format('opentype');
+    font-family: 'VAGRoundedStd-Thin';
+    font-weight: lighter;
+    font-style: normal;
+    src:url('VAGRoundedStd-Thin.otf')format("opentype");
 }
 
 @font-face{
-    font-family: 'Arnhem';
+    font-family: 'VAGRoundedStd-Bold';
     font-weight: bold;
     font-style: normal;
-    src:url('Arnhem-Bold.otf') format('opentype');
-}
-
-@font-face{
-    font-family: 'Arnhem';
-    font-weight: bold;
-    font-style: italic;
-    src:url('Arnhem-BoldItalic.otf') format('opentype');
+    src:url('VAGRoundedStd-Bold.otf')format("opentype");
 }
 
 
 @font-face{
-    font-family: 'Archivo';
+    font-family: 'VAGRoundedStd-Black';
     font-weight: normal;
     font-style: normal;
-    src:url('ArchivoBlack-Regular.otf') format('opentype');
-}
-
-
-
-@font-face{
-    font-family: 'Raleway-Regular';
-    font-weight: normal;
-    font-style: normal;
-    src:url('Raleway-Regular.otf') format('opentype');
+    src:url('VAGRoundedStd-Black.otf')format("opentype");
 }
 
 
 body{
-    font-size:12pt;
-    background: white;
-    color: black;
-    font-family: 'Arnhem', serif;
-    font-size: 12pt;
+    font-size: 10pt;
+    font-family: VAGRoundedStd-Thin;
+    hyphens: none
+    -webkit-hyphens:none;
+}
+
+
+p {
+    font-size:1em;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    hyphenate-after: 3;
+    hyphenate-before: 3;
+    hyphenate-lines: 2;
+    -webkit-hyphenate-after: 3;
+    -webkit-hyphenate-before: 3;
+    -webkit-hyphenate-lines: 2;
+    orphans: 2;
+    widows: 2;
 }
 
 
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+
+
+h1,h2,h3,h4{     
+    font-family: VAGRoundedStd-Black;
+    text-transform:uppercase;
     hyphens: none !important;
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
     adobe-hyphenate: none !important;
-    margin-left: 0;
-    margin-right: 0;
+    page-break-before: always;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    margin: 0;
 }
 
-h1 { 
-    font-family: 'Archivo', sans-serif;
-    font-size:2.7em;
-    line-height:1.0em;
-    font-weight: normal;
+h1{
+    font-size:1.8em;
+    color: #f23f4e;
 }
 
 h2{
-    font-family: 'Archivo', sans-serif;
-    font-size:1.5em;
-    line-height:0m;
-    font-weight: normal;
+    font-size: 1.2em;
+    margin-top: 2em;
+    page-break-before: always;
 }
 
 
-h3{
-    font-family: 'Archivo', sans-serif;
-    font-size:1.2em;
-    line-height:0m;
-    padding-bottom: 0.1em;
-    font-weight: normal;
-}
-
-
-h4{
-    font-family: 'Archivo', sans-serif;
-    font-size:1.0em;
-    line-height:0m;
-    padding-bottom: 0.1em;
-    font-weight: normal;
-}
-
-p {
-    font-family: 'Arnhem', serif;
-    font-size: 1em;
-    line-height:1.5em;
-    text-indent: 0;
-    widows: 2;
-    orphans: 2; /*  minimum number of lines in a block container that must be left at the bottom of the page */
-}
-
-blockquote, blockquote p  {
-    padding-left:0.3em;
-    line-height:1.3em;
-    font-size: 0.9em;
-}
-
-p.quote-author{
-    font-family: 'Raleway-Regular', sans-serif;
-    font-weight: normal;
-    margin-top: -10px;
+b,strong{
+    font-family: VAGRoundedStd-Bold;
 }
 
 figcaption{
-    font-family: 'Raleway-Regular', sans-serif;
-    font-weight: normal;
-    font-size: 0.7em;
-    line-height: 1.50em;
+        font-family: VAGRoundedStd-Bold;
+    font-size:0.8em;
 }
 
-ul.toc{
- list-style-type: none;
- list-style: none; 
- padding-left:0;
- line-height: 3.0em;
+ul, ol, dl {
+    margin: 1em 0 1em 0;
+    text-align: left;
 }
 
-li {
-    padding-top:5px;
-    padding-bottom:5px;
-}
-
-section.footnotes li {
-    padding-top:0px;
-    padding-bottom:0px;
+section.footnotes{
+    font-size:0.8em;
 }
 
 
-
-
-span.list-level1{
-    font-family: 'Archivo', sans-serif;
-    font-weight: normal;
-    font-size: 1.3em;
-}
-
-
-span.list-level2{
-    font-family: 'Archivo', sans-serif;
-    font-weight: normal;
-    font-size: 1.0em;
-}
-
-
-a {
-    color: red;    
-}
-
-a:visited {
-    color: red;    
-}
-
-figure{
-    margin-left:0px;
-    margin-right:0px;
-}
-
-
-div.cover, div.halftitle, div.title, div.publications, div.publications {
+div.cover, div.halftitle, div.title, div.publications, div#cover-image {
     text-align:center;
 }
 
-img.cover, img.halftitle, img.title {
+div#cover-image img, img#title, img#end{
     max-width: 100%;
     max-height: 100%;
     width: auto;
@@ -184,108 +111,99 @@ img.cover, img.halftitle, img.title {
 }
 
 
-p#swartz{
-    line-height:3.0em;
+img{
+    max-width:900px;
 }
 
 
-
-
-
-span.white, span.list-level1, span.list-level2, span.list-title, span.colophon, span.series{
-    background-color: #ffffff;
-    padding-left:0px;
-    padding-top:5px;
-    padding-bottom:5px;
-    padding-right:0px;
-    line-height: 1.2em;
+a.footnoteRef {
+vertical-align: super;
+line-height: normal;
+font-size: 0.5em;
 }
 
 
-div.abstract{
-   background-color: #ffffff;
-    padding-left:0px;
-    padding-top:5px;
-    padding-bottom:2px;
-    padding-right:0px;
-    line-height: 1.5em;
+blockquote{
+    font-size: 0.8em;
 }
 
-p.abstract{
-    font-size: 1.2em;
-    line-height:1.2em;
-    padding-bottom:1em;
-    widows: 2;
-    orphans: 2; /*  minimum number of lines in a block container that must be left at the bottom of the page */
-}
+a { color: #f23f4e;
+    text-decoration: none;
+  }
 
-/* footnotes */
+a:hover { color: #f23f4e;
+      text-decoration: underline;
+  }
 
-section.footnotes{
-    font-size:0.85em;
-}
-
-
-p.publications {
-    font-size:1.2em;    
+    div.streams{
+    font-family: VAGRoundedStd-Bold;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     font-weight: bold;
-    text-align:center;
-}
-
-
-
-
-
-/**/
-
-div#cover-image{
-    text-align:center;
-}
-
-a.footnoteRef{
-    vertical-align: super;
-    line-height: normal;
-    font-size: 0.5em;
-}
-
-img {
-    max-width: 98%;
-    max-height: 98%;
-    width: auto;
-    height: auto;
+    font-size: 1.15em;
+    color: #f23f4e;
+    -webkit-hyphens:none;
+    hyphens: none;
     page-break-inside: avoid;
-    -webkit-column-break-inside: avoid;
+    }
 
+
+
+hr {
+    height: 0;
+    color: #f23f4e;
+    width: 100%;
+    border: dotted 5px;
+    border-bottom: none;
+    font-size: 3em;
+    border-left: none;
+    border-right: none;
+    margin-top:10px;
 }
 
-/* section specific */
-section.level1#title-page h1 { display:none !important;}
-section.level1#digital-tailspin h1 { display:none !important; }
-section.level1#digital-tailspin p { font-weight:bold; }
-div.background { display:none !important;}
-section.level1#digital-tailspin, section.level1#colophon, section.level1#network-notebook-series, section.level1#contents {background-image: url("media/file1.png");} /*maybe this should be body*/
-
-section#title-page img { page-break-after: always;
-			 -webkit-column-break-after: always;
-		       }
-
-
-section#network-notebook-series{
-    page-break-before: always;
-    -webkit-column-break-before: always;
+hr.streams {
+    width: 15%;
 }
 
 
-section.level1#colophon p {
-    font-size:0.8em;
+ul {
+ list-style-type: none;
+ list-style: none; 
 }
 
-section.level1#contents p {
-    font-family: 'Archivo', sans-serif;
-    font-size:1.2em;
-    line-height:1.3m;
-    padding-bottom: 0.1em;
-    font-weight: normal;
+
+section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in-amsterdams-creative-city h2, section#contents h2, section#acknowledgements h2 {  
+    font-size:1.8em;
+    color: #f23f4e;
 }
 
-section.level1#inc-publications h1 { display:none !important;}
+/* Images with pink backgorund at the start of chapters:
+
+* add them now below the chapter title
+* in the epub move them above the title
+* wrap them <section class="figure">
+
+ */
+
+section.level2#empty{
+    page-break-inside: avoid;
+}
+
+section.figure{
+    background: #ffdbd7;
+    padding: 10px;
+}
+
+body.references{
+    background: #ffdbd7;
+}
+
+/*  */
+body.end, section.end{
+    text-align: center;
+    font-size:1.8em;
+    color: #f23f4e;
+    background: #ffdbd7;
+}
