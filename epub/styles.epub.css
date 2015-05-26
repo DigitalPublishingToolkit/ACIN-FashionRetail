@@ -219,3 +219,7 @@ section.footnotes li a {
     /* move the word "back" a little bit to the right */
     margin-left: 0.3em;
 }
+
+#end-notes {
+    display: none;
+}
