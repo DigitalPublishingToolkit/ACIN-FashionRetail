@@ -101,6 +101,8 @@ Conclusion
 
 ![Fashionretailfuture.com](imgs/acknowledgements.png)
 
+***
+
 We would like to thank our fellow researchers in the cross-media
 research group at the Amsterdam University of Applied Sciences and the
 members of the project ‘Virtual expectations, Physical experiences’ for
@@ -121,6 +123,8 @@ store into a ‘pop-up fieldlab’.
 # Introduction: The Fashion Retailscape
 
 ![Photo: Daan Verhorst](imgs/introduction.jpg)
+
+***
 
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
@@ -163,6 +167,8 @@ these interviews.
 # Looking Ahead
 
 ![Photo: *Nom&Malc](imgs/lookingahead.jpg)
+
+***
 
 ## Shopping in 2020
 
@@ -802,6 +808,8 @@ big task, especially when marketing budgets are limited.
 # Innovations on all Fronts
 
 ![Photo: IntelFreePress](imgs/innovation.jpg)
+
+***
 
 ## Service Innovations
 
@@ -1493,6 +1501,8 @@ retailers are whistling in the dark.
 
 ![Photo: Cees Wouda](imgs/shopper.jpg)
 
+***
+
 ## The Consumer & the Shopper
 
 All of the innovations that have been mentioned are ultimately aimed at
@@ -1852,6 +1862,8 @@ possess a membership card.
 # Cross-Media and Retail
 
 ![Photo: Anne Moes](imgs/crossmedia.JPG)
+
+***
 
 ## Channels, Channels and More Channels
 
@@ -2444,6 +2456,8 @@ the strengths of the physical store: personal advice from real people.
 # Conclusion
 
 ![Photo: Daan Verhorst](imgs/conclusion.jpg)
+
+***
 
 An interactive full-length mirror is just one of the many innovations
 that are currently on offer in the fashion retail sector that will
