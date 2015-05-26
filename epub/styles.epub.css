@@ -214,3 +214,8 @@ figcaption {
     /* Captions are displayed twice - hide for now */
     display: none;
 }
+
+section.footnotes li a {
+    /* move the word "back" a little bit to the right */
+    margin-left: 0.3em;
+}
