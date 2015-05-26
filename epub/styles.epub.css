@@ -62,7 +62,7 @@ h1,h2,h3,h4{
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
     adobe-hyphenate: none !important;
-    page-break-before: always;
+    /*page-break-before: always;*/
     page-break-after: avoid;
     page-break-inside: avoid;
     margin: 0;
