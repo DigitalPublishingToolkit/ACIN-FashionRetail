@@ -83,7 +83,7 @@ focuses on cultural experiences.
 
 Harry van Vliet, Anne Moes & Bernadette Schrandt
 
-The Fashion Retail Scape: Innovations in Shopping
+The Fashion Retailscape: Innovations in Shopping
 
 **Production** Rose Leighton
 
@@ -93,18 +93,18 @@ The Fashion Retail Scape: Innovations in Shopping
 
 **Copy-editor** The Text Company
 
-**Printer** [name]
+**Printer** Offsetdrukkerij Nuance, Zaandam
 
 **Publisher** Amsterdam Creative Industries Publishing
 
 **Supported by** Amsterdam University of Applied Sciences (Hogeschool van
 Amsterdam), PublishingLab
 
-**Cover image** [name]
+**Cover image** The byAMFI Statement Store in Amsterdam. Picture by Daan Verhorst
 
-**Photography** [name]
+**Photography** Daan Verhorst (p. 8, 62, 68), Nom&Malc (p. 10), IntelFreePress (p. 24), Cees Wouda (p. 38), Anne Moes (p. 48)
 
-The example on page 22 is a contribution of Maaike Driessen.
+**Contribution** The example on page 22 is a contribution of Maaike Driessen
 
 **Contact** Amsterdam Creative Industries Publishing,
 www.amsterdamcreativeindustries.com
@@ -115,7 +115,7 @@ our website, www.publishinglab.nl/publications
 This publication is licensed under Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
-Amsterdam, May 2015
+Amsterdam, June 2015
 
 **ISBN** 978-94-92171-02-3 (print)
 
@@ -274,6 +274,11 @@ trends and new target groups and for building up a profile of each
 customer so that the range of products on offer and the prices can be
 adapted in real time.
 
+
+<div class="streams"><hr class="streams" />Much is expected of wearables
+
+<hr class="streams" /></div>
+
 > 3D SCANNER FOR BRA-SIZE
 > 
 Bra shopping; it takes a lot of time, patience and awkward moments when
@@ -388,6 +393,8 @@ Bitcoin, etcetera). Behind Trusted Identity there are major discussions
 taking place about technological infrastructure, security, fraud and
 privacy, which also affect more legal principles such information
 ownership or more moral principles, such as who ‘owns’ your DNA profile.
+
+<div class="streams"><hr class="streams" />Knowing what one and the same person does online and in-store can result in a much better personalised offering<hr class="streams" /></div>
 
 For example, the Dutch department store the Bijenkorf in Rotterdam has
 implemented iBeacons. These small devices recognise customers when they
@@ -602,6 +609,9 @@ remained in the majority (61% in 2011) compared to 17% web-only firms in
 the retail sector. By 2011, around 22% of retailers had both a physical
 store and a webshop.
 
+<div class="streams"><hr class="streams" />The impact of online sales on physical
+shops was substantial<hr class="streams" /></div>
+
 Weltevreden (2012) concludes that the impact of online sales on physical
 shops was substantial, in addition to factors such as the economic
 crisis, increased rents for physical stores, opening time legislation
@@ -737,6 +747,10 @@ have a limited view, such as a technological view (Hofste & Teeuw,
 2012). The choice of a limited number of uncertainties when developing
 scenarios also means a full description of all innovations can never be
 given.
+
+<div class="streams"><hr class="streams" />
+There is no systematic inventory of the changes currently
+taking place in the retail sector<hr class="streams" /></div>
 
 In September 2013, the Cross-media research group of the Amsterdam
 University of Applied Sciences (AUAS) in collaboration with the
@@ -912,6 +926,9 @@ communities are a guarantee for success.
 After existing for two years, Buyosphere pulled the plug in 2014. As
 they said: “It was a million things that led to this not turning out the
 way we wanted it to.”
+
+<div class="streams"><hr class="streams" />
+Consumers do not wish to be identified when entering a store in order to be presented with a personal shopping experience<hr class="streams" /></div>
 
 However, research shows that only 14% of consumers want a personalised
 offering, 42% do not and 44% are undecided (Peters & Witte, 2013). Of
@@ -1174,6 +1191,8 @@ family about the products. The Snaptell app, for example, allows you to
 take a photograph of a book, CD or videogame and then shows reviews and
 ratings for the product. Purchases made by mobile phone are lagging behind somewhat; when asked if they had purchased a product via their smartphone in te last three months, only 18% of Dutch consumers said yes (DigitasLBi, 2014).
 
+<div class="streams"><hr class="streams" />As a retailer it is worth considering how to create a valuable experience for your customers with smartphones<hr class="streams" /></div>
+
 We can see comparable results in the Kilcourse & Rowen study (2014):
 one-third of customers use their mobile phone in the store and do so
 mainly for price comparison (62%) followed by product ratings and
@@ -1342,6 +1361,9 @@ the logistics surrounding them cost a lot of money. As long as it
 remains difficult to implement suitable sizing online and to properly
 convey the colour and texture properties returns will, for the time
 being, continue to be an important aspect of the service and the costs.
+
+<div class="streams"><hr class="streams" />Research shows that the ability to choose a fixed delivery time is the most important
+<hr class="streams" /></div>
 
 Although several criteria play a role in delivery, such as speed,
 convenience, costs and reliability, for the consumer it appears that the
@@ -1789,6 +1811,8 @@ years: from search engines (*collect*) and comparison websites
 (*evaluate alternatives*) to talking on social media about purchases
 (*evaluate*).
 
+<div class="streams"><hr class="streams" />Discriminating different stages in the consuming process, possibly comes across as a compulsory, linear and rational process<hr class="streams" /></div>
+
 Discriminating different stages in the consuming process, possibly comes
 across as a compulsory, linear and rational process. Of course, enough
 examples can be found where the customer journey is not linear and the
@@ -1979,6 +2003,9 @@ Retailers do say though that the expected increase in sales is the most
 important reason for a multi-channel strategy (Van Ameijden et al.,
 2012).
 
+<div class="streams"><hr class="streams" />Online orientation and offline buying – known as webrooming - are undertaken by the vast majority of consumers; offline orientation and online buying – known as showrooming – is still considerably less
+<hr class="streams" /></div>
+
 Each channel has its type of consumers and its motivations for using
 that channel. Motivation for using a channel can be economic advantage,
 product range, convenience, social status, opportunity, freedom of
@@ -2021,6 +2048,8 @@ spoken is very important, and, as Angela Ahrendts puts it, “their
 decided it should create that authentic experience by using both
 physical and digital languages and use the best of both to make it an
 immersive experience.
+
+<div class="streams"><hr class="streams" />Times are difficult for the physical store<hr class="streams" /></div>
 
 Consumers who still only use one channel for gathering information and
 deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy
@@ -2380,6 +2409,8 @@ rooms.
 Figure 4: Bitner's model of Servicescapes[^17]
 
 
+<div class="streams"><hr class="streams" />Experiencescapes are specific spaces that are selected, designed and managed in order to create, support and correctly guide experiences<hr class="streams" /></div>
+
 Bitner’s model of servicescapes (Figure 4) is generally considered to be
 relevant (Eroglu & Machleit, 2008), but, strangely enough, the empirical
 research into the role of servicescapes is relatively limited (Turley &
@@ -2585,7 +2616,7 @@ expansions, forms a promising framework for analysing service encounters
 and helping retailers to find answers to pressing questions on renewal
 of their business.
 
-# End notes {.notes}
+# Endnotes {.notes}
 
 [^1]: The following categories have been included in the consumer
     spending for this: Food/Near-food/Health, Home & Garden, Fashion:
@@ -2827,7 +2858,7 @@ fashion retail apps. *Journal of Fashion Marketing and Management*,
 Moes, A. & Van Vliet, H. 2014. *Fashion's Retail Future: resultaten
 2014*. Amsterdam: Hogeschool van Amsterdam.
 
-Moes, A. & Van Vliet,. H. (2015). *Het effect van beacons in de
+Moes, A. & Van Vliet, H. 2015. *Het effect van beacons in de
 ByAmfi Store*. Retrieved from www.marketingtribune.nl. 
 
 Molenaar, C. 2011. *Het einde van winkels? De strijd om de klant*. Den
@@ -2868,7 +2899,7 @@ Rangaswamy, A. & Van Bruggen, G. 2005. Opportunities and challenges in
 multichannel marketing: An introduction to the special issue. *Journal
 of Interactive Marketing*, spring 2005, 19, 2, pp. 5-11.
 
-Riester, J. & Van Vliet, H. *Virtual Tour byAmfi*. (Android app for
+Riester, J. & Van Vliet, H. 2014. *Virtual Tour byAmfi*. (Android app for
 Google Cardboard, released december 2014).
 
 Rijlaarsdam, B. 2013. Wek die winkelstraat tot leven. *NRC*, 23 January
