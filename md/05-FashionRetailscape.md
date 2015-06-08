@@ -121,7 +121,7 @@ Amsterdam, June 2015
 
 **ISBN** 978-94-92171-02-3 (print)
 
-**ISBN** 978-94-92171-03-0 (ePub)
+**ISBN** 978-94-92171-03-0 (epub)
 
 ![](imgs/logo_KnowledgeMile.png)
 ![](imgs/logo_ACICE.png)
