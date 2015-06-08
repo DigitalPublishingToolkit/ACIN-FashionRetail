@@ -28,6 +28,8 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
 ...
 
+# The Fashion Retailscape
+
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
 immediately whether something fits them, including when they turn
