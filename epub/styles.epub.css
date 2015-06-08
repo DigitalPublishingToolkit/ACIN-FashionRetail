@@ -223,3 +223,27 @@ section.footnotes li a {
 #endnotes {
     display: none;
 }
+
+table {
+    border: 1px #f23f4e solid;
+    border-collapse: collapse;
+    vertical-align: top;
+    font-size: 0.5em;
+}
+
+table th {
+    border-bottom: 1px #f23f4e solid;
+}
+
+table th, td {
+    border-left: 1px #f23f4e solid;
+    border-right: 1px #f23f4e solid;
+}
+
+th, td {
+    padding: 0.5em;
+}
+table .header {
+    color: #f23f4e;
+    font-family: VAGRoundedStd-Bold;
+}
