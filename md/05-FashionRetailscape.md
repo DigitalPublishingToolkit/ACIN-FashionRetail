@@ -130,17 +130,17 @@ Amsterdam, June 2015
 
 # Contents
 
-Introduction: The Fashion Retailscape
+<a href="ch006.xhtml">Introduction: The Fashion Retailscape</a>
 
-Looking Ahead
+<a href="ch007.xhtml">Looking Ahead</a>
 
-Innovations on all Fronts
+<a href="ch008.xhtml">Innovations on all Fronts</a>
 
-The Shopper
+<a href="ch009.xhtml">The Shopper</a>
 
-Cross-Media and Retail
+<a href="ch010.xhtml">Cross-Media and Retail</a>
 
-Conclusion
+<a href="ch011.xhtml">Conclusion</a>
 
 # Acknowledgements
 
@@ -807,26 +807,26 @@ a particular development for each domain in more detail.
 
 Service Domain | Technological Domain | Organisational Domain | Financial Domain
 ---  | --- | --- | ---
-_Personalisation_ | _In-Store_ | _Collaboration_ | _Payments_
+**Personalisation** | **In-Store** | **Collaboration** | **Payments**
 Customer Cards | Interactive mirrors | Outlet platforms | Alternatives
 Personalised products | Shopping walls | Affiliates | Coupons
-_Experiences_ | Interactive shop windows | _Logistics_ | _Crowd funding_
-The shop as an event | Customer tracking | Smart integrated inventory | _C2C_
-Atmospherics | 3D body scans | Smart inventory management | 
-Playful experiences | Smart hangers | Click & Collect | 
-Social experiences | Touchscreens | Stockless store | 
-_Crowdsourcing_ | Smart Garments | Pop up store | 
-Designed by customers | _Online_ | _Value Chain_ | 
-Co-creation | 3D shopping | Fast fashion | 
-&nbsp; | Virtual mirrors | Reverse supply chain | 
-&nbsp; | 3D fitting | 
-&nbsp; | _Mobile_ | 
-&nbsp; | Scanning | 
-&nbsp; | Holographic and augmented reality | 
-&nbsp; | LBS/Routing | 
-&nbsp; | _Public Space_ | 
-&nbsp; | Shopping walls | 
-&nbsp; | Public screens | 
+**Experiences** | Interactive shop windows | **Logistics** | **Crowd funding**
+The shop as an event | Customer tracking | Smart integrated inventory | **C2C**
+Atmospherics | 3D body scans | Smart inventory management | &nbsp;
+Playful experiences | Smart hangers | Click & Collect | &nbsp;
+Social experiences | Touchscreens | Stockless store | &nbsp;
+**Crowdsourcing** | Smart Garments | Pop up store | &nbsp;
+Designed by customers | **Online** | **Value Chain** | &nbsp;
+Co-creation | 3D shopping | Fast fashion | &nbsp;
+&nbsp; | Virtual mirrors | Reverse supply chain | &nbsp;
+&nbsp; | 3D fitting | &nbsp; | &nbsp;
+&nbsp; | **Mobile** | &nbsp; | &nbsp;
+&nbsp; | Scanning | &nbsp; | &nbsp;
+&nbsp; | Holographic and augmented reality | &nbsp; | &nbsp;
+&nbsp; | LBS/Routing | &nbsp; | &nbsp;
+&nbsp; | **Public Space** | &nbsp; | &nbsp;
+&nbsp; | Shopping walls | &nbsp; | &nbsp;
+&nbsp; | Public screens | &nbsp; | &nbsp;
 
 Table 1: Classification of innovations in fashion retail
 
