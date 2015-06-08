@@ -19,7 +19,7 @@
 <dc:contributor id="epub-contributor-1">Gottfried Haider (PublishingLab)</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>WTFPDL – Do What the Fuck You Want to Public Digital License</dc:rights>
-<dc:subject>TAGS, SEPARATED BY, COMAS</dc:subject>
+<!-- <dc:subject></dc:subject> -->
 <dc:description>
 In <i>The Fashion Retailscape</i> developments in (fashion) retail are
 critically analysed and enriched with insights from retailers in
