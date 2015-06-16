@@ -101,6 +101,7 @@ ul, ol, dl {
 
 section.footnotes{
     font-size:0.8em;
+    text-align: left;
 }
 
 
@@ -159,7 +160,9 @@ a:hover { color: #f23f4e;
     page-break-inside: avoid;
     }
 
-
+    .streams p {
+        text-align: center;
+    }
 
 hr {
     height: 0;

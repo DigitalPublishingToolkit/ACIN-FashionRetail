@@ -144,9 +144,11 @@ Amsterdam, June 2015
 
 # Acknowledgements
 
+***
+
 ![Fashionretailfuture.com](imgs/acknowledgements.png)
 
-***
+&nbsp;
 
 We would like to thank our fellow researchers in the cross-media
 research group at the Amsterdam University of Applied Sciences and the
@@ -167,9 +169,11 @@ store into a ‘pop-up fieldlab’.
 
 # Introduction: The Fashion Retailscape
 
+***
+
 ![Photo: Daan Verhorst](imgs/introduction.jpg)
 
-***
+&nbsp;
 
 An interactive full-length mirror that allows your customers to browse
 through an endless collection of clothing that you offer and see
@@ -211,9 +215,11 @@ these interviews.
 
 # Looking Ahead
 
+***
+
 ![Photo: *Nom&Malc](imgs/lookingahead.jpg)
 
-***
+&nbsp;
 
 ## Shopping in 2020
 
@@ -396,7 +402,9 @@ taking place about technological infrastructure, security, fraud and
 privacy, which also affect more legal principles such information
 ownership or more moral principles, such as who ‘owns’ your DNA profile.
 
-<div class="streams"><hr class="streams" />Knowing what one and the same person does online and in-store can result in a much better personalised offering<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />Knowing what one and the same person does online and in-store can result in a much better personalised offering
+
+<hr class="streams" /></div>
 
 For example, the Dutch department store the Bijenkorf in Rotterdam has
 implemented iBeacons. These small devices recognise customers when they
@@ -612,7 +620,9 @@ the retail sector. By 2011, around 22% of retailers had both a physical
 store and a webshop.
 
 <div class="streams"><hr class="streams" />The impact of online sales on physical
-shops was substantial<hr class="streams" /></div>
+shops was substantial
+
+<hr class="streams" /></div>
 
 Weltevreden (2012) concludes that the impact of online sales on physical
 shops was substantial, in addition to factors such as the economic
@@ -752,7 +762,9 @@ given.
 
 <div class="streams"><hr class="streams" />
 There is no systematic inventory of the changes currently
-taking place in the retail sector<hr class="streams" /></div>
+taking place in the retail sector
+
+<hr class="streams" /></div>
 
 In September 2013, the Cross-media research group of the Amsterdam
 University of Applied Sciences (AUAS) in collaboration with the
@@ -866,9 +878,11 @@ big task, especially when marketing budgets are limited.
 
 # Innovations on all Fronts
 
+***
+
 ![Photo: IntelFreePress](imgs/innovation.jpg)
 
-***
+&nbsp;
 
 ## Service Innovations
 
@@ -930,7 +944,9 @@ they said: “It was a million things that led to this not turning out the
 way we wanted it to.”
 
 <div class="streams"><hr class="streams" />
-Consumers do not wish to be identified when entering a store in order to be presented with a personal shopping experience<hr class="streams" /></div>
+Consumers do not wish to be identified when entering a store in order to be presented with a personal shopping experience
+
+<hr class="streams" /></div>
 
 However, research shows that only 14% of consumers want a personalised
 offering, 42% do not and 44% are undecided (Peters & Witte, 2013). Of
@@ -1193,7 +1209,9 @@ family about the products. The Snaptell app, for example, allows you to
 take a photograph of a book, CD or videogame and then shows reviews and
 ratings for the product. Purchases made by mobile phone are lagging behind somewhat; when asked if they had purchased a product via their smartphone in te last three months, only 18% of Dutch consumers said yes (DigitasLBi, 2014).
 
-<div class="streams"><hr class="streams" />As a retailer it is worth considering how to create a valuable experience for your customers with smartphones<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />As a retailer it is worth considering how to create a valuable experience for your customers with smartphones
+
+<hr class="streams" /></div>
 
 We can see comparable results in the Kilcourse & Rowen study (2014):
 one-third of customers use their mobile phone in the store and do so
@@ -1365,6 +1383,7 @@ convey the colour and texture properties returns will, for the time
 being, continue to be an important aspect of the service and the costs.
 
 <div class="streams"><hr class="streams" />Research shows that the ability to choose a fixed delivery time is the most important
+
 <hr class="streams" /></div>
 
 Although several criteria play a role in delivery, such as speed,
@@ -1566,9 +1585,11 @@ retailers are whistling in the dark.
 
 # The Shopper
 
+***
+
 ![Photo: Cees Wouda](imgs/shopper.jpg)
 
-***
+&nbsp;
 
 ## The Consumer & the Shopper
 
@@ -1813,7 +1834,9 @@ years: from search engines (*collect*) and comparison websites
 (*evaluate alternatives*) to talking on social media about purchases
 (*evaluate*).
 
-<div class="streams"><hr class="streams" />Discriminating different stages in the consuming process, possibly comes across as a compulsory, linear and rational process<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />Discriminating different stages in the consuming process, possibly comes across as a compulsory, linear and rational process
+
+<hr class="streams" /></div>
 
 Discriminating different stages in the consuming process, possibly comes
 across as a compulsory, linear and rational process. Of course, enough
@@ -1930,9 +1953,11 @@ possess a membership card.
 
 # Cross-Media and Retail
 
+***
+
 ![Photo: Anne Moes](imgs/crossmedia.JPG)
 
-***
+&nbsp;
 
 ## Channels, Channels and More Channels
 
@@ -2006,6 +2031,7 @@ important reason for a multi-channel strategy (Van Ameijden et al.,
 2012).
 
 <div class="streams"><hr class="streams" />Online orientation and offline buying – known as webrooming - are undertaken by the vast majority of consumers; offline orientation and online buying – known as showrooming – is still considerably less
+
 <hr class="streams" /></div>
 
 Each channel has its type of consumers and its motivations for using
@@ -2051,7 +2077,9 @@ decided it should create that authentic experience by using both
 physical and digital languages and use the best of both to make it an
 immersive experience.
 
-<div class="streams"><hr class="streams" />Times are difficult for the physical store<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />Times are difficult for the physical store
+
+<hr class="streams" /></div>
 
 Consumers who still only use one channel for gathering information and
 deciding to buy are becoming a minority (Stone et al., 2002; Rangaswamy
@@ -2411,7 +2439,9 @@ rooms.
 Figure 4: Bitner's model of Servicescapes[^17]
 
 
-<div class="streams"><hr class="streams" />Experiencescapes are specific spaces that are selected, designed and managed in order to create, support and correctly guide experiences<hr class="streams" /></div>
+<div class="streams"><hr class="streams" />Experiencescapes are specific spaces that are selected, designed and managed in order to create, support and correctly guide experiences
+
+<hr class="streams" /></div>
 
 Bitner’s model of servicescapes (Figure 4) is generally considered to be
 relevant (Eroglu & Machleit, 2008), but, strangely enough, the empirical
@@ -2531,9 +2561,11 @@ the strengths of the physical store: personal advice from real people.
 
 # Conclusion
 
+***
+
 ![Photo: Daan Verhorst](imgs/conclusion.jpg)
 
-***
+&nbsp;
 
 An interactive full-length mirror is just one of the many innovations
 that are currently on offer in the fashion retail sector that will
