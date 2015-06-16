@@ -89,6 +89,11 @@ figcaption{
     font-size:0.8em;
 }
 
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 ul, ol, dl {
     margin: 1em 0 1em 0;
     text-align: left;
