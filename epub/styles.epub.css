@@ -272,3 +272,9 @@ table+p, figure+p {
     /* limit the logo's height */
     height: 3em;
 }
+
+figure {
+    /* remove (default) margin for figures */
+    margin-left: 0px;
+    margin-right: 0px;
+}
